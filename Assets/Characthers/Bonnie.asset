@@ -17,10 +17,12 @@ MonoBehaviour:
   Ability2: {fileID: 0}
   Ability3: {fileID: 0}
   Ability4: {fileID: 0}
-  ablity1Text: SuperJump
-  ablity2Text: HighNote
-  ablity3Text: HappyJAM
-  ablity4Text: Destruction
+  ablity1Text: "sl\xE5r ekstra h\xE5rdt med din guitar og skader 90"
+  ablity2Text: "hopper h\xF8jt og dodgter det der skal til at ramme dig"
+  ablity3Text: "spiller p\xE5 din guitar oh healer dig og de alllirede 60 liv"
+  ablity4Text: "spiller h\xF8j musik med din guitar og skader alle dem foran dig
+    120"
   name: Bonnie
-  personality: WOAW
-  health: 100
+  personality: "ikke s\xE6rlig klog,bliver n\xE6sten aldrig sur,elsker at v\xE6re
+    sammen med venner og vil det som de vil"
+  health: 700

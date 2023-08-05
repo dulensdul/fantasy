@@ -17,10 +17,12 @@ MonoBehaviour:
   Ability2: {fileID: 0}
   Ability3: {fileID: 0}
   Ability4: {fileID: 0}
-  ablity1Text: OP
-  ablity2Text: DESTROY
-  ablity3Text: Pizza wheel
-  ablity4Text: Kopi
+  ablity1Text: kaster sin mikrofon og skader 70
+  ablity2Text: taunter en fjende som stunder en i 2 sec
+  ablity3Text: "sl\xE5r ned i jorden og skader 50 omgring sig"
+  ablity4Text: "synger en sang der f\xE5r dem som du rammer til at g\xE5 mod dig
+    langsomt i 2 sec"
   name: Freddy Fazbear
-  personality: "Freddy er ret meget freddy, eftersom at han ogs\xE5 er freddy"
-  health: 210
+  personality: han elsker at opleve noget og vil have at der altid skal ske noget
+    og kan nemt lyde sur
+  health: 800
