@@ -12,17 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: Bonnie
   m_EditorClassIdentifier: 
-  charactherPortrait: {fileID: 21300000, guid: 39e11323199402741a63789cb97ab6d3, type: 3}
-  Ability1: {fileID: 0}
-  Ability2: {fileID: 0}
-  Ability3: {fileID: 0}
-  Ability4: {fileID: 0}
-  ablity1Text: "sl\xE5r ekstra h\xE5rdt med din guitar og skader 90"
-  ablity2Text: "hopper h\xF8jt og dodgter det der skal til at ramme dig"
-  ablity3Text: "spiller p\xE5 din guitar oh healer dig og de alllirede 60 liv"
-  ablity4Text: "spiller h\xF8j musik med din guitar og skader alle dem foran dig
-    120"
-  name: Bonnie
-  personality: "ikke s\xE6rlig klog,bliver n\xE6sten aldrig sur,elsker at v\xE6re
-    sammen med venner og vil det som de vil"
-  health: 700
+  navn: 
+  charactherBillede: {fileID: 0}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: 
+  ablityWText: 
+  ablityEText: 
+  ablityRText: 
+  ablityPassiveText: 
+  personlighed: 
+  Liv: 0
+  BasicattackDamage: 0
