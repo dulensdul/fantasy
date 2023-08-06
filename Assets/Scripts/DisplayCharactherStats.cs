@@ -10,7 +10,7 @@ public class DisplayCharactherStats : MonoBehaviour
 
     public CharactherScriptableObject characther;
 
-    public new TextMeshProUGUI name;
+    public TextMeshProUGUI navn;
     public Image portrait;
     public Image abilityQ;
     public TextMeshProUGUI abilityQText;
@@ -20,28 +20,34 @@ public class DisplayCharactherStats : MonoBehaviour
     public TextMeshProUGUI abilityEText;
     public Image abilityR;
     public TextMeshProUGUI abilityRText;
+    public Image abilityPassive;
+    public TextMeshProUGUI abilityPassiveText;
 
     public TextMeshProUGUI personality;
     public TextMeshProUGUI health;
+    public TextMeshProUGUI attackDamage;
 
     public void UpdateStats(CharactherScriptableObject newCharactherData)
     {
         characther = newCharactherData;
 
-        portrait.sprite = characther.charactherPortrait;
-        abilityQ.sprite = characther.Ability1;
-        abilityW.sprite = characther.Ability2;
-        abilityE.sprite = characther.Ability3;
-        abilityR.sprite = characther.Ability4;
+        portrait.sprite = characther.charactherBillede;
+        abilityQ.sprite = characther.AbilityQBillede;
+        abilityW.sprite = characther.AbilityWBillede;
+        abilityE.sprite = characther.AbilityEBillede;
+        abilityR.sprite = characther.AbilityRBillede;
+        abilityPassive.sprite = characther.AbilityPassiveBillede;
 
-        abilityQText.text = characther.ablity1Text;
-        abilityWText.text = characther.ablity2Text;
-        abilityEText.text = characther.ablity3Text;
-        abilityRText.text = characther.ablity4Text;
+        abilityQText.text = characther.ablityQText;
+        abilityWText.text = characther.ablityWText;
+        abilityEText.text = characther.ablityEText;
+        abilityRText.text = characther.ablityRText;
+        abilityPassiveText.text = characther.ablityPassiveText;
 
-        name.text = characther.name;
-        personality.text = characther.personality;
-        health.text = characther.health.ToString();
+        navn.text = characther.navn;
+        personality.text = characther.personlighed;
+        health.text = characther.Liv.ToString();
+        attackDamage.text = characther.BasicattackDamage.ToString();
     }
 
     public void OpenUI()

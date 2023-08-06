@@ -5,21 +5,24 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Characther", menuName = "ScriptableObjects/Characther")]
 public class CharactherScriptableObject : ScriptableObject
 {
-    public Sprite charactherPortrait;
-    public Sprite Ability1;
-    public Sprite Ability2;
-    public Sprite Ability3;
-    public Sprite Ability4;
+    public string navn;
+    public Sprite charactherBillede;
+    public Sprite AbilityQBillede;
+    public Sprite AbilityWBillede;
+    public Sprite AbilityEBillede;
+    public Sprite AbilityRBillede;
+    public Sprite AbilityPassiveBillede;
 
-    public string ablity1Text;
-    public string ablity2Text;
-    public string ablity3Text;
-    public string ablity4Text;
+    public string ablityQText;
+    public string ablityWText;
+    public string ablityEText;
+    public string ablityRText;
+    public string ablityPassiveText;
+
+    
+    public string personlighed;
 
 
-    public new string name;
-    public string personality;
-
-
-    public int health;
+    public int Liv;
+    public int BasicattackDamage;
 }
