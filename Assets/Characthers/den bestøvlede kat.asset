@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: "den best\xF8vlede kat"
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: "den best\xF8vlede kat"
+  charactherBillede: {fileID: 21300000, guid: 2be5a7fe88beb2d4eb65212e971ff969, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "f\xE5r attackspeed p\xE5 20%"
+  ablityWText: "hopper op p\xE5 en fjende champ og skader 80"
+  ablityEText: river en fjende der skader fjenden 10 liv i 3sec
+  ablityRText: "charger efter en og kan g\xF8re det 2 gange mere og skader 120 med
+    det f\xF8rste slag n\xE5r du bruger den her ult"
+  ablityPassiveText: "rammer automatisk bedre jo mere de lade dig sl\xE5 dem,det
+    med du rammer bedre vil laves om til normal n\xE5r du g\xE5r v\xE6k fra kampen"
+  personlighed: "den best\xF8vlede kat er meget selvsikker,kendt som den reroiske
+    helt,han er ogs\xE5 meget egoistisk"
+  Liv: 700
+  BasicattackDamage: 50

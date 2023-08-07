@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: dulcinea
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: dulcinea
+  charactherBillede: {fileID: 21300000, guid: 39db1589e2760a94486c1092cc912686, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "g\xF8re sig nuttet og stunder fjenden i 2sec"
+  ablityWText: "kontrolere en fjende der kommer t\xE6t p\xE5 dig og vare i 2 sec"
+  ablityEText: "tager et sv\xE6rd frem og skader 60"
+  ablityRText: "giver dig selv rusning p\xE5 og et guld sv\xE6rd hvor du f\xE5r 40%
+    af alt i 5 sec"
+  ablityPassiveText: "skader 10% mere p\xE5 dem der ikke har bukser p\xE5"
+  personlighed: "dulen virker ret flink,men s\xE5 snart man har kendt hinde l\xE6nge
+    nok ved man at hun er lidt magt gr\xE5dig,hun har infeseret flere personer i
+    alt nu,og flere videnskabs labatorere pr\xF8ver at finde en kur p\xE5 det,nogen
+    tyder p\xE5 at det ikke er sikkert at man kan kurere det fordi man mener at darthjacob
+    har skabt hinde,men man er ikke 100% sikker"
+  Liv: 580
+  BasicattackDamage: 40

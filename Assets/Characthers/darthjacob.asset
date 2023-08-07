@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: darthjacob
+  m_EditorClassIdentifier: 
+  navn: darthjacob
+  charactherBillede: {fileID: 21300000, guid: b3eb8f7264193f3409382636fb39ca2a, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder en ildkugle som flyver hurtigt ind i fjenden og forf\xF8lger
+    indtil den rammer og skader 120"
+  ablityWText: 'giver dig mere og mere %skjold jo mere dmg du tager '
+  ablityEText: "skyder med gult str\xF8m der skader 100 og g\xF8re din fjende langsom
+    p\xE5 sammentid og rammer uanset hvad"
+  ablityRText: "kopiere 3 af dig selv som bruger de samme angreb p\xE5 fjenden som
+    du bruger p\xE5 fjenden og de skader det samme som dig,men de d\xF8r p\xE5 et
+    slag eller skud hvis di fjende rammer dem"
+  ablityPassiveText: "du f\xE5r 10% mere stats permenent fra hver eneste kill du
+    f\xE5r"
+  personlighed: "darthjacob er nummer 2 st\xE6rkest magt i hele fantasis historie,han
+    er meget overf\xF8lsom,lidt sindsyg,han kan v\xE6re meget ond ved dem der har
+    brutale opf\xF8rsler og tager det meget alvorligt n\xE5r de er mega sure,hans
+    bedste ven er elias som er en af de eneste der kan se det gode i ham,darthjacob
+    er parnoid"
+  Liv: 700
+  BasicattackDamage: 20

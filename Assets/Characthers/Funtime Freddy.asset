@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: Funtime Freddy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: funtime freddy
+  charactherBillede: {fileID: 21300000, guid: eee66cda3a5cd6d4b87300b2b0ec459d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: kaster med bonbon og skader 100 hvis den rammer
+  ablityWText: tager en pistol frem og skyder en fjende champ og skader120
+  ablityEText: "hans h\xF8jre h\xE5nd bliver st\xE6rker og skader 90"
+  ablityRText: "bonbon bliver sindsyg og forlader din h\xE5nd og begynder at smadre
+    l\xF8s p\xE5 alt der skader 40 i hurtigt tempo,men bliver bange n\xE5r den er
+    ved at d\xF8 og l\xF8ber tilbage til dig igen,den har 200 liv"
+  ablityPassiveText: "hvis de dr\xE6ber bonbon helt f\xE5r du 20% dmg og mommentspeed
+    indtil du selv d\xF8r"
+  personlighed: "funtime freddy er meget m\xE6rkelig,han elsker at smadre bonbon,de
+    fleste ser ham som enten lidt sindsyg eller som en s\xE6rling"
+  Liv: 680
+  BasicattackDamage: 50
