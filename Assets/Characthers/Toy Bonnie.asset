@@ -12,18 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: Toy Bonnie
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: toy bonnie
+  charactherBillede: {fileID: 21300000, guid: b12e9b78a74f234419a75248dde4d9b4, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skaber en levene robotmund minion der skader fjenden 30 for hvergang
+    den bider ham/hinde,minnionen har 50 liv
+  ablityWText: "bygger skyde totems der skader 50 og har 120liv og er der indtil
+    de d\xF8r eller l\xF8ber ud om 8sec,den du skader g\xE5r de efter hvis de er
+    t\xE6t p\xE5 nok"
+  ablityEText: skyder med en laser gun der skader 70 og stunder i 1sec
+  ablityRText: "bygger en k\xE6mpe skydetotem der skader 200 og har 700liv,den d\xF8r
+    af at miste alle livne eller hvis den har st\xE5et der i 4sec"
+  ablityPassiveText: "f\xE5r 10 guld for hvergang dine t\xE5rne bliver dr\xE6bt af
+    en champ"
+  personlighed: "toybonnie elsker sit job om at hj\xE6lpe robotter der er i n\xF8d
+    men hans metoder p\xE5 det er lidt sindsyge,han er mega klog,arbejder for darthjacob
+    og f\xE5r mange penge af det hver m\xE5ned"
+  Liv: 660
+  BasicattackDamage: 45

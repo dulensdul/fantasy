@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: goldenfreddy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: goldenfreddy
+  charactherBillede: {fileID: 21300000, guid: 9c64f4ca59c711842be1b950fb0e4c8d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "lasersyn,skyder oppe og nede i lang l\xE6ngdte skader 90 n\xE5r den
+    rammer"
+  ablityWText: "skyder med et freddy sp\xF8gelse der rammer den retning ligeud din
+    champion kigger ved og skader 40 og stunder 1 sec"
+  ablityEText: teleportere lidt langt ligesom ahri,hvis du teleportere dig ind i
+    en fjende champ skader det ham/hinde 60
+  ablityRText: "teleportere dig hvor du vil i mappet,hvis dine venner st\xE5r p\xE5
+    din teleportring kommer de med"
+  ablityPassiveText: "hvis du rammer med dit w 3 gange i tr\xE6k p\xE5 fjenden vil
+    fjenden se noget der ikke er der i 3sec"
+  personlighed: "goldenfreddy er den st\xE6rkste i fnaf 1 fantasy,vil k\xE6mpe for
+    sin famile n\xE5r det bliver n\xF8dvendigt,er ret doven,elsker at se tv"
+  Liv: 720
+  BasicattackDamage: 45

@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: Bonnie
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bonnie
+  charactherBillede: {fileID: 21300000, guid: 39e11323199402741a63789cb97ab6d3, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt med sin guitar og skader 90"
+  ablityWText: hopper up og parere det der skal til at ramme dig
+  ablityEText: "happyjam,healer dig selv 80 liv,hvis dine venner er vedsiden af dig
+    healer du ogs\xE5 dem og der selv men vil kun v\xE6re 50 liv"
+  ablityRText: "basjam,skyder langt men kun lige ud i din foran retning og skader
+    120 p\xE5 dem der st\xE5r foran dig"
+  ablityPassiveText: "hvis du f\xE5r lov til at sl\xE5 din fjende 3 gange i tr\xE6k
+    fjener det din coldown p\xE5 dit q angreb"
+  personlighed: "bonnie er ikke s\xE6rlig klog,han er meget \xE5ben for andre,han
+    bliver kun glader af at der kommer flere"
+  Liv: 700
+  BasicattackDamage: 60

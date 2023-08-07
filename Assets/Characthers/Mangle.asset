@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: Mangle
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: mangle
+  charactherBillede: {fileID: 21300000, guid: fdb940309335f5a4d9bcdb0c28f392e0, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "giver dig mommentspeed p\xE5 40% og skader 10 ekstra liv med din
+    basic attack hvis du n\xE5r at ramme dem imens dit q er oppe"
+  ablityWText: "kravler under jorden og hvis du n\xE5r at ramme en fjende n\xE5r
+    du kommer op bliver fjenden stundet i 1sec og skader 70"
+  ablityEText: "kravler oppe p\xE5 fjende t\xE5rnet og skader 50%mere p\xE5 t\xE5rnet
+    in hvis du ikke var oppe p\xE5 den"
+  ablityRText: "f\xE5r 100% mommentspeed i meget langtid og giver dig 40%attackspeed
+    oveni"
+  ablityPassiveText: "sl\xE5r langsomt hurtigere og hurtigere  jo l\xE6nger tid du
+    sl\xE5r l\xF8s p\xE5 en minnion eller p\xE5 en monster kamp"
+  personlighed: "mangle er den mindst dullet af dem alle,hun elsker at k\xF8re i
+    bus,"
+  Liv: 580
+  BasicattackDamage: 60

@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: toy freddy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: toy freddy
+  charactherBillede: {fileID: 21300000, guid: c08805a3792eb2344ac0d8129fdc91ed, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: kaster en prop efter din fjende og slader 90 hvis den rammer
+  ablityWText: spiser en burger og healer dig 80 liv
+  ablityEText: "du kan skubbe din fjende champ tilbage med din mave n\xE5r championen
+    er t\xE6t p\xE5 dig og skader 50"
+  ablityRText: "taler om regler,alle fjende championsne der st\xE5r der imens du
+    g\xF8re det vil blive stunnet i 3sec,men du kan ikke r\xF8re dig i den tid selv,hvis
+    du misser dit ult sker der bare ikke noget"
+  ablityPassiveText: "du vil f\xE5 20 guld mere af en minnion hvis du har noget at
+    f\xE5 killet af minnionen 4 gange i tr\xE6k"
+  personlighed: "toy freddy er medlem har the dark lands alliancen,han elsker at
+    tale om regler og h\xE5ndh\xE6ve dem,han bliver sur hvis man bryder hans regler"
+  Liv: 710
+  BasicattackDamage: 50

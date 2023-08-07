@@ -12,17 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: Freddy
   m_EditorClassIdentifier: 
-  charactherPortrait: {fileID: 21300000, guid: 94d777955dfbf264f87d337c92ec8bae, type: 3}
-  Ability1: {fileID: 0}
-  Ability2: {fileID: 0}
-  Ability3: {fileID: 0}
-  Ability4: {fileID: 0}
-  ablity1Text: kaster sin mikrofon og skader 70
-  ablity2Text: taunter en fjende som stunder en i 2 sec
-  ablity3Text: "sl\xE5r ned i jorden og skader 50 omgring sig"
-  ablity4Text: "synger en sang der f\xE5r dem som du rammer til at g\xE5 mod dig
-    langsomt i 2 sec"
-  name: Freddy Fazbear
-  personality: han elsker at opleve noget og vil have at der altid skal ske noget
-    og kan nemt lyde sur
-  health: 800
+  navn: freddy fazbear
+  charactherBillede: {fileID: 21300000, guid: 94d777955dfbf264f87d337c92ec8bae, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: kaster sin mirkofon og skader 70
+  ablityWText: taunter en fjende der taunter dem i 1 sec
+  ablityEText: "sl\xE5r ned i jorden og skader 60 af de fjender der er lidt t\xE6t
+    p\xE5 dig og omgring dig"
+  ablityRText: taunter alle omkring dig og vare i 1 sec
+  ablityPassiveText: "jo mere skade han f\xE5r jo mere sur bliver han og skader 1dmg
+    mere i hans bacsis attack"
+  personlighed: freddy er glaf for eventyr,bliver nemt sur,lederen af freddysne
+  Liv: 800
+  BasicattackDamage: 40
