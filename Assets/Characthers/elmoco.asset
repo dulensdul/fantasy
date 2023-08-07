@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: elmoco
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: elmoco
+  charactherBillede: {fileID: 21300000, guid: e7778b5c2ce9201489089af9d5ec23a9, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "f\xE5r 10%mindre attackspeed og 10% mere"
+  ablityWText: parrere fysisk dmg
+  ablityEText: "f\xE5r krumsablen og skader 70 i bacsis attack istedenfor 60,men
+    kun i 4sec"
+  ablityRText: "styre en k\xE6mperobot  der g\xF8re alle dine abilitys st\xE6rker
+    med 50%/ludl\xF8ber n\xE5r du har v\xE6ret den i 5 sec"
+  ablityPassiveText: "giver de andre minions fear for hvergang du har f\xE5et et
+    minion kill,og de er fear i 1sec"
+  personlighed: "det udtales \xE6d muk din ko"
+  Liv: 750
+  BasicattackDamage: 60

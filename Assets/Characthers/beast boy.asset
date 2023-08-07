@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: beast boy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: beastboy
+  charactherBillede: {fileID: 21300000, guid: 1827be06be2757941baa998a37540458, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "forvandler dig til en tiger hvor du f\xE5r 20%attackspeed og 40%mommentspeed"
+  ablityWText: "forvandler dig til en bj\xF8rn hvor du bliver mere tanki hvor du
+    har 800liv istedenfor 600"
+  ablityEText: "forvandler dig til en elefant hvor du g\xE5r mega langsomt,men f\xE5r
+    100%mere dmg"
+  ablityRText: "forvandler dig til en gorilla hvor du f\xE5r 200max liv,og f\xE5r
+    200 bacsis attack dmg"
+  ablityPassiveText: "hvis du ikke har v\xE6ret et dyr i meget langtid f\xE5r du
+    enegy bonus"
+  personlighed: "beast boy er meget doven,han er liges\xE5 irriterende som chica,han
+    er ikke s\xE6rlig klog,"
+  Liv: 600
+  BasicattackDamage: 40

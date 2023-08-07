@@ -12,18 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: anduin
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: anduin
+  charactherBillede: {fileID: 21300000, guid: 6411adfffbb057d4c95009cab3974a5d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en stor healingstr\xE5le der flyver langt lige ud,hvis
+    den rammer dine venner bliver de healet 85 liv"
+  ablityWText: kan give endten dig eller en af dine venner et skjold der tager skaden
+    istedenfor deres liv,giver 50 beskyttelse
+  ablityEText: skyder en rund ring lige ud der hvor du kigger,hvis den rammer skader
+    det fjenden 30liv og stunder fjenden 1sec
+  ablityRText: "laver en k\xE6mpe ud\xF8delighedsskjold hvor alle dem der er inde
+    i den som dig og dine venner kan ikke d\xF8 og vare i 6sec,men du kan ikke r\xF8re
+    dig imens du har ultet oppe,fjenderne kan ikke g\xE5 ind i skjoldet"
+  ablityPassiveText: "giver 30 dmg p\xE5 en fjende champ hvis du har skudt 3 bacsis
+    attack p\xE5 fjenden 3 gange lige efter hindaen"
+  personlighed: "anduin kan godt lide n\xE5r der er lys,nogen synes at han ligner
+    meget prins charming,han er en af de bedste konger man vil kunne f\xE5 i fantasy
+    planeten"
+  Liv: 580
+  BasicattackDamage: 25

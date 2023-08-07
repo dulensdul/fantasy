@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: batman
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: batman
+  charactherBillede: {fileID: 21300000, guid: 85de42993fc7eac47b68972f1781dbf8, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt med din h\xE5nd som skader 80"
+  ablityWText: sparker fjenden der skader 80
+  ablityEText: parere fysisk dmg og skad fjenden 70 bagefter
+  ablityRText: kommer ind i batbilen og skyder en misil der skader 170
+  ablityPassiveText: "kommer nogen gange r\xF8g der d\xE6kker dig tilf\xE6ldigt hvor
+    fjenden ikke kan g\xF8re dig noget n\xE5r du er i r\xF8gen,r\xF8gen forsvinder
+    igen n\xE5r den har v\xE6ret der i 3 sec"
+  personlighed: "batman er ikke en rigtig helt,han dr\xE6ber skurkene helt for det
+    meste,han g\xE5r mere op i h\xE6vn in han g\xE5r op i retf\xE6rdighed,han er
+    ofte v\xE5gen om natten"
+  Liv: 700
+  BasicattackDamage: 50

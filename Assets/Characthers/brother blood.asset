@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: brother blood
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: brother blood
+  charactherBillede: {fileID: 21300000, guid: ad81a344c4939a54faa731cce5073c1e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
+  ablityQText: "parere skud tilbage p\xE5 fjenden selv"
+  ablityWText: dodger fysisk dmg
+  ablityEText: "sl\xE5r fjenden langtv\xE6k og skader 70 og stunder fjenden i 2 sec"
+  ablityRText: "hypnotusere en fjende champ hvor du f\xE5r fjenden til at angribe
+    sit eget hold i 8sec"
+  ablityPassiveText: skyder nogen gange en laser skud der skader 70 hvis den rammer
   personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  Liv: 700
+  BasicattackDamage: 40

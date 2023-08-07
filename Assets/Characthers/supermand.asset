@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: supermand
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: supermand
+  charactherBillede: {fileID: 21300000, guid: cc104fb4a75434d4d8ff484d4d6d1cc5, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med laser\xF8jne og skader 120 hvis det rammer fjenden"
+  ablityWText: puster is ud af munden der skader fjenden 50 stunder fjenden i 1sec
+    og efter det bliver fjenden 10% langsommer i 1sec
+  ablityEText: "smider en minion ind i fjenden og skader fjenden 70 og g\xF8re fjenden
+    20%langsommer i 1sec"
+  ablityRText: "flyver ind i en champ fjende lynhurtigt og sl\xE5r l\xF8s p\xE5 fjenden
+    som skader 300 i alt og fjenden bliver ogs\xE5 stundet ind til at de 300dmg er
+    ankommet"
+  ablityPassiveText: "bliver lidt hurtigere i mommenspeed for hvergang der er g\xE5et
+    10 secundter som kun vare til 0.1sec"
+  personlighed: "superman er en af de mest opste helte,og batman kan \xE5benbart
+    ikke lide ham,han elsker at hj\xE6lpe folk"
+  Liv: 800
+  BasicattackDamage: 60
