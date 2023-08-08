@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jokeren
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jokeren
+  charactherBillede: {fileID: 21300000, guid: eefecb44ed7943241a5463bcf3876d6b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol der skader 100
+  ablityWText: kaster kort efter fjenden og skader 70
+  ablityEText: "skyder med blomsten der sidder p\xE5 blusen med noget syre efter
+    fjenden der skader 80"
+  ablityRText: skyder med en bashuka efter fjenden og skader 200
+  ablityPassiveText: "hvergang du f\xE5r en minion kill f\xE5r du 10% attacksped
+    i 2sec"
+  personlighed: "jokeren griner af alting n\xE6rmest,han er ret sindsyg,han kan godt
+    lide at drille batman"
+  Liv: 620
+  BasicattackDamage: 50

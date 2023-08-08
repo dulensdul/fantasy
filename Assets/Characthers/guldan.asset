@@ -12,18 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: guldan
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: guldan
+  charactherBillede: {fileID: 21300000, guid: af34b8c2bc7493c48a4d686ae1aae3eb, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyd en felbolt der skader 120
+  ablityWText: "skyder med en gr\xF8n felstr\xE5le der skader din fjende 10 mega
+    hurtigt,og healer dig 10%liv"
+  ablityEText: "skyder med noget shadowfel hvor der kommer 3 runderinge som st\xE5r
+    p\xE5 den samme m\xE5de som dem i olsenbanden g\xF8re,jo flere af dem fjenden
+    rammer jo mere skader den,s\xE5 hvis fjenden kun bliver ramt af den af dem er
+    det kun 20dmg,2 af dem er det 40dmg,3 af dem er det 100"
+  ablityRText: "skyder med ildkuglefel regen som skader 100 hvis man kun er ramt
+    en gang,men skader mere jo mere man bliver ramt og ender med at skade helt op
+    til 500liv hvis man slet ikke n\xE5r at komme v\xE6k fra det"
+  ablityPassiveText: "for hvergang du mister mana kan du klikke p\xE5 passiv angrebet
+    for at f\xE5 fuld mana igen,men koster ogs\xE5 20% af dit liv"
+  personlighed: "guldan er syg i hoved,han er mega op,han er s\xE5 op at elias synes
+    at han er lidt d\xE5rligt lavet,hvorfor monXD"
+  Liv: 600
+  BasicattackDamage: 20

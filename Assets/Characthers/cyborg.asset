@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: cyborg
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: cyborg
+  charactherBillede: {fileID: 21300000, guid: a5e453d5e2967d94ab129ee82579883d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "former din h\xE5nd som en kanon og skader fjenden 90"
+  ablityWText: "der kommer en boxeh\xE5nd ud af din mave der sl\xE5r fjenden der
+    sl\xE5r ham lidt tilbage og skader 70"
+  ablityEText: "bruger en jeckpack hvor du f\xE5r 100% mommentspeed i 3sec"
+  ablityRText: "kommer med en k\xE6mpe kanon,n\xE5r den rammer en fjende skader den
+    230"
+  ablityPassiveText: 60
+  personlighed: cyborg er faktisk den som er mindst sindsyg i de nye teentitans episoder,nogen
+    gange er han mega dum og nogen gange er han mega klog
+  Liv: 700
+  BasicattackDamage: 50

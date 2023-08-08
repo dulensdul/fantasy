@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: genn gremany
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: genn gremany
+  charactherBillede: {fileID: 21300000, guid: d9ff33db281722c45baac6efdc1708af, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med giftige posions der skader fjenderne 70
+  ablityWText: giver dig selv 50% attackspeed der vare i 4sec
+  ablityEText: "forvandler dig til en worgen hvor du springer p\xE5 dem oveni hvor
+    du f\xE5r worgen abilitys som skader mere in hvis du var menneske,du har s\xE5
+    ikke noget at skade i afstand n\xE5r du er worgen"
+  ablityRText: "bliver en worgen og springer p\xE5 fjenden og skader fjenden 200
+    og stunder dem 3sec"
+  ablityPassiveText: "giver dig 10% mere speed i 2 sec for hvergang du g\xF8re dig
+    til menneske igen"
+  personlighed: "genn greemany er en general i stormwind,han er stor fjende for sylvanas
+    men hun er ogs\xE5 den v\xE6rste s\xE5 irriterende \xF8jjjjjjj!"
+  Liv: 658
+  BasicattackDamage: 60

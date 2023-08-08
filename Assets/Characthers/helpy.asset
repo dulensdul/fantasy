@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: helpy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: helpy
+  charactherBillede: {fileID: 21300000, guid: 7fa766848fbc2644eaccb12010c7891e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "frostbolt:skader fjenden 70 og g\xF8re fjenden 30% langsommer i 2sec"
+  ablityWText: laver et frost  skjold som tager skaden istedenfor du bliver skadet,skjoldet
+    har 100 liv
+  ablityEText: "skyder med frost nova der skader 30 p\xE5 fjenden og rooter fjenden
+    i 3sec"
+  ablityRText: skyder med is frostspell hvor du laver championen om til en isklump
+    hvor fjenden er stundet i den i 3sec og imens han er isklumpen skader dine abilitys
+    fjenden 30% mere
+  ablityPassiveText: allle dem der er en ting skader du 20% mere
+  personlighed: "den m\xE6gtiske helpy her g\xE5r meget op i magiere,han kan ogs\xE5
+    lide andre magikere men hader magi skurke,han er neutral og er gode venner med
+    fnaf landet"
+  Liv: 550
+  BasicattackDamage: 45

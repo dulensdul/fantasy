@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: green lantern
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: green lantern
+  charactherBillede: {fileID: 21300000, guid: 0320ee75ffe04ad41b68897030160c60, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "laver din h\xE5nd om til en hammer og skader fjenden 70"
+  ablityWText: "laver dine begge h\xE6nder til et k\xE6mpe skjold der blockere dmg
+    i 2sec"
+  ablityEText: "skyder med en gr\xF8n laser ud af din ring og skader fjenden 90"
+  ablityRText: "tag din fjende champ og fly op og sl\xE5 ham h\xE5rdt ned i jorden
+    der skader 200 og stunder fjenden i 2sec"
+  ablityPassiveText: "kan teleportere hurtiger tilbage in alle de andre champs,der
+    hvor man k\xF8ber items"
+  personlighed: "kender ham ikke s\xE5 godt,\xF8v yougurt"
+  Liv: 620
+  BasicattackDamage: 50

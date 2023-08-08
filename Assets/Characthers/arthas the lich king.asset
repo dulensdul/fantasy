@@ -12,18 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: arthas the lich king
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: arthas the lichking
+  charactherBillede: {fileID: 21300000, guid: 0d9aa1559e747474587d2a53db0f0dce, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en unholyspell og skader fjeden 70 og healer dig 90 p\xE5
+    sammentid"
+  ablityWText: "sl\xE5r med din frostmoune og skader 120"
+  ablityEText: "laver en aoi ring rundt om dig,hvis fjenden bliver ramt skader det
+    fjenden 20 i seckuntet og g\xF8re fjenden 50% langsommer,du mister tilgeng\xE6len
+    hurtigt mana af at den er akitiveret"
+  ablityRText: "stikker din frostmoune ned p\xE5 jorden og f\xE5r sindragosa som
+    er en k\xE6mpe isdrage der skyder lige ud helevejen til fjendens hovedbase,fjenderne
+    der bliver ramt bliver skadet 200 og bliver 40% langsommer i 2sec,den stunder
+    ogs\xE5 det f\xF8rste t\xE5rn den rammer i 3sec hvor i bare kan sl\xE5 l\xF8s
+    p\xE5 den uden den kan g\xF8re noget i den tid"
+  ablityPassiveText: hver 3 bacsis attack slag healer dig 10% liv
+  personlighed: "startet som en god prins, men kom i en vanskelig sitirasion hvor
+    helebyen bliv infeseret af malganis hvor uther hvor dum og ikke gad at hj\xE6lpe
+    s\xE5 begrund af ham tog han frostmoune for at besjere malganis men bliv selv
+    mega ond,og en stor trusel mod verdnen"
+  Liv: 800
+  BasicattackDamage: 60

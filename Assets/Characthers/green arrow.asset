@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: green arrow
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: green arrow
+  charactherBillede: {fileID: 21300000, guid: 81b8d0d530a3dc94f9f472937a3a672d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med pile der skader 70 og g\xF8re din fjende 30% mere langsom
+    i 2sec"
+  ablityWText: "skyder pille ned p\xE5 jorden hvor det skader fjenden at st\xE5 p\xE5
+    det som skader 40 liv"
+  ablityEText: skyder en pil der flyver hurtigt mod fjenden som skader 50 og stunder
+    3sec
+  ablityRText: "skyder en bumbepil p\xE5 din fjende og skader 200"
+  ablityPassiveText: "det 3 bacsis attack skud du skyder s\xF8ger for at dit 3 bacsis
+    skud skader 30 liv mere"
+  personlighed: "green arrow har meget selvtihed og virker flink nok mod de fleste,han
+    konkoere med zatanna fordi de begge er liges\xE5 probolere og de begge vil gerne
+    v\xE6re den mest probolere og synes der kun kan v\xE6re en "
+  Liv: 580
+  BasicattackDamage: 60

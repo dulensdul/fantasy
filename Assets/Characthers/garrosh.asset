@@ -12,18 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: garrosh
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: garrosh
+  charactherBillede: {fileID: 21300000, guid: 6a24bfa0925acb045ad38a9c0a18da27, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5 ned i jorden med din \xF8kse som skader fjenden 40 liv,hvis
+    du rammer lige der hvor fjenden er n\xE6sten ude stunder den ogs\xE5 i 1sec"
+  ablityWText: "sl\xE5r h\xE5rdt p\xE5 fjenden med din \xF8kse hvor du skader 50
+    og healer dig selv 50"
+  ablityEText: "tr\xE6kker en fjende der er lidt langt v\xE6k eller t\xE6t p\xE5
+    dig t\xE6tter p\xE5 dig,du kan ogs\xE5 tr\xE6kke dem v\xE6k fra dig s\xE5 du
+    kan b\xE5de hj\xE6lpe de andre med at dr\xE6be fjenden eller bruge den til save"
+  ablityRText: "bladestorm,du drejer dig hurtigt rundt hvor alt der er bare lidt
+    v\xE6k eller t\xE6t p\xE5 bliver skadet 100 og bliver 30% langsommer,du kan bruge
+    den 2 gange mere og har liges\xE5 lidt cooldown som en af de noramle abilitys"
+  ablityPassiveText: "giver dig mere armor for jo mindre liv du har som s\xF8ger
+    for at fjenderne skader mindre p\xE5 dig med alt det de bruger"
+  personlighed: "garrosh er kendt som en der var gr\xE5dig og duminerene,men en meget
+    nice charikter"
+  Liv: 850
+  BasicattackDamage: 40
