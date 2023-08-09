@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: malfurion
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: malfurion
+  charactherBillede: {fileID: 21300000, guid: 641b13cd986176e40995d135aee48c54, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: healer 30 liv i 3 secundtet
+  ablityWText: "laver en rund ring der skader fjenden 30 plus fjenden bliver stundet
+    i 2sec og der kommer ogs\xE5 en tr\xE6mand minion med 100 liv der skader 30"
+  ablityEText: "skyder med en druidspell som skader 30,efter det bliver fjenden ogs\xE5
+    skadet 10 over tid s\xE5den i 7sec"
+  ablityRText: "healer 100 liv i seckundtet,healing ringen stopoer n\xE5r der er
+    g\xE5et 6sec"
+  ablityPassiveText: "du kan klikke p\xE5 din passiv hvor du kan give din venne champ
+    30% mana"
+  personlighed: som vil alle ved er at malfurion er en nightelf,men han siger ikke
+    isnulular
+  Liv: 580
+  BasicattackDamage: 30

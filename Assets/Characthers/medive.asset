@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: medive
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: medive
+  charactherBillede: {fileID: 21300000, guid: a619d24c95aa849459f1e66ac120b506, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en arcanebolt der skader 80
+  ablityWText: "laver et ud\xF8dligheds skjold til dig eller en venne champ i 1sec"
+  ablityEText: "laver en portal som kan teleportere en lidt langt v\xE6k eller lidt
+    t\xE6tter p\xE5,alle dine venne champ kan g\xE5 ind i den og blive teleporteret,portalen
+    st\xE5r der i 2sec"
+  ablityRText: "skyder med en k\xE6mpe arcanespell som er s\xE5 stor at man ikke
+    kan ung\xE5 at blive ramt,stunder dem alle i 3sec"
+  ablityPassiveText: "dit q bliver st\xE6rker permenent n\xE5r du har rammer champs
+    med den,du kan allerede bruge den om et sekundt n\xE5r den rammer champs,det
+    er en dmg mere dit q f\xE5r for at ramme en champ med den og bliver en mere hvis
+    du rammer 2 champs"
+  personlighed: rigtig OP men what han var irriterende i gmod historien
+  Liv: 590
+  BasicattackDamage: 40

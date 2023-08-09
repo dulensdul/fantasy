@@ -12,18 +12,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ragnaros
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ragnaros
+  charactherBillede: {fileID: 21300000, guid: 5950e7c35a005874889465e181a5c74e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r med dit v\xE5ben og skader 120 plus 50 p\xE5 dem der st\xE5r
+    t\xE6t p\xE5 ham du slog"
+  ablityWText: "laver en flamme under dig hvor du f\xE5r 50% mommentspeed,4sec vil
+    den udl\xF8be og n\xE5r den har gjort det vil det slutte af med at du skader
+    fjenderne som din ring rammer 50"
+  ablityEText: skyder med en ildbolt der triller meget langt som skader 40 i seckundtet,hvis
+    fjenden bliver ramt af den i langtid kan det ende med at den har i alt skadet
+    200
+  ablityRText: "laver en stor magtfuld flamme p\xE5 jorden der k\xF8re i hele lanen
+    indtil den har ramt hovedbasen og den skader 100 i seckundtet og op til 500 hvis
+    fjenden st\xE5r l\xE6nge nok p\xE5 det,du v\xE6lger selv hvilken lan den skal
+    komme i og du kan g\xF8re det uanset hvor du st\xE5r"
+  ablityPassiveText: "hvis du st\xE5r ved et t\xE5rn der er helt d\xF8d kan du g\xF8re
+    dig til en ragnaros t\xE5rn hvor du er den i 6sec,du f\xE5r en q hvor du svinger
+    med dit v\xE5ben hvor dem der rammes skades 100 og stundes i 2sec,w som er ildkugler
+    du kaster rundt om kring,hvis de rammer skader en kugle 70 og g\xF8re dem 50%
+    langsommer,e g\xF8re bare det samme som dit e g\xF8re n\xE5r du bare er den normale
+    ragnaros"
+  personlighed: "den mest ustoppeligste skurk der findes i fantasy historien,han
+    er s\xE5 OP at selv darthjacob ikke kan vinde over ham,han er liges\xE5 ond som
+    deathwing"
+  Liv: 750
+  BasicattackDamage: 55

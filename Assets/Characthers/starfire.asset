@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: starfire
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: starfire
+  charactherBillede: {fileID: 21300000, guid: 872e5da319a248b44834e8912df6cec9, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med gr\xF8nne lasersyn som hvis de rammer skader de 90"
+  ablityWText: "flyver h\xE5rdt ind i en fjende og skader 90"
+  ablityEText: "sl\xE5r med en superstyrke som skader 90"
+  ablityRText: "sl\xE5r fjenden ned i jorden og skader 200"
+  ablityPassiveText: "der kommer en tilf\xE6ldighed hvor du f\xE5r 10% mommentspeed
+    i 1sec"
+  personlighed: "starfire er faktisk den ondeste af titansne,hun har flere gange
+    dr\xE6bt skurke helt,hun har ogs\xE5 v\xE6ret ved at dr\xE6be robin flere gange"
+  Liv: 660
+  BasicattackDamage: 50

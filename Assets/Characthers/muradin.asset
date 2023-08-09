@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: muradin
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: muradin
+  charactherBillede: {fileID: 21300000, guid: dcc8739ca5ed4c24da9e463be4e8473e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "kaster med din k\xF8lle hvor den flyver mega hurtigt mod den retning
+    du kigget,hvis den rammer en fjende skader det fjeden 70 og fjenden bliver stundet
+    1sec"
+  ablityWText: "tramper p\xE5 jorden h\xE5rdt og skader 50 rundt om dig og g\xF8re
+    dine fjender 50% langsommer"
+  ablityEText: "hopper frem af og du hopper okay langt cirka ligs\xE5 langt som jax,hvis
+    du hopper in i en fjende skader det 50 og g\xF8re fjenden 20% langsommer"
+  ablityRText: "g\xF8re dig meget tanki hvor dit max liv er 500 h\xF8jre in f\xF8r
+    i 6sec"
+  ablityPassiveText: den 3 bacsis attack du rammer med stunder fjenden i 1sec
+  personlighed: "sur m\xE6lk sur m\xE6lk"
+  Liv: 800
+  BasicattackDamage: 40
