@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: thrall
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: thrall
+  charactherBillede: {fileID: 21300000, guid: 0883a13a558f33a40a51456364371626, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en lightningbolt der skader 70,den spreder sig p\xE5 andre
+    fjender der er t\xE6t p\xE5 fjenden du skyd og skader de andre 50 ved det"
+  ablityWText: "skyder med en sp\xF8gelseulv,skader fjenden 50 og stunder fjenden
+    i 1sec"
+  ablityEText: "giver dig 20% attackpeed og 20% mommentspeed,du har buffen indtil
+    du har sl\xE5et en,skader 200 n\xE5r du har sl\xE5et en"
+  ablityRText: "skyder med en stor volcan jord der sl\xE5r fjenderne til hver sin
+    side,skader 120,og stunder dem i 2sec"
+  ablityPassiveText: "healer sig 80 liv for hvergang du har sl\xE5et en med dit e,men
+    sker kun n\xE5r du har brugt den flere gange hvergang"
+  personlighed: uuuups der sagde jeg vist AHOHOHO
+  Liv: 720
+  BasicattackDamage: 50
