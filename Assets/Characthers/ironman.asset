@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ironman
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ironman
+  charactherBillede: {fileID: 21300000, guid: 2043ec889b90f2c438f6c9c39687d7da, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en bl\xE5 laser ud af din h\xE5nd der skader 100"
+  ablityWText: "flyver hvor du f\xE5r 100% mommentspeed i 2sec"
+  ablityEText: skyder ned eb tyk laser ud af din mave der skader 120
+  ablityRText: "flyver og taager fjenden og flyver ham h\xE5rdt ned i jorden der
+    skader fjenden 210,og stunder fjenden i 3sec"
+  ablityPassiveText: "hvis du st\xE5r stille i noget tid f\xE5r du mere enegy"
+  personlighed: freddy:what den dragt er jo op,den vil jeg gerne have
+  Liv: 710
+  BasicattackDamage: 50

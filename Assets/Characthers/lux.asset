@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: lux
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: lux
+  charactherBillede: {fileID: 21300000, guid: f7774d788eaac24458bf5f76e7f104c2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en gulkugle som skader 90,og rooter fjenden i 2sec
+  ablityWText: "skyder med en ting der giver dig 10 beskyttelse,hvis du rammer dine
+    venner champs f\xE5r vennerne 20skjold"
+  ablityEText: "skyder med en rundring der skader 50 aoi dmg,og g\xF8re fjenderne
+    40% langsommer n\xE5r abilityen explodere"
+  ablityRText: "skyder med en mega lang gul str\xE5le der skader 400"
+  ablityPassiveText: hvergang du skader en med en ability power,skader din bacsisattack
+    20 mere den enegang
+  personlighed: "lux lyder t\xE6t p\xE5 buks lululululu"
+  Liv: 580
+  BasicattackDamage: 30

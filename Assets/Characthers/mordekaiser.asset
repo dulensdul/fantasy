@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: mordekaiser
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: mordekaiser
+  charactherBillede: {fileID: 21300000, guid: 3747bcce14a8ed14cbb99d720dd915ce, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skader 85 hvis du rammer flere,hvis du kun rammer en fjende skader
+    den 120
+  ablityWText: "giver dig 25% skjold beskyttelse,hvis du kllikker p\xE5 skjoldet
+    igen f\xE5r du 25% liv"
+  ablityEText: "tr\xE6kker en fjende hen til dig,og skader fjeden 85"
+  ablityRText: "du fanger en fjende i en ring,hvor du tager 20% af fjedens stats,hvis
+    du dr\xE6ber fjenden har du hans stats indtil han lever op igen"
+  ablityPassiveText: "hvis du sl\xE5r 3 gange eller rammer med din q og sl\xE5r bagefter
+    kommer der en ring som skader fjenden 10 i seckundtet"
+  personlighed: han lyder som the jailer
+  Liv: 682
+  BasicattackDamage: 45

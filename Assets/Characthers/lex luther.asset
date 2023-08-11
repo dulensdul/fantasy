@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: lex luther
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: lex luther
+  charactherBillede: {fileID: 21300000, guid: 611071d6a78a584468e18b68ed03c0e8, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en laster gun der skader 120
+  ablityWText: dodger alt
+  ablityEText: "skyder med en frysestr\xE5le der skader 50,og stunder fjenden 1sec"
+  ablityRText: "laver dig om til en k\xE6mperobot og skyder med en kryptonit v\xE5ben
+    der skader 200,skader 400 p\xE5 superman og supergirl"
+  ablityPassiveText: "f\xE5r mindre cooldown p\xE5 dit ult for hvert en minion kill
+    du f\xE5r"
+  personlighed: "han danser vildt m\xE6rkligt"
+  Liv: 660
+  BasicattackDamage: 40

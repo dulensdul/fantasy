@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: hulk
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: hulk
+  charactherBillede: {fileID: 21300000, guid: bf12a502ee5455b46b363496cd0d5bdb, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5 h\xE5rdt med din h\xE5nd der skader 100"
+  ablityWText: "hopper h\xF8jt og prere,hvis du lander p\xE5 en fjende skader det
+    90"
+  ablityEText: "tramper p\xE5 jorden,hvor fjjenden bliver stundet i 2sec og bliver
+    skadet 50"
+  ablityRText: hulksmash,skader 210 og rooter fjenden i 2sec
+  ablityPassiveText: bliver healet 10% liv,hvis du ikke er blivet skadet i langtid
+  personlighed: "et menneske der \xE5benart bliver til et gr\xF8nt monster og er
+    mega op"
+  Liv: 800
+  BasicattackDamage: 60
