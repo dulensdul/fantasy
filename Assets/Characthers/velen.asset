@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: velen
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: velen
+  charactherBillede: {fileID: 21300000, guid: dddecb47679689f43b46a3d956019f7b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: 'skyder med en arcaneblast '
+  ablityWText: "skyder med en str\xE5le p\xE5 fjenden der skader 50,og g\xF8re fjenden
+    40%langsommer"
+  ablityEText: "skram dine fjender v\xE6k fra dig i 2sec"
+  ablityRText: skyder med en shadowsell der skader 200,og silcenser fjenden i 2sec
+  ablityPassiveText: "forbobler hans spell power p\xE5 10% i tilf\xE6ldigheder,og
+    har det i 2sec"
+  personlighed: "s\xE5 utrolig sv\xE6r at lave"
+  Liv: 600
+  BasicattackDamage: 45

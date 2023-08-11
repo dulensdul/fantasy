@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: garen
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: garen
+  charactherBillede: {fileID: 21300000, guid: e0513c3e0b491364ca6ddede8c4f74c8, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "f\xE5r 30% mommentspeed,hvis du rammer fjenden skader den 50,og silencer
+    ham i 2sec"
+  ablityWText: "f\xE5r et skjold der giver dig 30 beskyttelse mod livdmg"
+  ablityEText: drejer dig rundt om dig selv i 2sec,og skader 60 liv i secundtet
+  ablityRText: skader 200,hvis fjenden har lavt liv skader den 600
+  ablityPassiveText: hvis du ikke er blivet skadet i langtid bliver du healet 10
+    liv indtil du bliver skadet
+  personlighed: ja jeg ligner arthas
+  Liv: 720
+  BasicattackDamage: 50

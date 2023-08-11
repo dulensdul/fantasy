@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: bedstemor gris
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bedstemor gris
+  charactherBillede: {fileID: 21300000, guid: 9b6574718a6efbe4a8986fdeaf79de40, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "s\xF8ger for at der flyver en random ting ned som skader fjenderne
+    100 hvis den rammer"
+  ablityWText: stunder en fjende i 3sec
+  ablityEText: "g\xF8re en fjende 70% mere langsom i 2sec"
+  ablityRText: "s\xF8ger for at fjenderne i n\xE6rheden ikke m\xE5 lave noget som
+    er en stun de f\xE5r i 4sec"
+  ablityPassiveText: "hvergang du sl\xE5r en fjende bliver fjenden stundet i 1sec,men
+    kan ikke stundes igen lige efter,der g\xE5r 10sec for din passiv kan stunde igen"
+  personlighed: AHOHOHOHO
+  Liv: 684
+  BasicattackDamage: 30

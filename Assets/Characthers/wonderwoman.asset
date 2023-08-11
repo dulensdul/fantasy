@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: wonderwoman
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: wonderwoman
+  charactherBillede: {fileID: 21300000, guid: 5482bc372a181db4882ee4010ad267a7, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: kaster med sit skjol og skader fjenden 90
+  ablityWText: kaster med sin sanheds lasso og skader 40,og stunder fjenden i 3sec
+  ablityEText: "sl\xE5r super h\xE5rdt med din h\xE5nd p\xE5 fjenden og skader 80"
+  ablityRText: "parere alle fjendens ting i 2sec,og bagefter sl\xE5r h\xE5rdt p\xE5
+    fjenden der skader 200"
+  ablityPassiveText: "f\xE5r 30% mommentspeed n\xE5r du f\xE5r et champ kill,og speeden
+    vare i 2 sec"
+  personlighed: pumbaa er irriterende
+  Liv: 720
+  BasicattackDamage: 60

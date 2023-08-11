@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: baymax
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: baymax
+  charactherBillede: {fileID: 21300000, guid: 9e7433cb52963904ea4d48622d9b2ea7, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig 40% mere bacsis attack dmg i 2sec
+  ablityWText: "skuber med din mave p\xE5 fjenden s\xE5 han ryger langt tilbage og
+    bliver skadet 20"
+  ablityEText: "perere det der bliver kastet efter dig, og kaster den tilbage til
+    fjenden igen s\xE5 fjenden f\xE5r sin dmg p\xE5 sig selv"
+  ablityRText: "f\xE5r sit rusning p\xE5 og f\xE5r 400 maxliv mere,og skader 50%
+    mere med sin basicattack i 6sec"
+  ablityPassiveText: "du kan klikke p\xE5 din passiv hvor du kan skane efter kamps"
+  personlighed: jeg er en robot, ba de la det ba der la
+  Liv: 760
+  BasicattackDamage: 50

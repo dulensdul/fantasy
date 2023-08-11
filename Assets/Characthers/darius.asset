@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: darius
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: darius
+  charactherBillede: {fileID: 21300000, guid: 047dbd0d58cf79540973bb9ec82c8f1b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "svinger hurtigt dig rundt og skader fjenden 40,og fjenden vil ogs\xE5
+    bl\xF8de indtild kan er skadet 40"
+  ablityWText: "sl\xE5r med din \xF8kse p\xE5 fjenden der skader 60,og bl\xF8der
+    indtild han er skadet 40"
+  ablityEText: "tr\xE6kker fjenden hen til dig,og skader 20"
+  ablityRText: "skader 150,hvis fjenden har st\xE5et for l\xE6nge p\xE5 dig har han
+    s\xE5 mange bl\xF8dninger at din ult skader ham op til 600"
+  ablityPassiveText: "fjenden bl\xF8der for hvergang du sl\xE5r ham i 2sec"
+  personlighed: what han ligner rolf
+  Liv: 700
+  BasicattackDamage: 50

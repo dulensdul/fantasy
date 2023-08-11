@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: gentlemen ghost
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gentlement ghost
+  charactherBillede: {fileID: 21300000, guid: 6159e5ea1afa45047af10488e314e2e5, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol der skader 120
+  ablityWText: "f\xE5r et sv\xE6rd frem der skader 80"
+  ablityEText: kan flyve hen til en anden lan
+  ablityRText: "b\xE6stter en champs krop hvor du styre fjende championen i 3sec"
+  ablityPassiveText: "du kan klikke p\xE5 passiv hvor du lever en fjende minion op,hvor
+    det bliver din minion"
+  personlighed: "er der nogen,ahohohoho,h\xF8rte i det?,what et chok jeg fik"
+  Liv: 660
+  BasicattackDamage: 50
