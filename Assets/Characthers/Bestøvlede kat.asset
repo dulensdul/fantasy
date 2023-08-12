@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
-  m_Name: Dulcinea
+  m_Name: "Best\xF8vlede kat"
   m_EditorClassIdentifier: 
   navn: 
   charactherBillede: {fileID: 0}
