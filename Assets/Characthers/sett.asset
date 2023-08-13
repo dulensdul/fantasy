@@ -19,11 +19,14 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver 30% mommentspeed og 20% attackspeed
+  ablityWText: skader 80 og giver 10 besktylttelse,skader mere og giver mere bestyteltelse
+    jo mere skadet det bliver
+  ablityEText: "tr\xE6kker dem hen til dig og skader 50 og stunder 1sec"
+  ablityRText: skader 200 og stunder fjenden i 2sec
+  ablityPassiveText: setts basic attacks alternate between left and right punch,right
+    punsh is slightly stronger and faster,sett also hates losing,gaining additional
+    health regeneration based off of his missing health
+  personlighed: jeg kalder mig selv som bossen,dulen vil sikkert sige buksen
+  Liv: 720
+  BasicattackDamage: 65

@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: vanny
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: vanny
+  charactherBillede: {fileID: 21300000, guid: 4a79810b0c31aee4ea544af4f4bc30b6, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "stikker en ned med din kniv og skader 120,skader 80 p\xE5 dem der
+    har meget rusning"
+  ablityWText: teleportere dig ind i en fjende og giver dig 40% mommentspeed
+  ablityEText: "sl\xE5r med backstap der skader 150,100 p\xE5 dem med meget rusning,den
+    kan kun bruge e bag ved dem"
+  ablityRText: du bliver usynlig i 3 sec
+  ablityPassiveText: "s\xE5 snart du ikke er i kamp er du usynlig,hvis du lige har
+    v\xE6ret i en kamp g\xE5r der 3sec for at du bliver usynlig igen,du g\xE5r 10%
+    langsommer n\xE5r du er usynlig"
+  personlighed: "jeg er faktisk ikke s\xE5 gode venner med glitchtrap,jeg f\xE5r
+    altid skylden,og han bliver ved med at sige at jeg lyder som harely quinn fra
+    super hero girls"
+  Liv: 660
+  BasicattackDamage: 50

@@ -12,18 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: sion
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: sion
+  charactherBillede: {fileID: 21300000, guid: 4a8497a0c7907804f83156bf945736a6, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skader kun 30 hvis du slipper hurtigt,hvis du kan ramme fjenden med
+    fuldkraft skader den 100 og stunder fjenden 2sec
+  ablityWText: "giver dig selv 30 beskyttelse hvis du dr\xE6ber en minion med dit
+    w f\xE5r du 30 liv"
+  ablityEText: "skubber en minion,hvis du rammer fjende championen skader den 70,g\xF8re
+    dem 50% langsommer,og \xF8del\xE6gger deres armor s\xE5 n\xE5r du sl\xE5r ham
+    skader du ekstra p\xE5 ham "
+  ablityRText: "l\xF8ber sindsygt hurtigt,hvis du l\xF8ber ind i en skader du 100
+    og stunder fjenden i 4sec"
+  ablityPassiveText: "n\xE5r du d\xF8r er du levene igen,og sl\xE5r sindsygt hurtigt
+    og l\xF8ber 70% hurtigere,du f\xE5r ogs\xE5 50 mere dmg,du mister liv automatisk,n\xE5r
+    du d\xF8r helt skal du vente til at du spawner igen ligesom alle andre,de kan
+    ikke f\xE5 kill og guld af at dr\xE6be dig der hvor de lige har dr\xE6bt dig
+    f\xF8r"
+  personlighed: jeg er en zombieie
+  Liv: 800
+  BasicattackDamage: 35
