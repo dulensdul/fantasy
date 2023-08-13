@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: darthsidios
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: darthsidios
+  charactherBillede: {fileID: 21300000, guid: 98b4b38f548b2604ea8808eb9cbfc35b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r lige ud med dit lysv\xE6rd og skader 120"
+  ablityWText: hopper og kan ikke blive ramt i 2 secundter
+  ablityEText: hopper mod en og skader 80
+  ablityRText: "skader 230,og g\xF8re dem langsomme p\xE5 10%"
+  ablityPassiveText: "bliver bedre til at ramme hvis de bliver p\xE5 dig i langtid,men
+    bliver normalt hast senere igen"
+  personlighed: "hinde den nye jedi fra starwars er alt for OP s\xE5 d\xE5rligt lavet,det
+    derfor hun ikke er med her sikkert"
+  Liv: 720
+  BasicattackDamage: 50

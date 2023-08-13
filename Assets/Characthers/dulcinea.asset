@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: dulcinea
   m_EditorClassIdentifier: 
-  navn: 
+  navn: dulcinea
   charactherBillede: {fileID: 21300000, guid: 39db1589e2760a94486c1092cc912686, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "g\xF8re sig nuttet og kontrolere en fjende champ i 2sec"
+  ablityWText: "giver dig selv magiske bukser p\xE5 der giver dig 20% mere dmg,mister
+    det igen n\xE5r du er blivet skadet s\xE5 bukserne g\xE5r i stykker"
+  ablityEText: healer en vennelig champ eller dig selv 50 liv
+  ablityRText: giver sig selv rusning der giver dig 40% mere basic attack dmg og
+    300 mere armor i 6aec
+  ablityPassiveText: "skader 20% mere p\xE5 dem der ikke har nogen bukser p\xE5"
+  personlighed: jeg elsker bare bukser,husk nu helst ikke tabe bukserne luuuuuu
+  Liv: 660
+  BasicattackDamage: 45
