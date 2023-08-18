@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: fred
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: fred
+  charactherBillede: {fileID: 21300000, guid: 56fbf600d437ccf4889679d36eea5b0a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en lille flamme der skader 50 i seckundtet
+  ablityWText: "hopper og lander p\xE5 en og skader 90"
+  ablityEText: "river en med din kl\xF8r og skader 80"
+  ablityRText: "skyder med en flamme\xE5nde der skader 230,og du hopper up og kan
+    ikke skades i 2sec"
+  ablityPassiveText: "skader 10% mere p\xE5 dem der br\xE6nder"
+  personlighed: "hvis der nogen der skal ofre sig,s\xE5 det mig fred"
+  Liv: 660
+  BasicattackDamage: 45

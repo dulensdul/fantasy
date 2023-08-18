@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: hiro
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: hiro
+  charactherBillede: {fileID: 21300000, guid: 6fc1061678e43dd4cab3b1c14c6c86df, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
+  ablityQText: skyder med en lasergun og skader 120
   ablityWText: 
   ablityEText: 
-  ablityRText: 
+  ablityRText: "hopper op p\xE5 en k\xE6mperobot, og er i den i 5sec,dine abilitys
+    skader 100 liv mere og du har 400liv mere n\xE5r du er robotten"
   ablityPassiveText: 
   personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  Liv: 600
+  BasicattackDamage: 50

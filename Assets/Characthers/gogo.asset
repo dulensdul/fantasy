@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: gogo
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gogo
+  charactherBillede: {fileID: 21300000, guid: 1a61bad1c67d19646b2cc385183e2f80, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "kaster med nogen boomeranger som skyder p\xE5 en ligs\xE5 m\xE6rkelig
+    m\xE5de som normale bommeranger g\xF8re,skader 80"
+  ablityWText: giver dig selv 50% mommentspeed i 3sec
+  ablityEText: "l\xF8ber ind i en og skader 80,og stunder fjenden i 2sec"
+  ablityRText: "kalder p\xE5 din motor cykel og hopper p\xE5 den og f\xE5r 200% mommentspeed,skader
+    180 p\xE5 dem du k\xF8re over,din motor cykel forsvinder igen om 6sec"
+  ablityPassiveText: "f\xE5r 50 mere basicattack dmg n\xE5r du har ultet oppe "
+  personlighed: jeg er faktisk ret sej og smart
+  Liv: 660
+  BasicattackDamage: 50

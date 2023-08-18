@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: control freak
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: controlfreak
+  charactherBillede: {fileID: 21300000, guid: 19acd2c92271c9645aaa42ee0e26e899, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "kast med nogen granater og skad 80,og g\xF8re din fjender 30% langsommer
+    i 2sec"
+  ablityWText: "tag et lysv\xE6rd frem hvor du har det i 3sec,den giver dig 60 mere
+    basicattack dmg"
+  ablityEText: "s\xF8ger for at du stinker d\xE5rligt og de fjender der er i n\xE6rheden
+    af dig bliver skader 30 i seckundtet,du lugter normalt igen efter 3sec"
+  ablityRText: "brug din kontrol fjermbetjening hvor du f\xE5r din fjender i et helt
+    andet sted"
+  ablityPassiveText: hvergang du bruger dit w angreb bliver du 10% hurtiger i 2sec
+  personlighed: "og n\xE5r jeg leder efter spil,ser jeg kun skr\xE6ld!"
+  Liv: 680
+  BasicattackDamage: 30

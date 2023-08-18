@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: darthvader
   m_EditorClassIdentifier: 
-  navn: 
+  navn: darthvader
   charactherBillede: {fileID: 21300000, guid: 72e46edbf9b4ac548885eb5ea40810ff, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "f\xE5r 10% attackspeed i 3sec"
+  ablityWText: skader 30% mere i basicattack i 3sec
+  ablityEText: "kaster dit lysv\xE6rd og skader 125"
+  ablityRText: "bruger kvalkraft p\xE5 en fjende champion og skader 400,stunder ogs\xE5
+    fjenden i 4sec"
+  ablityPassiveText: "n\xE5r en fjende g\xF8re dig langsommer skader du 10% mere
+    i basicattack i 2sec"
+  personlighed: "jeg siger heletiden at jeg har dr\xE6bt anakin,men rigtigt er jeg
+    ham stadig,jeg synes bare at kejseren er mere retf\xE6rdig in jederene"
+  Liv: 720
+  BasicattackDamage: 60

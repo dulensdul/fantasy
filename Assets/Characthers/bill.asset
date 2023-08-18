@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: bill
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bill cipher
+  charactherBillede: {fileID: 21300000, guid: 6cb2b3d4bc2f7274488b4a859eecc662, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med laser ud af dine h\xE6nder der skader 120"
+  ablityWText: "g\xF8re dig k\xE6mpe og f\xE5r 120 basicattack dmg i 3sec,men du
+    kan kun skade t\xE6t p\xE5 i den form"
+  ablityEText: skubber fjenden langt tilbage og skader 110
+  ablityRText: "skyder med en k\xE6mpe lasersyn der skader 500"
+  ablityPassiveText: "for hvergang du f\xE5r en champ kill kan du teleportere dig
+    hvor som helst i mappet"
+  personlighed: "jeg er p\xE5 en m\xE5de bare en 3kandtet demon,men er utrolig OP"
+  Liv: 610
+  BasicattackDamage: 60

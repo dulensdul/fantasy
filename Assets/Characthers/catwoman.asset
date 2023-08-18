@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: catwoman
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: catwomen
+  charactherBillede: {fileID: 21300000, guid: 240e5d19c278521468f4ade4f69500c9, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "bruger din pisk til at tr\xE6kke din fjende hen til dig og skader
+    60"
+  ablityWText: "sl\xE5r 50% hurtiger i 3sec"
+  ablityEText: hopper hen til fjenden og skader 80
+  ablityRText: "hopper p\xE5 en fjende og skader 400,og stunder fjenden i 3sec"
+  ablityPassiveText: "sl\xE5r hurtiger og hurtiger jo l\xE6nger tid du er i en kamp,og
+    bliver normal igen hvis du er g\xE5et v\xE6k fra kampen"
+  personlighed: "jeg er en kat miav,og jeg er t\xF8rstig,hvor er der noget m\xE6lk?"
+  Liv: 680
+  BasicattackDamage: 50

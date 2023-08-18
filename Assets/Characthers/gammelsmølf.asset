@@ -19,11 +19,11 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol og skader 100
+  ablityWText: skyder med en sniper og skader 120
+  ablityEText: kaster med en stor bumbe og skader 120
+  ablityRText: skyder med en basuka og skader 300
+  ablityPassiveText: "skyder hurtiger i 2sec for hvergang du dr\xE6ber en minnion"
+  personlighed: "hvis man pr\xF8ver at snyde mig plykker jeg dem AHAHAHAHAHA"
+  Liv: 590
+  BasicattackDamage: 60
