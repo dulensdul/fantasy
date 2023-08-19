@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: honeylemon
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: honeylemon
+  charactherBillede: {fileID: 21300000, guid: 65c273e1a556a2d4cbf3e93484c88494, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en slim kugle der skader 80,stunder fjenden i 2sec
+  ablityWText: "skyder med en slim kulge der skader 90,g\xF8re fjenden 30% langsommer
+    i 2sec"
+  ablityEText: skyder med en fryse gun der skader 85,stunder fjenden i 2sec,giver
+    dig 50% mommentspeed i 3sec
+  ablityRText: "skyder l\xF8s med din gun og skader 100 i secundtet i 4sec"
+  ablityPassiveText: "hvergang du kommer i n\xE6rheden af nogen der har bukser p\xE5
+    f\xE5r du 5%mommentspeed,men har det ikke n\xE5r du er lidt v\xE6k fra dem"
+  personlighed: "jeg lyder som en dul men g\xE5r ikke rigtigt op i t\xF8j luuuuuu"
+  Liv: 600
+  BasicattackDamage: 50

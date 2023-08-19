@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kelthuzad
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kelthuzad
+  charactherBillede: {fileID: 21300000, guid: d45a98abad6496843806f5744805fbe7, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en frostbolt der skader 90,g\xF8re fjenden 30% langsommer
+    i 2sec"
+  ablityWText: "skyder med istapper fra himlen,skader 80 i seckundtet i 2sec,g\xF8re
+    fjenden 20% langsommer i 2sec"
+  ablityEText: "skyder med en k\xE6de hvor du tr\xE6kker fjenden en smule t\xE6tter
+    p\xE5,skader 30"
+  ablityRText: "skyder med en stor frost ring der skader 200,hvergang du rammer en
+    champion skyder den efter en fjende champ igen og fors\xE6tter indtil den ikke
+    rammer en mere"
+  ablityPassiveText: "g\xF8re fjenden 5% langsommer i 1sec,n\xE5r du rammer fjenden
+    med en basicattack"
+  personlighed: "jeg tjener arthas,gider ikke at tjene andre,det var bare s\xF8n"
+  Liv: 580
+  BasicattackDamage: 40

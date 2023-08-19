@@ -20,11 +20,12 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: skyder med en lasergun og skader 120
-  ablityWText: 
-  ablityEText: 
+  ablityWText: "flyver h\xF8jt oppe og kan ikke rammes i 3sec,skader 220"
+  ablityEText: skyder med nogen portalkugler hvor han teleportere frem
   ablityRText: "hopper op p\xE5 en k\xE6mperobot, og er i den i 5sec,dine abilitys
     skader 100 liv mere og du har 400liv mere n\xE5r du er robotten"
-  ablityPassiveText: 
-  personlighed: 
+  ablityPassiveText: "hvergang fjende minnionsne d\xF8r kommer der bl\xE5 kugler
+    for dig,n\xE5r du g\xE5r ind i dem f\xE5r du mere enegy"
+  personlighed: "jeg er hiro der laver b\xE6"
   Liv: 600
   BasicattackDamage: 50

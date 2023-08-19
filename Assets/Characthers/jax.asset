@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jax
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jax
+  charactherBillede: {fileID: 21300000, guid: 529bb2c146c6a97418fbcb1d7c49a2b6, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: springer hen til en fjende,skader 80
+  ablityWText: "sl\xE5r h\xE5rdt med din stav og skader 60,skader 30 ap dmg"
+  ablityEText: "laver en rund ring rundt om dig,hvis du rammer stunder det fjenden
+    i 2sec,skader 60 ap dmg,hvis din fjende sl\xE5r dig imens dit e er oppe bliver
+    du healet og kan ikke blive skadet,men du kan tage skade af spells,selv om du
+    har dit e oppe"
+  ablityRText: giver dig selv 30% mere dmg,20%mere magic reset,og 20% mere armor
+    i 5sec
+  ablityPassiveText: "sl\xE5r hurtigere jo mere du sl\xE5r en fjende,men du sl\xE5r
+    langsommer igen efter du stopper med at sl\xE5"
+  personlighed: heg ligner lidt en fra wow hvertfald kunne lige en slags ogre,men
+    der er jeg bare ikke haha
+  Liv: 710
+  BasicattackDamage: 60

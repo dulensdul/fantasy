@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kai
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kai
+  charactherBillede: {fileID: 21300000, guid: e273bf27e0ca6434890a3de0a3e60f4f, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "kaster med dit sv\xE6rd og skader 100"
+  ablityWText: hopper ind i en fjende og skader fjenden 80,stunder fjenden i 1sec
+  ablityEText: "skyder med en af dine gr\xF8nne sten og skader 110"
+  ablityRText: "tilkalder 4 komfumestre som k\xE6mper sammen med dig,en af dem skader
+    80 og de skader allesammen det samme,det er 4 du tilkalder"
+  ablityPassiveText: "f\xE5r 10 mere basicattack dmg for hver champ kill du f\xE5r,og
+    det er permenent dmg du f\xE5r"
+  personlighed: jeg er lidt af en kopi af guldan,men istedenfor en orc er jeg en
+    tauren,stor forskel ligepludselig var
+  Liv: 700
+  BasicattackDamage: 60
