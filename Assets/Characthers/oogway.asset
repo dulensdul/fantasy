@@ -19,11 +19,14 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
+  ablityQText: "hopper p\xE5 en fjende og skader 100"
+  ablityWText: giver sig selv 25% skjold
+  ablityEText: drejer rundt om sig selv og skader 50,stunder fjende championen i
+    2sec
+  ablityRText: "springer vildt h\xF8jt og dodger alt,efter 2sec hopper du ned igen
+    og laver en k\xE6mpe ring der skader fjenderne 240"
+  ablityPassiveText: "skjold for hvergang der er g\xE5et 10sec"
+  personlighed: "godt nok er jeg gammel men jeg er mega OP,jeg har engang holdt darthjacob
+    i skak l\xE6nge nok til at alle noget at flygte og noget at overleve selv"
   Liv: 710
   BasicattackDamage: 50

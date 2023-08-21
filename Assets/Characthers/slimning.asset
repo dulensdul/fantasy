@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: slimning
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: slimning
+  charactherBillede: {fileID: 21300000, guid: 3761bade3bab83b43a43b77d1f47ad23, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r meget langt med din arm og skader 70"
+  ablityWText: laver en om til en chokolade og stunder fjenden i 2sec
+  ablityEText: "bruger briller der s\xF8ger for at du kan se igennem alle v\xE6gge,
+    i 5sec"
+  ablityRText: "g\xF8re sig til en k\xE6mpe dinosaure og f\xE5r 200 liv mere og 50%
+    mere basicattack dmg i 6sec"
+  ablityPassiveText: bliver 10% healet for hvergang du ikke er i en kamp i secundtet
+  personlighed: "jeg var engang ond,men s\xE5 sluttet jeg senere hen til big heroes
+    6"
+  Liv: 720
+  BasicattackDamage: 45
