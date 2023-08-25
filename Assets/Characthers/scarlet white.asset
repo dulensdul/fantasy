@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: scarlet white
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: scarlet whitch
+  charactherBillede: {fileID: 21300000, guid: 8c76550c4451c2d46b9e22872e393ee1, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en lang r\xF8d str\xE5le der skader 110"
+  ablityWText: "skyder med en r\xF8d ring der ekplodere med det samme og skader 95,g\xF8re
+    fjenden 30% langsommer i 2sec"
+  ablityEText: "tr\xE6kker en op i luften og skader 120,stunder fjenden i2sec n\xE5r
+    fjenden kommer ned igen"
+  ablityRText: "skyder med en k\xE6mpe r\xF8d lasterstr\xE5le der skader 600,stunder
+    fjeden i 2sec"
+  ablityPassiveText: "hvergang du dr\xE6ber en minnion bliver de til r\xF8de crystaler,n\xE5r
+    du g\xE5r ind i dem f\xE5r du 5% ability dmg i 2sec"
+  personlighed: "jeg er ret broken,kunne klare thanos som ingenging are med en spell,og
+    er liges\xE5 st\xE6rk som darthjacob,og jeg ligner are en civil borger s\xE5
+    godt lavet lul"
+  Liv: 590
+  BasicattackDamage: 45

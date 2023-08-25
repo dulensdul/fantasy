@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: the riddler
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: the ridler
+  charactherBillede: {fileID: 21300000, guid: 465a0069928c7b246b1917b6d7aac101, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "s\xF8ger for at fjende championen skal l\xF8se en g\xE5de,det stunder
+    fjenden i 3sec"
+  ablityWText: giver din venne champ 40% dmg i 3sec
+  ablityEText: "ligger f\xE6ler,hvis fjenden g\xE5r ind en f\xE6len,bliver fjenden
+    skadet 60,g\xF8re fjenden 30% langsommer"
+  ablityRText: giver en venne champ 100% mere stats i 5sec
+  ablityPassiveText: "healer venne championen 5%liv,n\xE5r du st\xE5r t\xE6t p\xE5
+    vennechampion i 5sec"
+  personlighed: "jeg er ret m\xE6rkelig men det har batman vendet sig til"
+  Liv: 610
+  BasicattackDamage: 35

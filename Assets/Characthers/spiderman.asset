@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: spiderman
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: spiderman
+  charactherBillede: {fileID: 21300000, guid: ba4adda42fbbb6545a07a2c3ceed8dd0, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "springer p\xE5 en fjende og skader 90,stunder fjenden i 1sec"
+  ablityWText: "skyder med spin p\xE5 fjenden og skader 65,stunder fjenden i 3sec"
+  ablityEText: "g\xF8re sig stealth i 3sec"
+  ablityRText: "skyder med meget spin p\xE5 fjenden der skader 125,stunder fjenden
+    i 6sec"
+  ablityPassiveText: "jo mere spindelv\xE6v du har skudt p\xE5 fjender jo mindre
+    bliver din cooldown p\xE5 1sec mindre permenent"
+  personlighed: "jeg er jo r\xF8d ligesom pumbaa,men er ham ikke,du troet lige var"
+  Liv: 620
+  BasicattackDamage: 50

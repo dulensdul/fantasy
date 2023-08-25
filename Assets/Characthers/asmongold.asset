@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: asmongold
+  m_EditorClassIdentifier: 
+  navn: asmongold
+  charactherBillede: {fileID: 21300000, guid: dc075b595c4969845b1fb0fab9146a86, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: chafer ind i en fjende og skader 50,stunder fjenden i 2sec
+  ablityWText: "br\xF8ler og g\xF8re dem rundt om dig 50% langsommer"
+  ablityEText: "skader 90 p\xE5 fjenden og healer dig 10% liv"
+  ablityRText: laver whilolind der skader 170 i secundtet i 6sec,imens du bruger
+    ultet er du immun overfor slow og stun
+  ablityPassiveText: "f\xE5r 1% mere armor for hvergang du mister liv"
+  personlighed: jeg elsker at game fordi jeg er asmongold guys
+  Liv: 620
+  BasicattackDamage: 50

@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: the flash
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: the flash
+  charactherBillede: {fileID: 21300000, guid: b61c7369c8c04454d82eacefa3c874b6, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 40% momment og attackspeed i 3sec
+  ablityWText: spiser en hotdog og healer dig selv 70liv
+  ablityEText: "l\xF8ber ind i en fjende og skader 80,stunder fjenden i 1sec"
+  ablityRText: giver dig 500% momment og attackspeed i 5sec
+  ablityPassiveText: "hvergang du f\xE5r en champ kill f\xE5r du 1%momment og attackspeed
+    permenent"
+  personlighed: jeg er nok den hurtigste der findes,ingen counter mig tror jeg
+  Liv: 600
+  BasicattackDamage: 60

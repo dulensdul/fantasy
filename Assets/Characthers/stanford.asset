@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: stanford
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: stanford
+  charactherBillede: {fileID: 21300000, guid: 905d35752c332774abd858add921ac81, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en bl\xE5 laser v\xE5ben og skader 125"
+  ablityWText: laver en ring om dig der skader 50 aoi dmg i seckuntet i 3sec
+  ablityEText: skuder med en laserpistol der skader 85,stunder fjenden i 2sec
+  ablityRText: "g\xF8re dig til et k\xE6mpe hus hvor du f\xE5r 500 mere maxliv,30%mere
+    dmg,og 40% mere mommentspeed i 5sec"
+  ablityPassiveText: "hvergang du f\xE5r en champ kill f\xE5r du 1sec mindre cooldown
+    p\xE5 dit ult permenent"
+  personlighed: "jeg ligner min bror ret meget,s\xE5 p\xE5 den m\xE5de kunne vi snyde
+    bill og besjere ham"
+  Liv: 600
+  BasicattackDamage: 60

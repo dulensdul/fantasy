@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: varian
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: varion
+  charactherBillede: {fileID: 21300000, guid: fc9479caaa00db549b8b8e87e61799f2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en gul ring der bliver til en lang line,hvis du rammer
+    fjenderne bliver de skadet 70,og healer dig 40liv,healer dig 10 liv mere jo flere
+    du rammer
+  ablityWText: parere alt fysisk dmg i 2sec
+  ablityEText: "chager ind i en fjende og skader 25,g\xF8re fjenden 40%langommer
+    i 2sec"
+  ablityRText: "det nu du holder 2 two hands v\xE5ben,det vil sige at du f\xE5r 10%mommentspeed,50%
+    attackspeed,og 10% lifesteal permenent"
+  ablityPassiveText: giver dig 5% lifesteal hver 3 slag
+  personlighed: "jeg var den bedste konge,men desv\xE6re d\xF8de jeg til guldan,han
+    er fakitsk ret irriterende kedelig"
+  Liv: 645
+  BasicattackDamage: 65
