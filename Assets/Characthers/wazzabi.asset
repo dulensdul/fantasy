@@ -19,11 +19,14 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
+  ablityQText: "f\xE5r 10% mere attackspeed i 3sec"
+  ablityWText: "sl\xE5r h\xE5rdt 3 gange med dine sv\xE6r og skader 90,stunder fjenden
+    i 3sec"
+  ablityEText: laver et skjold foran dig hvor du ikke kan blive skadet foran i 2sec
+  ablityRText: laver et meget stort slag der skader 300
+  ablityPassiveText: "f\xE5r 20 guld ekstra af minionsne n\xE5r du f\xE5r minion
+    killsne"
+  personlighed: "jeg er ofte bange,men det betyder heler ikke at jeg vil opgive at
+    v\xE6re helt"
   Liv: 645
   BasicattackDamage: 50

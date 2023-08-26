@@ -12,18 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: the butcher
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: the butcher
+  charactherBillede: {fileID: 21300000, guid: a149b267ef0c7e149ad37fb09b686601, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r lidt langt lige ud med din \xF8kse,skader 90 og g\xF8re fjenden
+    10%langsommer i 1sec"
+  ablityWText: "sl\xE5r din fjende med \xF8ksen hvor du healer dig 10%liv n\xE5r
+    du sl\xE5r fjenden,det udl\xF8ber om 2sec"
+  ablityEText: chager in i en fjende og skader 90,stunder fjenden i 2sec
+  ablityRText: "laver en ring omkirng om din fjende,de kan ikke komme ud af den,f\xF8rst
+    n\xE5r de har v\xE6ret i den i 5sec"
+  ablityPassiveText: "du f\xE5r 1 bloddr\xE5be fra hver minion og de fjende champs
+    der d\xF8r kan du f\xE5 25 bloddr\xE5ber af,du mister 20 for hvergang du d\xF8r,hvis
+    du nu har 20, f\xE5r du 20%mere basicattack dmg foreksembel,hvis du n\xE5r at
+    komme op p\xE5 200 kan du ikke miste bloddr\xE5ber mere,men du kan stadig f\xE5
+    mere "
+  personlighed: jeg slagter mennesker hahahahaha
+  Liv: 624
+  BasicattackDamage: 60

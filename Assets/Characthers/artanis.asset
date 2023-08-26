@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: artanis
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: artanis
+  charactherBillede: {fileID: 21300000, guid: 2efeda8e47e1a68429e3109c548ef6c2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: charger lidt langt og skader 90,og ryger tilbage igen og skader 90
+  ablityWText: "hopper ind i en og sl\xE5r hurtigt som skader 110"
+  ablityEText: bytter plads med din fjende champ og skader fjenden 50
+  ablityRText: "skyder med et lyn p\xE5 fjeden og skader fjenden 100 i seckundtet
+    i 6sec,de bliver skadet 100 s\xE5 l\xE6nge de st\xE5r i den"
+  ablityPassiveText: "dit w f\xE5r 5% mere dmg i 3sec n\xE5r du rammer med dit e"
+  personlighed: "jeg er en alien men m\xE5ske er jeg op, hvem ved"
+  Liv: 684
+  BasicattackDamage: 55
