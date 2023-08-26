@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: po
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: po
+  charactherBillede: {fileID: 21300000, guid: 6b205c7ff0bd6ca4593600c06159da64, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "hopper op p\xE5 en og skader 90"
+  ablityWText: spiser melboller og healer sig selv 70liv
+  ablityEText: "skyder med en gul str\xE5le der rammer foran dig helevejen til den
+    anden side og skader 125"
+  ablityRText: "forvandler sig til en drage,du f\xE5r 200liv og 200% mere ability
+    dmg i 6sec"
+  ablityPassiveText: "healer dig 5%liv for hvergang du er v\xE6k fra kampen i langtid"
+  personlighed: jeg er dragkrigeren,ej hvor det bare fedt mand
+  Liv: 700
+  BasicattackDamage: 60

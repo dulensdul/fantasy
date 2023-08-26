@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: puppet
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: puppet
+  charactherBillede: {fileID: 21300000, guid: 66060e5970951a140bcd3b3c99b2cbad, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skaber en \xE6ske hvor n\xE5r man gemmer sig i den kan fjenden ikke
+    se en,og man kan heler ikke d\xF8 n\xE5r man er inde i den,men man ka selv ikke
+    skade noget n\xE5r man er der inde,\xE6sken forvinder igen ved 4sec"
+  ablityWText: "risser med sine negle p\xE5 en fjende og skader 30 i seckundtet i
+    3sec"
+  ablityEText: teleportere sig lidt mere frem af
+  ablityRText: "kan leve en d\xF8d venne champion op igen og den du lever op har
+    fuld liv og mana igen"
+  ablityPassiveText: "n\xE5r du f\xE5r killet giver du den anden venne champ 200
+    guld"
+  personlighed: "baaaa jeg er puppet og man m\xE5 ikke v\xE6re flabed"
+  Liv: 580
+  BasicattackDamage: 35

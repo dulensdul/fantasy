@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: "p\xF8llesauren"
+  m_EditorClassIdentifier: 
+  navn: "p\xF8llesauren"
+  charactherBillede: {fileID: 21300000, guid: 13e64444b8c16c74681dde331eb7aef7, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "kaster med en p\xF8lle og skader 130"
+  ablityWText: "p\xF8ller hvor dem der er t\xE6t p\xE5 dig bliver skadet 140"
+  ablityEText: "l\xF8ber 5% hurtigere i 2sec"
+  ablityRText: "hvis der en der er ved at d\xF8 kan du dr\xE6be fjende championen
+    med det samme og du f\xE5r fuld liv af det"
+  ablityPassiveText: "n\xE5r du er t\xE6t p\xE5 fjenderne har de 2% mindre armor,men
+    de f\xE5r det igen n\xE5r du er v\xE6k fra dem igen"
+  personlighed: "nu skal du rigtig P\xD8LLE!"
+  Liv: 700
+  BasicattackDamage: 60
