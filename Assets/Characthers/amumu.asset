@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: amumu
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: amumu
+  charactherBillede: {fileID: 21300000, guid: a8a9f4d8201ca07499025f9d1cea3068, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skader 70,stunder fjenden i 2sec
+  ablityWText: giver sig 25% mere armor
+  ablityEText: skader alt rundt om dig 30 i secundtet,du mister mana af at have den
+    aktiveret
+  ablityRText: skader 100,stunder fjenden i 7sec
+  ablityPassiveText: "f\xE5r 1% mere armor for jo mere dmg du tager"
+  personlighed: "jeg kan ikke ladev\xE6re med at tude,foxy vil sikkert kalde mig
+    for tudefj\xE6s"
+  Liv: 685
+  BasicattackDamage: 45

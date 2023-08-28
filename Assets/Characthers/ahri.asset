@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ahri
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ahri
+  charactherBillede: {fileID: 21300000, guid: 5529bb8c87af5ee4791d8d6a39fbe070, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en bl\xE5 magikulge der skader 120,g\xF8re fjenden 20%
+    langsommer i 1sec"
+  ablityWText: "skyder med en hjerteformet spell der skader 50,f\xE5r fjenden til
+    at g\xE5 hen mod dig og har 30% mindre mommentspeed i 2sec"
+  ablityEText: "skyder med nogen sm\xE5 bl\xE5 magikugler hvor en skader 70,hvis
+    2 rammer skader det fjenden 140,hvis det er 3 der rammer skader de 210"
+  ablityRText: kan teleportere dig lidt frem af 3 gange
+  ablityPassiveText: skader 10% mere ability dmg for hvergang du  rammer en fjende
+    champ med din basicattack
+  personlighed: jeg duller en dul luuuu
+  Liv: 580
+  BasicattackDamage: 35
