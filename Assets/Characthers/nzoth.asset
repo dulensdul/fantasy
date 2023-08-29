@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: nzoth
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: nzoth
+  charactherBillede: {fileID: 21300000, guid: 3208a0ec2819c5d4b87888581427a0ff, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skaber flere minions ved den land du st\xE5r ved"
+  ablityWText: "laver f\xE6lder i buskne,n\xE5r fjenden g\xE5r ind i f\xE6lden skader
+    det fjenden 90,de bliver ogs\xE5 30% langsommer i 2sec"
+  ablityEText: "sl\xE5r ,meget langt med din arm og skader 90"
+  ablityRText: giver alle dine venne champs 300 mere liv,60% mommentspeed,og 100%
+    mere dmg i 6sec
+  ablityPassiveText: "hvergang der er g\xE5et 20 secundter skaber du en k\xE6mpe
+    bl\xE6ksprutte minion,den har 700 liv og skader 90,det tilf\xE6ldig med hvilken
+    lan den spawner i"
+  personlighed: "jeg har styret deathwing engang,jmen jeg er ikke med i fantasy historien
+    for jeg bliv dr\xE6bt i gmod planeten"
+  Liv: 1000
+  BasicattackDamage: 10

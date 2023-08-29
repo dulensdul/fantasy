@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: raynor
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: raynor
+  charactherBillede: {fileID: 21300000, guid: e48c227c5f96b024db3c29040f939c5b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med din lasergun og skader 120,og skubber fjenden lidt v\xE6k
+    fra dig"
+  ablityWText: healer dig op til 25% liv
+  ablityEText: giver dig selv 30% attackspeed i 4sec
+  ablityRText: "skaber et k\xE6mpe rumskib der flyver langsomt og skyder med nogen
+    missler der skader fjernderne 120,den flyver lige ud og flyver helt v\xE6k n\xE5r
+    den er kommet helt ind i fjendens base"
+  ablityPassiveText: giver dig 20% mere attackspeed i 3sec for hvert minion kill
+  personlighed: jeg advaret dig bedsemor
+  Liv: 580
+  BasicattackDamage: 65

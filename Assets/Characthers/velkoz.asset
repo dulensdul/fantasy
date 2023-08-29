@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: velkoz
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: velkoz
+  charactherBillede: {fileID: 21300000, guid: ec7b6c8fb3b221a40a17bf04a5b0bd52, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder meget langt hvor du skader 103 og g\xF8re dem 20% langsommer
+    i 1sec,n\xE5r dit q er landet kommer der ogs\xE5 skyd fra venstre og h\xF8jre
+    der skader 70,og g\xF8re fjenden 20% langsommer i 1sec"
+  ablityWText: skyder med en lang shadow plade der sker 70
+  ablityEText: skyder med en rund ring der skader 70,stunder fjenden i 2sec
+  ablityRText: "skyder med en meget langstr\xE5le ud af dit \xF8je det skader 120
+    i seckundtet i 4sec,du kan ikke selv bev\xE6ge dig mens du skyder men du kan
+    cancle den tideligere"
+  ablityPassiveText: "skader 10% ekstra med dit n\xE6ste q,hvis den rammer fra venstre
+    eller h\xF8jre"
+  personlighed: jeg ligner en oldgood fra wow
+  Liv: 580
+  BasicattackDamage: 25

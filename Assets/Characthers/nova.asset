@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: nova
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: nova
+  charactherBillede: {fileID: 21300000, guid: d73d20493920503449e14efc497c2891, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder ret langt lige ud og skader 120
+  ablityWText: "laver en kopi af dig hvor fjenden kan resikere at tro at det er den
+    rigtige dig,kopien d\xF8r p\xE5 et slag og skud"
+  ablityEText: "skader 50% mere med det n\xE6ste q du bruger"
+  ablityRText: "skyder med din sniper med en r\xF8dstr\xE5le der rammer uanset hvad
+    og skader 400,hvis du dr\xE6ber en med din ult kan du bruge den med det samme
+    igen,hvis der kommer en anden fjende champ foran den du skyder efter,rammer du
+    den der st\xE5r foran istedenfor"
+  ablityPassiveText: "f\xE5r 50% mere guld af de minions du dr\xE6ber"
+  personlighed: "jeg er bare s\xE5 god"
+  Liv: 590
+  BasicattackDamage: 50

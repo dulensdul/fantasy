@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: drakken
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: dr.drakken
+  charactherBillede: {fileID: 21300000, guid: c9a5afb02bf8a8f4bb0f0936fa944b9b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en laserstr\xE5le der skader 120"
+  ablityWText: "laver f\xE6lder p\xE5 jorden,fjenden der g\xE5r ind i den bliver
+    skadet 30,bliver stundet i 3sec"
+  ablityEText: "skaber 3 sm\xE5 robotter,de har 100 og skader 45"
+  ablityRText: "skyder med en d\xF8dsstr\xE5le der dr\xE6ber en fjende champ p\xE5
+    et skud,kan kun skyde en og har 200cooldown n\xE5r du har brugt den"
+  ablityPassiveText: "f\xE5r 10 guld for hvergang du overlver med 20 liv"
+  personlighed: "du tror du er s\xE5 klog,men det er du slet ikke"
+  Liv: 580
+  BasicattackDamage: 35

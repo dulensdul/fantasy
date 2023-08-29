@@ -22,8 +22,8 @@ MonoBehaviour:
   ablityQText: "skyder en ildkugle som flyver hurtigt ind i fjenden og forf\xF8lger
     indtil den rammer og skader 120"
   ablityWText: 'giver dig mere og mere %skjold jo mere dmg du tager '
-  ablityEText: "skyder med gult str\xF8m der skader 100 og g\xF8re din fjende langsom
-    p\xE5 sammentid og rammer uanset hvad"
+  ablityEText: "skyder med gult str\xF8m der skader 100,og g\xF8re fjenden 30% langsommer,de
+    bliver ramt uanset hvad"
   ablityRText: "kopiere 3 af dig selv som bruger de samme angreb p\xE5 fjenden som
     du bruger p\xE5 fjenden og de skader det samme som dig,men de d\xF8r p\xE5 et
     slag eller skud hvis di fjende rammer dem"

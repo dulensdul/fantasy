@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: tassadar
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: tassadar
+  charactherBillede: {fileID: 21300000, guid: 72bac1e5c08ee6e4bbee332c6db0d8d3, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en str\xF8m kugle der skader 100"
+  ablityWText: giver endten dig selv eller din vennechamp 20% mere beskyttelse
+  ablityEText: "skyder med en str\xF8mstr\xE5le der skader 100,og g\xF8re fjenden
+    30% langsommer"
+  ablityRText: "g\xF8re dig til en k\xE6mpe og giver dig 300 mere maxliv,og skader
+    300 mere liv i din basicattack"
+  ablityPassiveText: "giver din venne champ der er i n\xE6rheden guld fra de minnions
+    du f\xE5r killet af"
+  personlighed: jeg kan godt lide romkugler,det bedste
+  Liv: 580
+  BasicattackDamage: 50

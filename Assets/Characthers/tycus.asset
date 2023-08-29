@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: tycus
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: tycus
+  charactherBillede: {fileID: 21300000, guid: 6e2165ab2705b2941af39604a7f9c815, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skader 30 i seckundtet i 4sec
+  ablityWText: kaster en bumbe der skader 90,skubber fjenden lidt frem af eller bag
+    ud
+  ablityEText: charger lidt frem af
+  ablityRText: "g\xF8re dig til en k\xE6mperobot hvor du f\xE5r 400 maxliv mere,og
+    100% mere dmg"
+  ablityPassiveText: "for hvet minion kill du f\xE5r,f\xE5r du 1 sec mindre cooldown
+    p\xE5 dit q n\xE5r der er cooldown p\xE5"
+  personlighed: jeg har lyst til en burger
+  Liv: 590
+  BasicattackDamage: 50

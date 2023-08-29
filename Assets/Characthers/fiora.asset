@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: fiora
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: fiora
+  charactherBillede: {fileID: 21300000, guid: 44fa8b055812af84db8ea9c79dfb1181, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: charger lidt og skader 90
+  ablityWText: parere abilitys i 2sec
+  ablityEText: giver dig 60% mere basicattack dmg i 3sec
+  ablityRText: "laver en stor rund rung hvor du skader 100% mere p\xE5 fjenden n\xE5r
+    fjenden er inde i ringen"
+  ablityPassiveText: "skader 20% mere p\xE5 tanks og bruiseres"
+  personlighed: "hvorfor er jeg s\xE5 OP?"
+  Liv: 682
+  BasicattackDamage: 70

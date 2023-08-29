@@ -19,11 +19,11 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
+  ablityQText: "sl\xE5r h\xE5rdt med din linial og skader 95"
+  ablityWText: "l\xF8ber 30% hurtigere i 2sec"
+  ablityEText: "f\xE5r 30%attackspeed i 3sec"
+  ablityRText: "f\xE5r 70% attackspeed og 70% mommentspeed i 7sec"
+  ablityPassiveText: "l\xF8ber 10% hurtigere n\xE5r du er ved at d\xF8"
+  personlighed: "man m\xE5 ikke fejle i matematik,ellers skal man d\xF8"
   Liv: 680
   BasicattackDamage: 50

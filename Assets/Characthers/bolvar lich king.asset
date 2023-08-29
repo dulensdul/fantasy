@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: bolvar lich king
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bolvar the lich king
+  charactherBillede: {fileID: 21300000, guid: fbd0959cc224e4f4eb1ede5001baa1d5, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt med din hammer og skader 120"
+  ablityWText: "sl\xE5r h\xE5rdt ned jorden der rammer lige ud lidt langtv\xE6k og
+    skader 120"
+  ablityEText: skyder med is tapper der skader 100
+  ablityRText: "skyder med k\xE6mpesten og skader 300,stunder fjenden i 3sec"
+  ablityPassiveText: "laver en d\xF8d fjende minion om til en venne zombie minion
+    istedenfor,din passiv har 10sec cooldown"
+  personlighed: what sylvanas er bare broken
+  Liv: 800
+  BasicattackDamage: 60

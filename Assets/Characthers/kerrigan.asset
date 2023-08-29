@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kerrigan
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kerrigan
+  charactherBillede: {fileID: 21300000, guid: 3056b6e1c621d2d45984ee1fa41374d9, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "hopper p\xE5 en og skader 90"
+  ablityWText: laver en ring der skader 90,stunder fjenden i 2sec
+  ablityEText: "tr\xE6kker fjenden hen til dig og skader 90"
+  ablityRText: giver dig selv 300 mere liv og 100% mere dmg i 6sec
+  ablityPassiveText: skader 50 ekstra liv fra hver 3 basicattack
+  personlighed: jeg elsker bare at snyde
+  Liv: 600
+  BasicattackDamage: 60

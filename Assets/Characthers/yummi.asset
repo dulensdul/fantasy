@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: yummi
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: yummi
+  charactherBillede: {fileID: 21300000, guid: ff34504e3138f334ca648b77a7ccd107, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
@@ -24,6 +24,6 @@ MonoBehaviour:
   ablityEText: 
   ablityRText: 
   ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  personlighed: jeg kan dulle en dul luuuu
+  Liv: 570
+  BasicattackDamage: 15

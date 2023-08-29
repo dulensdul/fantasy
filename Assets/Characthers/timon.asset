@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: timon
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: timon
+  charactherBillede: {fileID: 21300000, guid: 8104a7d3930ffb1448bd0bef022ae8ea, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver din venne champ en bille der healer din vennechamp 70 liv
+  ablityWText: spiser en bille og healer dig 70
+  ablityEText: "f\xE5r en fjende til at g\xE5 efter dig og g\xF8re dem 20% langsommer
+    plus de kan ikke bruge angreb imens"
+  ablityRText: "s\xF8ger for at mappet vender p\xE5 hovedt hvor alle d\xF8r"
+  ablityPassiveText: "f\xE5r 5% liv i seckundtet n\xE5r du st\xE5r stille"
+  personlighed: ja det er mig,timooooon
+  Liv: 580
+  BasicattackDamage: 35

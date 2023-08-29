@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: rammus
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: rammus
+  charactherBillede: {fileID: 21300000, guid: af73962d61f103f4584aa3a8f98a138f, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "ruller som giver dig 50% mere mommentspeed,den du st\xF8der ind p\xE5
+    bliver skadet 60,og stundet i 2sec"
+  ablityWText: "laver et skjold hvor dem som bruger fysisk dmg p\xE5 dig bliver skadet
+    selv,dit skjold forsvinder igen n\xE5r der er g\xE5et 4sec"
+  ablityEText: taunter en fjende i 2sec
+  ablityRText: "ruller som giver dig 100% mere mommentspeed hvor n\xE5r du kommer
+    i n\xE6rheden af nogen fjende champs lander du p\xE5 dem og skader 120,og stunder
+    fjernderne i 3sec"
+  ablityPassiveText: "f\xE5r 20% beskyttelse fra hvergang der g\xE5r 20 secundter,seckundterene
+    t\xE6ller f\xF8rst igen n\xE5r din beskyttelse er v\xE6k"
+  personlighed: haha nu er vi 2 skildpader,mig og mester oogway
+  Liv: 800
+  BasicattackDamage: 35
