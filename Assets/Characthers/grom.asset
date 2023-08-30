@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: grom
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: grom
+  charactherBillede: {fileID: 21300000, guid: 4643da9901a649e46b87de32611e4819, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: svinger med din le og skader 95 aoi dmg
+  ablityWText: "skr\xE6mmer en fjende champion hvor de l\xF8ber v\xE6k fra dig i
+    3sec"
+  ablityEText: "skyder med en sortstr\xE5le spell der skader 120"
+  ablityRText: "bruger dine le krafter og skaber 20 zombie minnions,de er ligs\xE5
+    svage som de normale minnions som begge hold har"
+  ablityPassiveText: "f\xE5r 200 guld for hvergang din champion ser en d\xF8"
+  personlighed: jeg er manden med bleen,vent haha jeg gjorte nar af mig selv
+  Liv: 700
+  BasicattackDamage: 50

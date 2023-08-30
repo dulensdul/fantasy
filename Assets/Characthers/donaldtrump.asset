@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: donaldtrump
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: donaldtrump
+  charactherBillede: {fileID: 21300000, guid: 2bac02d1ae2d26642b10bbfbda97936a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol der skader 120
+  ablityWText: skyder med en shutgun der skader 140
+  ablityEText: skyder med en revolver der skader 120
+  ablityRText: "skyder med en atombumbe der dr\xE6ber minnions og champions p\xE5
+    et skud,du bestemmer selv hvor i mappet den skal affyres"
+  ablityPassiveText: "f\xE5r hurtigere gold in de andre"
+  personlighed: "jeg kan godt lide p\xF8lsemaaaaaad!"
+  Liv: 600
+  BasicattackDamage: 55

@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: batgirl
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: batgirl
+  charactherBillede: {fileID: 21300000, guid: 949d3ae088f174643a4b0537bacec7fd, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: hopper mod en fjende og skader 95
+  ablityWText: "hopper op p\xE5 en fjende og skader 90,stunder fjenden i 2sec"
+  ablityEText: kaster med bat boomeranger der skader 95
+  ablityRText: giver dig selv 500% mere attackspeed i 4sec
+  ablityPassiveText: "hvergang du st\xE5r ved batman bliver du lidt st\xE6rker"
+  personlighed: jeg er der om natten,jeg er megabuks
+  Liv: 640
+  BasicattackDamage: 50

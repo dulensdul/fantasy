@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: agnet p
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: agent p
+  charactherBillede: {fileID: 21300000, guid: f6ef35f88ba148049ac07f2f1a208cab, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "springer p\xE5 en fjende og skader 90"
+  ablityWText: skader med sin hat og skader 80
+  ablityEText: sparker fjenden der skader 100,stunder fjenden i 1sec
+  ablityRText: "hopper op p\xE5 et fly hvor du f\xE5r en ability der skyder med missiler
+    der skader 210,du kan ikke d\xF8 imens du har ultet oppe,du er i flyvet i 4sec"
+  ablityPassiveText: "hvergang du springer f\xE5r du 10% mommentspeed i 2sec"
+  personlighed: det skal du ikke regne med
+  Liv: 590
+  BasicattackDamage: 45

@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: emperor antaris
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: emperor artaris
+  charactherBillede: {fileID: 21300000, guid: c2e0ee7766d101c44ba102ad20166ceb, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skaber sv\xE6r skelet minnions der skader 50,har 100 liv"
+  ablityWText: skaber heavy skeletet minnions der skader 80,har 250liv
+  ablityEText: skaber bueskydt skelet minnions der skader 70,har 180liv
+  ablityRText: skyder med ildtsten der falder ned fra hemlen der skader 80 i seckuntet
+    i 8sec
+  ablityPassiveText: "skyder med en firebolt der skader 120,den kommer for hvergang
+    der er g\xE5et 20sec"
+  personlighed: jeg kan huske at jeg var ret op i det med ballonerne som jacob og
+    elias lejet engang
+  Liv: 620
+  BasicattackDamage: 50

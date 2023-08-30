@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: darkipiler
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: darkipiler
+  charactherBillede: {fileID: 21300000, guid: 8a3f2a9d6d128a54fbbd5172ad2f181e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol og skader 120
+  ablityWText: "forvandler dig til en du er i n\xE6rheden af,hvor du ligner den i
+    3sec"
+  ablityEText: "teleportere en fjende til en af dine vennechamp,det bliver den der
+    er t\xE6ttes p\xE5 dig"
+  ablityRText: "laver en kopi af dig selv der skader det samme som dig,hvis de rammer
+    dig,forsvinder din kopi,din kopi f\xF8lger efter dig og g\xE5r efter dem du g\xE5r
+    efter,den bruger de samme angreb som du bruger"
+  ablityPassiveText: "for hvergang der er g\xE5et 20sec,f\xE5r du et overs\xE6g der
+    giver dig 10% mere dmg p\xE5 dit q i 3sec"
+  personlighed: "det burde at v\xE6re mig der var den rigtige markipiler"
+  Liv: 620
+  BasicattackDamage: 50

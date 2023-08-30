@@ -19,11 +19,16 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
+  ablityQText: "skyder med en lang ring der rammer uanset hvad der skader 50,g\xF8re
+    fjenden 20% langsommer i 2sec"
+  ablityWText: "healer dig selv 70 liv,hvis du sidder p\xE5 en vennechamp healer
+    den vennechampionen 70liv"
+  ablityEText: "hopper op p\xE5 en vennechamp og gver vennechampionen 10% mommentspeed
+    og attackspeed,de har det indtil du ikke sidder der mere"
+  ablityRText: "slyder med en k\xE6mpe gul magiting hvor et skud med den skader 100,hvis
+    du rammer med alle 3 skud p\xE5 fjenden,stunder det fjenderne i 3sec"
+  ablityPassiveText: "healer 5% mere liv med din n\xE6ste w,n\xE5r du har healet
+    en der var ved at d\xF8"
   personlighed: jeg kan dulle en dul luuuu
   Liv: 570
   BasicattackDamage: 15

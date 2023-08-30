@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: bwozambi
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bwozzambi
+  charactherBillede: {fileID: 21300000, guid: ba55cde623a982c40b3b7837703597a2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en lillastr\xE5le der skader 125"
+  ablityWText: "skyder med bl\xE5 sten der skader 110"
+  ablityEText: "sl\xE5r med dine kl\xF8r der skader 95"
+  ablityRText: "f\xE5r en fjende til at tisse som stunder fjenden i 12sec"
+  ablityPassiveText: "hvergang du g\xE5r ind i en d\xF8d champion f\xE5r du 100 mana "
+  personlighed: du skal tis tis tis
+  Liv: 612
+  BasicattackDamage: 35

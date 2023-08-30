@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: gizmo
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gizmo
+  charactherBillede: {fileID: 21300000, guid: bdd8677340bb8d7458dd989645c5fa75, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med kanoner der skader 125
+  ablityWText: skyder med missiler der skader 125
+  ablityEText: giver dig selv 25% mere basicattack dmg i 3sec
+  ablityRText: "skaber 5 k\xE6mperobot minnions der har 500liv og skader 200,de er
+    der indtil de d\xF8r eller udl\xF8ber ved 8sec"
+  ablityPassiveText: "skader 10% mere p\xE5 titans champs"
+  personlighed: "jeg forst\xE5r ikke hvorfor cyborg skal findes,jeg synes at han
+    skal skride"
+  Liv: 580
+  BasicattackDamage: 50

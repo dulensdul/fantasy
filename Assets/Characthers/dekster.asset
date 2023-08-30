@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: dekster
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: dekster
+  charactherBillede: {fileID: 21300000, guid: 943564a5964ece344986c2c4f0a870a8, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en lasergun der skader 120
+  ablityWText: "laver totems der har 300 liv og skader 50,der kan h\xF8jest v\xE6re
+    3"
+  ablityEText: "bygger en kanon der har 300liv og skader 95,der kan kun st\xE5 1"
+  ablityRText: "bliver til en k\xE6mperobot der giver dig 500 mere maxliv og 100%
+    mere dmg i 4sec"
+  ablityPassiveText: "hvergang dine totems d\xF8r f\xE5r du 100 mana"
+  personlighed: "jeg er nok den st\xF8rste geni der nogensinde har levet,og mandark
+    er den v\xE6rste til min menning"
+  Liv: 590
+  BasicattackDamage: 55

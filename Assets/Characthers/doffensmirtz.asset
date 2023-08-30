@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: doffensmirtz
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: doffensmirtz
+  charactherBillede: {fileID: 21300000, guid: d19d37a3fac1d8e4a881f0f695030efc, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r med en stang der skader 80"
+  ablityWText: "laver fejler,hvis en fjende g\xE5r i de fejler du har lavet,bliver
+    de skadet 50,rootet i 2sec"
+  ablityEText: danser hvor du dodger alt i 2sec
+  ablityRText: skyder med en enator der skader 500
+  ablityPassiveText: "n\xE5r du har brugt dit ult skader du 10 liv mere med dit q,s\xE5
+    snart du bruger den"
+  personlighed: "mit navn er doof i skal g\xF8re hvad jeg siger uuups uuups"
+  Liv: 590
+  BasicattackDamage: 35
