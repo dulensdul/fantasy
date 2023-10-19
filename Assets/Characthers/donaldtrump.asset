@@ -20,11 +20,12 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: skyder med en pistol der skader 120
-  ablityWText: skyder med en shutgun der skader 140
+  ablityWText: skyder med en shutgun der skader 120
   ablityEText: skyder med en revolver der skader 120
-  ablityRText: "skyder med en atombumbe der dr\xE6ber minnions og champions p\xE5
-    et skud,du bestemmer selv hvor i mappet den skal affyres"
+  ablityRText: "skyder med en atombumbe der skader 500,du v\xE6lger selv i mappet
+    hvor den skal skydes,der kommer en advarsels tegn for fjenderne hvor den skal
+    til at ramme"
   ablityPassiveText: "f\xE5r hurtigere gold in de andre"
   personlighed: "jeg kan godt lide p\xF8lsemaaaaaad!"
-  Liv: 600
-  BasicattackDamage: 55
+  Liv: 595
+  BasicattackDamage: 50

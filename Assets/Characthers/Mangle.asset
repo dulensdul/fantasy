@@ -19,17 +19,16 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "giver dig mommentspeed p\xE5 40% og skader 10 ekstra liv med din
+  ablityQText: "giver dig mommentspeed p\xE5 40% og skader 50 ekstra liv med din
     basic attack hvis du n\xE5r at ramme dem imens dit q er oppe"
   ablityWText: "kravler under jorden og hvis du n\xE5r at ramme en fjende n\xE5r
     du kommer op bliver fjenden stundet i 1sec og skader 70"
-  ablityEText: "kravler oppe p\xE5 fjende t\xE5rnet og skader 50%mere p\xE5 t\xE5rnet
+  ablityEText: "kravler oppe p\xE5 fjende t\xE5rnet og skader 25%mere p\xE5 t\xE5rnet
     in hvis du ikke var oppe p\xE5 den"
   ablityRText: "f\xE5r 100% mommentspeed i meget langtid og giver dig 40%attackspeed
-    oveni"
+    oveni,i 4sec"
   ablityPassiveText: "sl\xE5r langsomt hurtigere og hurtigere  jo l\xE6nger tid du
     sl\xE5r l\xF8s p\xE5 en minnion eller p\xE5 en monster kamp"
-  personlighed: "mangle er den mindst dullet af dem alle,hun elsker at k\xF8re i
-    bus,"
+  personlighed: jeg er mangle jeg lyder som hive five ghost
   Liv: 580
   BasicattackDamage: 60

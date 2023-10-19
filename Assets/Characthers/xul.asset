@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: xul
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: xul
+  charactherBillede: {fileID: 21300000, guid: 01db6f10cf7eb9c44b1db69d03fc38d2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "svinger med din le og skader 90 aoi dmg,du f\xE5r skelet minnions
+    fra alle de minnions du n\xE5r at dr\xE6be med dit q"
+  ablityWText: "kaster med din le og skader 90 hvis den rammer,leen flyver tilbage
+    til dig igen,hvis fjenden bliver ramt af den der ogs\xE5,bliver de skadet 90
+    igen,giver dig de minnions du n\xE5r at dr\xE6be"
+  ablityEText: "f\xE5r 50% attacksped i 3sec,hvis du n\xE5r at dr\xE6be minions imens
+    dit e er oppe,f\xE5r du minnionsne"
+  ablityRText: "skyder med noget gift r\xF8g der skader 400 i seckundtet i 4sec,hvis
+    de bliver ramt af den"
+  ablityPassiveText: "hvert minnion kill giver dig den minnion og dr\xE6ber med din
+    basictattack"
+  personlighed: "jeg ligner ogs\xE5 en zombieie,ligesom dig sion"
+  Liv: 620
+  BasicattackDamage: 50

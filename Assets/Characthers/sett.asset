@@ -24,9 +24,8 @@ MonoBehaviour:
     jo mere skadet det bliver
   ablityEText: "tr\xE6kker dem hen til dig og skader 50 og stunder 1sec"
   ablityRText: skader 200 og stunder fjenden i 2sec
-  ablityPassiveText: setts basic attacks alternate between left and right punch,right
-    punsh is slightly stronger and faster,sett also hates losing,gaining additional
-    health regeneration based off of his missing health
+  ablityPassiveText: "din venstre h\xE5nd har 5% mere attackspeed,og din h\xF8jre
+    h\xE5nd har 5%mere basicattack dmg"
   personlighed: jeg kalder mig selv som bossen,dulen vil sikkert sige buksen
   Liv: 720
   BasicattackDamage: 65

@@ -19,9 +19,9 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "f\xE5r 10%mindre attackspeed og 10% mere"
+  ablityQText: "f\xE5r 20% mere basicattck dmg i 3sec"
   ablityWText: parrere fysisk dmg
-  ablityEText: "f\xE5r krumsablen og skader 70 i bacsis attack istedenfor 60,men
+  ablityEText: "f\xE5r krumsablen og skader 100 i bacsis attack istedenfor 60,men
     kun i 4sec"
   ablityRText: "styre en k\xE6mperobot  der g\xF8re alle dine abilitys st\xE6rker
     med 50%/ludl\xF8ber n\xE5r du har v\xE6ret den i 5 sec"

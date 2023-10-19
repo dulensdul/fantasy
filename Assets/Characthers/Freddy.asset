@@ -19,13 +19,13 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: kaster sin mirkofon og skader 70
-  ablityWText: taunter en fjende der taunter dem i 1 sec
-  ablityEText: "sl\xE5r ned i jorden og skader 60 af de fjender der er lidt t\xE6t
-    p\xE5 dig og omgring dig"
-  ablityRText: taunter alle omkring dig og vare i 1 sec
+  ablityQText: kaster sin mirkofon og skader 90
+  ablityWText: taunter en fjende der taunter dem i 3sec
+  ablityEText: "sl\xE5r ned i jorden og skader 60 p\xE5 de fjender der er lidt t\xE6t
+    p\xE5 dig og omgring dig i 3sec"
+  ablityRText: taunter alle omkring dig og vare i 3 sec
   ablityPassiveText: "jo mere skade han f\xE5r jo mere sur bliver han og skader 1dmg
     mere i hans bacsis attack"
-  personlighed: freddy er glad for eventyr,bliver nemt sur,lederen af freddysne
+  personlighed: hey du der,are you ready for freddy
   Liv: 800
-  BasicattackDamage: 40
+  BasicattackDamage: 50

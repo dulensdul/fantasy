@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: sonic
+  m_EditorClassIdentifier: 
+  navn: sonic
+  charactherBillede: {fileID: 21300000, guid: 8bbeed6d875c8f6419e4bd5c8ed39f71, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: giver dig 40% mere mommentspeed i 3sec
+  ablityWText: giver dig 40% mere attackspeed i 3sec
+  ablityEText: giver dig selv 20 guld
+  ablityRText: "laver dig om til en bold hvor du f\xE5r 500% mere mommentspeed i
+    5sec,hvis du n\xE5r at st\xF8de ind i en fjende med dit ult oppe,skader du 350
+    p\xE5 den fjendechamp du ramte,plus fjenden bliver stundet i 3sec,de minions
+    du rammer med dit ult oppe d\xF8r bare"
+  ablityPassiveText: "hvergang du bruger dit q eller ult,kan du hoppe over v\xE6ggene,men
+    kun hvis dit q eller ult er oppe imens"
+  personlighed: "hvorfor er du s\xE5 sur heletiden shadow sonic"
+  Liv: 624
+  BasicattackDamage: 50

@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: uli
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: uli
+  charactherBillede: {fileID: 21300000, guid: 7f7dff0da0934ef41b4a8c5b3e585261, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 30% attackspeed i 3sec
+  ablityWText: giver dig 20% lifesteal i 3sec
+  ablityEText: "l\xF8ber ind i en fjendechamp og skader fjenden 70,stunder fjenden
+    i 2sec"
+  ablityRText: "laver en ring om der selv der vare i 4sec,dem der er lidt t\xE6t
+    p\xE5 dig bliver skader 150 i seckundtet"
+  ablityPassiveText: for hver 4 basicattack dmg giver dig 1sec mindre cooldown fra
+    dit q
+  personlighed: jeg er ulivor gum,vent nej det var ikke det jeg mente mahahaha
+  Liv: 601
+  BasicattackDamage: 45

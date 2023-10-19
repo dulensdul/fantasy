@@ -19,17 +19,16 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "frostbolt:skader fjenden 70 og g\xF8re fjenden 30% langsommer i 2sec"
+  ablityQText: "frostbolt:skader fjenden 108 og g\xF8re fjenden 30% langsommer i
+    2sec"
   ablityWText: laver et frost  skjold som tager skaden istedenfor du bliver skadet,skjoldet
     har 100 liv
-  ablityEText: "skyder med frost nova der skader 30 p\xE5 fjenden og rooter fjenden
+  ablityEText: "skyder med frost nova der skader 80 p\xE5 fjenden og rooter fjenden
     i 3sec"
   ablityRText: skyder med is frostspell hvor du laver championen om til en isklump
     hvor fjenden er stundet i den i 3sec og imens han er isklumpen skader dine abilitys
     fjenden 30% mere
   ablityPassiveText: allle dem der er en ting skader du 20% mere
-  personlighed: "den m\xE6gtiske helpy her g\xE5r meget op i magiere,han kan ogs\xE5
-    lide andre magikere men hader magi skurke,han er neutral og er gode venner med
-    fnaf landet"
+  personlighed: "jeg er den m\xE6gtiske helpy"
   Liv: 550
   BasicattackDamage: 45

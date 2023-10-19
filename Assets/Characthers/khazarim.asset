@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: khazarim
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: khazarim
+  charactherBillede: {fileID: 21300000, guid: bbc64c569dd2f42419dfa84fc8f124ed, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: charger lidt frem af og skader 95
+  ablityWText: "healer dig og alle dine vennechamp t\xE6t ved dig 95 liv"
+  ablityEText: giver dig selv 100% mere attackspeed i 3sec
+  ablityRText: "g\xF8re dig ud\xF8delig og skader 500 p\xE5 alle de fjendechamps
+    der er t\xE6t p\xE5 dig"
+  ablityPassiveText: "hver 3 basicattack slag helaer dig og dine vennechamps t\xE6t
+    ved dig 40liv"
+  personlighed: "jeg fik avide at jeg ikke m\xE5 hacke,men jeg g\xF8re det aligevel
+    bare for at v\xE6re flabed"
+  Liv: 595
+  BasicattackDamage: 45

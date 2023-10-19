@@ -25,8 +25,8 @@ MonoBehaviour:
     w f\xE5r du 30 liv"
   ablityEText: "skubber en minion,hvis du rammer fjende championen skader den 70,g\xF8re
     dem 50% langsommer,og \xF8del\xE6gger deres armor s\xE5 n\xE5r du sl\xE5r ham
-    skader du ekstra p\xE5 ham "
-  ablityRText: "l\xF8ber sindsygt hurtigt,hvis du l\xF8ber ind i en skader du 100
+    skader du ekstra p\xE5 ham,i 3sec "
+  ablityRText: "l\xF8ber sindsygt hurtigt,hvis du l\xF8ber ind i en skader du 200
     og stunder fjenden i 4sec"
   ablityPassiveText: "n\xE5r du d\xF8r er du levene igen,og sl\xE5r sindsygt hurtigt
     og l\xF8ber 70% hurtigere,du f\xE5r ogs\xE5 50 mere dmg,du mister liv automatisk,n\xE5r

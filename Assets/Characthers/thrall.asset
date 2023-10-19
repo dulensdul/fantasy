@@ -21,7 +21,7 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "skyder med en lightningbolt der skader 70,den spreder sig p\xE5 andre
     fjender der er t\xE6t p\xE5 fjenden du skyd og skader de andre 50 ved det"
-  ablityWText: "skyder med en sp\xF8gelseulv,skader fjenden 50 og stunder fjenden
+  ablityWText: "skyder med en sp\xF8gelseulv,skader fjenden 80 og stunder fjenden
     i 1sec"
   ablityEText: "giver dig 20% attackpeed og 20% mommentspeed,du har buffen indtil
     du har sl\xE5et en,skader 200 n\xE5r du har sl\xE5et en"

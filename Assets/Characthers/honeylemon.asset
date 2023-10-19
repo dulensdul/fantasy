@@ -19,10 +19,10 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: skyder med en slim kugle der skader 80,stunder fjenden i 2sec
-  ablityWText: "skyder med en slim kulge der skader 90,g\xF8re fjenden 30% langsommer
+  ablityQText: skyder med en slim kugle der skader 110,stunder fjenden i 2sec
+  ablityWText: "skyder med en slim kulge der skader 110,g\xF8re fjenden 30% langsommer
     i 2sec"
-  ablityEText: skyder med en fryse gun der skader 85,stunder fjenden i 2sec,giver
+  ablityEText: skyder med en fryse gun der skader 100,stunder fjenden i 2sec,giver
     dig 50% mommentspeed i 3sec
   ablityRText: "skyder l\xF8s med din gun og skader 100 i secundtet i 4sec"
   ablityPassiveText: "hvergang du kommer i n\xE6rheden af nogen der har bukser p\xE5

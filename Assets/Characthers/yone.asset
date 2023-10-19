@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: yone
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: yone
+  charactherBillede: {fileID: 21300000, guid: 23966fc83e4d7f64cb690a6b36f7ff60, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "stikker en fjende ned med dit sv\xE6r der skader 140,efter det kan
+    dit q charge ind i en fjende der skader 95,stunder fjenden i 2sec"
+  ablityWText: "sl\xE5r lidt lang med dit sv\xE6rd og skader 95 aoidmg,giver dig
+    40 beskyttelse"
+  ablityEText: "du charger ind i en fjende hvor du kan sidde fast p\xE5 din fjende
+    uden at fjenden kan g\xF8re noget ved det,du ryger tilbage fra der hvor du har
+    brugt den ved 3sec "
+  ablityRText: laver en lang line hvor du charger langt lige ud,dem der bliver ramt
+    bliver skadet 200,fjenderne bliver stundet i 2sec
+  ablityPassiveText: "hver 3 basicattack slag f\xE5r du critical dmg i dit basicattack"
+  personlighed: jeg sagde neeeeeej ahohoho
+  Liv: 595
+  BasicattackDamage: 50

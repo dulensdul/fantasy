@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: jessica
+  m_EditorClassIdentifier: 
+  navn: jessica
+  charactherBillede: {fileID: 21300000, guid: 8e1260269cb90ca49a5cc9db9eda0d2f, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "ryger ind i en fjende og skader 95 og kommer ud igen n\xE5r du har
+    skadet fjenden og spawner i den fjende du skadet med dit q"
+  ablityWText: healer dig 50 liv i seckundtet i og tager 25% mindre dmg i 3sec,den
+    kan afbrydes af stun eller hvis du bliver trukket
+  ablityEText: giver dig 50 ekstra basicattack dmg i 6sec
+  ablityRText: givr dig 100% mere momment og attackspeed og immunover for slow i
+    6sec
+  ablityPassiveText: "hver 5 slag giver dit n\xE6ste basicattack dobelt dmg"
+  personlighed: "lad hinde v\xE6re din store p\xF8lle"
+  Liv: 624
+  BasicattackDamage: 50

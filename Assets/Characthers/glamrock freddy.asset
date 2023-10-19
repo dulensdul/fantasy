@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: glamrock freddy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: glamrock freddy
+  charactherBillede: {fileID: 21300000, guid: b4f86b81ad88bc94c993499b296d0edc, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en gul kugle der skader 70,skubber fjenden lidt v\xE6k,derefter
+    g\xF8re du fjenden 20% langsommer i 2sec"
+  ablityWText: "healer alle vennechamps 50liv der er t\xE6t p\xE5 dig"
+  ablityEText: giver din vennechamp 20% mere mommentspeed i 2sec
+  ablityRText: fjerner dine vennechamps stun og roots
+  ablityPassiveText: "din n\xE6ste basicattack dmg br\xE6nder fjenden der skader
+    fjenden 30 ekstra"
+  personlighed: der er ret mange gegoier gegoi
+  Liv: 700
+  BasicattackDamage: 50

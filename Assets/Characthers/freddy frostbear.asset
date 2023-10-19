@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: freddy frostbear
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: freddyfrost bear
+  charactherBillede: {fileID: 21300000, guid: 651aff004a40f8a4f8f24241ae4ddc3d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: charger ind i en fjende og skader 70,stunder fjenden i 2sec
+  ablityWText: "skyder med en istap p\xE5 en fjendechamp og skader 70,g\xF8re fjenden
+    30% langsommer i 2sec"
+  ablityEText: "sl\xE5r 5gange p\xE5 en fjendechamp der skader 95 i alt,efter det
+    bliver fjenden til en isklump hvor fjenden i stundet i 3sec"
+  ablityRText: "skyder med en stor frostbolt der skader 200,stunder fjenden i 3sec,n\xE5r
+    deres stun er overst\xE5et bliver fjenden 30% langsommer i 3sec"
+  ablityPassiveText: "du f\xE5r mere armor og magicreset for jo mindre liv du har"
+  personlighed: is tis fis nis
+  Liv: 770
+  BasicattackDamage: 55

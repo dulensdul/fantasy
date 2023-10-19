@@ -19,14 +19,13 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "f\xE5r attackspeed p\xE5 20%"
+  ablityQText: "f\xE5r attackspeed p\xE5 30%,i 3sec"
   ablityWText: "hopper op p\xE5 en fjende champ og skader 80"
-  ablityEText: river en fjende der skader fjenden 10 liv i 3sec
-  ablityRText: "charger efter en og kan g\xF8re det 2 gange mere og skader 120 med
+  ablityEText: river en fjende der skader fjenden 30 liv i 3sec
+  ablityRText: "charger efter en og kan g\xF8re det 2 gange mere og skader 230 med
     det f\xF8rste slag n\xE5r du bruger den her ult"
   ablityPassiveText: "rammer automatisk bedre jo mere de lade dig sl\xE5 dem,det
     med du rammer bedre vil laves om til normal n\xE5r du g\xE5r v\xE6k fra kampen"
-  personlighed: "den best\xF8vlede kat er meget selvsikker,kendt som den reroiske
-    helt,han er ogs\xE5 meget egoistisk"
+  personlighed: "det mig den best\xF8vlede kat,og jeg frygter intet"
   Liv: 700
   BasicattackDamage: 50

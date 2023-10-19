@@ -22,7 +22,7 @@ MonoBehaviour:
   ablityQText: "skyder med gr\xF8nne lasersyn som hvis de rammer skader de 90"
   ablityWText: "flyver h\xE5rdt ind i en fjende og skader 90"
   ablityEText: "sl\xE5r med en superstyrke som skader 90"
-  ablityRText: "sl\xE5r fjenden ned i jorden og skader 200"
+  ablityRText: "sl\xE5r fjenden ned i jorden og skader 350"
   ablityPassiveText: "der kommer en tilf\xE6ldighed hvor du f\xE5r 10% mommentspeed
     i 1sec"
   personlighed: "starfire er faktisk den ondeste af titansne,hun har flere gange

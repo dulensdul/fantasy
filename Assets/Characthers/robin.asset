@@ -27,8 +27,6 @@ MonoBehaviour:
     halvdelen af dem rammer skader det 200,hvis de alle rammer skader det 400
   ablityPassiveText: "f\xE5r 10% mere bascic attack dmg,n\xE5r du har sl\xE5et fjenden
     i langtid,men forsvinder igen n\xE5r du stopper med at sl\xE5 champion fjenden"
-  personlighed: "meget sindsyg nogen gange,selv om han hjalp de andre titans med
-    at have et godt liv hader de ham stadig fordi de alle er sindsyge,han er tr\xE6t
-    af at de ikke vil lytte til ham"
+  personlighed: "jeg er s\xE5 glad for at jeg endelig har f\xE5et magt HAHAHAHAHA"
   Liv: 700
   BasicattackDamage: 70

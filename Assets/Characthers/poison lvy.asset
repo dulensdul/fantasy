@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: poison lvy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: poisonlvy
+  charactherBillede: {fileID: 21300000, guid: 883284a3171385444806f12f3de5f837, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en lang griftgren der skader 95,rooter fjenden i 2sec
+  ablityWText: "skaber sm\xE5 planter der skader 95"
+  ablityEText: "tr\xE6kker en fjende hen til dig og skader 70,stunder fjenden i 2sec"
+  ablityRText: "skaber k\xE6mpe planter der skader 300"
+  ablityPassiveText: "du skaber en plante hver 20sec,n\xE5r fjenden g\xE5r ind i
+    planten hvil fjenden blive skadet 50"
+  personlighed: hvem vil ikke gerne plante planter
+  Liv: 600
+  BasicattackDamage: 40

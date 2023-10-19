@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kronk
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kronk
+  charactherBillede: {fileID: 21300000, guid: 56e6f9202ccb6cb468baed9235818e4f, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r ned i jorden hvor der kommer en r\xF8d vulcan line der rammer
+    fjendechhampionen og skader 90"
+  ablityWText: skyder med flamme ud af munden der skader 90 aoi dmg
+  ablityEText: "charger ind i en fjende n\xE5r du er t\xE6t p\xE5 og skader 88,stunder
+    fjenden i 2sec"
+  ablityRText: "tilkalder en k\xE6mpe lave ged der l\xF8ber lige og og tilbage igen,hvis
+    den rammer en gang er det kun 200dmg og 1sec stun,hvis den rammer 2 gange skader
+    den 400 og stunder i 2sec"
+  ablityPassiveText: "hvergang du st\xE5r stille i 4sec f\xE5r du 25% armor og magicreset
+    i 3sec"
+  personlighed: hvem vil gerne smage mine spinathorn?
+  Liv: 682
+  BasicattackDamage: 40

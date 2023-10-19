@@ -19,17 +19,16 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "lasersyn,skyder oppe og nede i lang l\xE6ngdte skader 90 n\xE5r den
-    rammer"
+  ablityQText: "lasersyn,skyder oppe og nede i lang l\xE6ngdte skader 115 n\xE5r
+    den rammer"
   ablityWText: "skyder med et freddy sp\xF8gelse der rammer den retning ligeud din
-    champion kigger ved og skader 40 og stunder 1 sec"
+    champion kigger ved og skader 100 og stunder 1 sec"
   ablityEText: teleportere lidt langt ligesom ahri,hvis du teleportere dig ind i
-    en fjende champ skader det ham/hinde 60
+    en fjende champ skader det ham/hinde 100
   ablityRText: "teleportere dig hvor du vil i mappet,hvis dine venner st\xE5r p\xE5
     din teleportring kommer de med"
   ablityPassiveText: "hvis du rammer med dit w 3 gange i tr\xE6k p\xE5 fjenden vil
     fjenden se noget der ikke er der i 3sec"
-  personlighed: "goldenfreddy er den st\xE6rkste i fnaf 1 fantasy,vil k\xE6mpe for
-    sin famile n\xE5r det bliver n\xF8dvendigt,er ret doven,elsker at se tv"
-  Liv: 720
-  BasicattackDamage: 45
+  personlighed: "ej du skal ikke \xF8del\xE6gge mit tv"
+  Liv: 620
+  BasicattackDamage: 55

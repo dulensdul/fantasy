@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: tracer
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: tracer
+  charactherBillede: {fileID: 21300000, guid: 022cff807ac720644ba6e49983c320c5, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig 40% mere attackspeed i 3sec
+  ablityWText: parere alt controls og skud der skal til at komme imod dig
+  ablityEText: "ligger en bumbe p\xE5 fjenden der springer som skader fjenden og
+    dem der er i n\xE6rheden af fjenden 100"
+  ablityRText: "kaster en k\xE6mpebumbe der springer og skader fjenden 400 og dem
+    der er t\xE6t p\xE5 fjenden"
+  ablityPassiveText: "skyder sindsygt hurtigt i 3sec p\xE5 tilf\xE6dlge tidspunkter"
+  personlighed: man kan ikke vinde,man kan ikke vinde,man kan ikke vinde,og man kan
+    ikke vinde
+  Liv: 612
+  BasicattackDamage: 50

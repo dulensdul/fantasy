@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: lunara
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: lunara
+  charactherBillede: {fileID: 21300000, guid: f88d74c669130f541ab9a131c070e738, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en giftig blomst der skader 30 i seckundtet i 2sec
+  ablityWText: skyder med en giftig pil der skader 50 i seckundtet i 2sec
+  ablityEText: "skaber et hoved der s\xF8ger for at du kan se langt v\xE6k fra ind
+    til den bliver dr\xE6bt"
+  ablityRText: "springer bag ved din fjende p\xE5 aftand og skader 270"
+  ablityPassiveText: skader 10 gift dmg fra hver basicattack
+  personlighed: "hacke hacke hack hacke hacke hack,jeg g\xE5r ind p\xE5 din butik
+    og sp\xF8ger om jeg kan hacke"
+  Liv: 595
+  BasicattackDamage: 45

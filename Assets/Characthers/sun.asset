@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: sun
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: sun
+  charactherBillede: {fileID: 21300000, guid: 9440073e22b90f24cb063dd7340b22bd, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig 30% lifesteal i 3sec
+  ablityWText: charger hen mod en fjende champ og skader 70,stunder fjenden i 2sec
+  ablityEText: giver dig 30% attackspeed og mommentspeed i 3sec
+  ablityRText: "forvandler dig til en fjende champion som ligger d\xF8d og f\xE5r
+    deres abilitys,du er championen i 10sec"
+  ablityPassiveText: "n\xE5r du har sl\xE5et 4 gange med din basicattack,healer dine
+    basicattack dig 10% mere i 3sec"
+  personlighed: det ser vist ud til at nogen skal til daycare
+  Liv: 620
+  BasicattackDamage: 50

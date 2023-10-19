@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: pumbaa
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: pumbaa
+  charactherBillede: {fileID: 21300000, guid: 581da8a891df0224e8cdbc6055f31c6e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "siger p\xF8lse hvor der fluver en stor prop ned p\xE5 jorden der
+    skader 120 p\xE5 dem der bliver ramt"
+  ablityWText: "kan ikke d\xF8 i 2sec"
+  ablityEText: "s\xF8ger for at du lugter i 3sec,hvor fjenden der er t\xE6t p\xE5
+    dig bliver skadet 50 i seckundtet"
+  ablityRText: "g\xF8re dig ud\xF8delig og giver dig 50% mere ability dmg i 6sec"
+  ablityPassiveText: "stunder 2 sec mere p\xE5 dem der hader pumbaa"
+  personlighed: "tid til at v\xE6re mega irriterende bro"
+  Liv: 740
+  BasicattackDamage: 60

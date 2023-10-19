@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: nightmare puppet
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: nightmare puppet
+  charactherBillede: {fileID: 21300000, guid: 52f4d83deca84d446b04b83cdf6c635d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 50% mere attackspeed i 3sec
+  ablityWText: "skyder med en stor bl\xE5 block der flyver hurtigt lige ud der skader
+    120"
+  ablityEText: skyder med nogen magiske lillae bolde der skader 105 aoi dmg
+  ablityRText: giver dig selv 50% mere basicattack og magic dmg i 6sec
+  ablityPassiveText: 30% permanent lifesteal i basicattack
+  personlighed: "baaaa man m\xE5 ikke v\xE6re flabed i en \xE6ske"
+  Liv: 597
+  BasicattackDamage: 50

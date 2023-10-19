@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: withered bonnie
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: withered bonnie
+  charactherBillede: {fileID: 21300000, guid: 4164c589fd36d9646b57c302fa0a974a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med dit ene \xF8je med en laser skyd der rammer lidt langt
+    der skader 120"
+  ablityWText: kaster pizzawhell der skyder lige ud der skader 105 aoi dmg
+  ablityEText: "skyder med nogen skruer der dr\xE6be en fjendechamp der kun har 25%
+    af sit liv tilbage p\xE5 et skud"
+  ablityRText: "skubber alle fjende minions ind i en fjendechamp der skader fjendechampionen
+    300 og dr\xE6ber alle minionsne"
+  ablityPassiveText: "skader 15% mere p\xE5 mennesker uden rusning"
+  personlighed: "uhhhh jeg har ikke noget fj\xE6s"
+  Liv: 682
+  BasicattackDamage: 50

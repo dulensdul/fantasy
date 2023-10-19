@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: mojojojo
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: mojojojo
+  charactherBillede: {fileID: 21300000, guid: dd8f54368c7f4294184c145b6ae82b88, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 30% mere attackspeed i 3sec
+  ablityWText: "sigter p\xE5 en fjendechamp og skader 110,rammer uanset hvad"
+  ablityEText: "danser en m\xE6rkelig dans hvor du f\xE5r fjenderne der er t\xE6t
+    p\xE5 dig til at danse i 2sec som er en stun"
+  ablityRText: "f\xE5r alle powerpuf pigernes styrke hvor du f\xE5r 200% mere p\xE5
+    alle din stats i 4sec"
+  ablityPassiveText: "din n\xE6ste ability skader 10% mere hvis din fjendechamp parere
+    dit f\xF8rste skud"
+  personlighed: jeg hader powerpuf pigerne
+  Liv: 612
+  BasicattackDamage: 55

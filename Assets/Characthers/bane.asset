@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: bane
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bane
+  charactherBillede: {fileID: 21300000, guid: 0c78852dadeef1b40bd0a49935e7a637, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r en h\xE5rdt og skader 95,stunder fjenden i 1sec"
+  ablityWText: giver dig selv 30% attackspeed i 3sec
+  ablityEText: giver dig selv 50 exstra basicattack dmg i 3sec
+  ablityRText: giver dig selv 800 mere maxliv i 6sec
+  ablityPassiveText: skader 10 liv mere i basicattack for jo mindre liv du har
+  personlighed: der en der lyder som mig fra den netto jacob handler ved
+  Liv: 740
+  BasicattackDamage: 60

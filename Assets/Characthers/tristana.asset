@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: tristana
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: tristana
+  charactherBillede: {fileID: 21300000, guid: aa16c0f5d7b592b42a3ea158a4844e1a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 25% mere attackspeed i 2sec
+  ablityWText: hopper lidt frem af,hvis du rammer en fjendehamp skader du fjenden
+    95
+  ablityEText: "skyder en bumbe p\xE5 en fjendechamp som er 3sec om at springe,fjendechampionen
+    og hans venner der er i n\xE6rheden af ham bliver skadet 95"
+  ablityRText: "skyder med et bumbeskud der skader 300,skubber fjenden meget langt
+    v\xE6k"
+  ablityPassiveText: "jo h\xF8jre level du kommer jo l\xE6nge v\xE6k fra kan du skyde
+    med din abilitys permanent"
+  personlighed: "kan du ogs\xE5 dulle en dul,eller er det bare mig"
+  Liv: 600
+  BasicattackDamage: 50

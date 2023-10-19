@@ -20,10 +20,10 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: kaster med sit skjol og skader fjenden 90
-  ablityWText: kaster med sin sanheds lasso og skader 40,og stunder fjenden i 3sec
-  ablityEText: "sl\xE5r super h\xE5rdt med din h\xE5nd p\xE5 fjenden og skader 80"
+  ablityWText: kaster med sin sanheds lasso og skader 95,og stunder fjenden i 3sec
+  ablityEText: "sl\xE5r super h\xE5rdt med din h\xE5nd p\xE5 fjenden og skader 90"
   ablityRText: "parere alle fjendens ting i 2sec,og bagefter sl\xE5r h\xE5rdt p\xE5
-    fjenden der skader 200"
+    fjenden der skader 360"
   ablityPassiveText: "f\xE5r 30% mommentspeed n\xE5r du f\xE5r et champ kill,og speeden
     vare i 2 sec"
   personlighed: pumbaa er irriterende

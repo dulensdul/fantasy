@@ -23,7 +23,7 @@ MonoBehaviour:
     bl\xF8de indtild kan er skadet 40"
   ablityWText: "sl\xE5r med din \xF8kse p\xE5 fjenden der skader 60,og bl\xF8der
     indtild han er skadet 40"
-  ablityEText: "tr\xE6kker fjenden hen til dig,og skader 20"
+  ablityEText: "tr\xE6kker fjenden hen til dig,og skader 70"
   ablityRText: "skader 150,hvis fjenden har st\xE5et for l\xE6nge p\xE5 dig har han
     s\xE5 mange bl\xF8dninger at din ult skader ham op til 600"
   ablityPassiveText: "fjenden bl\xF8der for hvergang du sl\xE5r ham i 2sec"

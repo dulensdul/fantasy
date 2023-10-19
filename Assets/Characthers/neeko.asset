@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: neeko
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: neeko
+  charactherBillede: {fileID: 21300000, guid: defbaf3a7d8ee8a4a9f8c37e65f098b1, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en lillaspell der skader 105
+  ablityWText: "kopiere dig selv der l\xF8ber lige ud,der er en chance for at fjenderne
+    tror det er dig"
+  ablityEText: skyder med en gul ring der skader 85,rooter fjenden i 3sec
+  ablityRText: "laver en k\xE6mpe ring hvor dem der bliver ramt bliver skadet 500,stunder
+    fjenderne i 2sec"
+  ablityPassiveText: "hvergang der er g\xE5et 10sec kan du klikke p\xE5 dit passiv
+    hvor du kan ligne en anden champion der er t\xE6t p\xE5 dig,du kan ogs\xE5 ligne
+    en minion eller en jungle monster,du ligner ikke en anden mere n\xE5r du tager
+    skade"
+  personlighed: hvem kan bilka
+  Liv: 585
+  BasicattackDamage: 35

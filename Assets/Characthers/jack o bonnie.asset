@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jack o bonnie
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jack o bonnie
+  charactherBillede: {fileID: 21300000, guid: 1ce6d911331af714ca197a13f3401a0a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en bumbe der skyder langt frem af,skader 100 hvis den rammer
+  ablityWText: "laver en bumbe der springer som skader 90,skubber enten fjenden t\xE6tter
+    p\xE5 dig eller l\xE6nger v\xE6k,du skubber ogs\xE5 dig selv tilbage hvis du
+    st\xE5r i den"
+  ablityEText: "du stiller nogen sm\xE5 bumbe f\xE6lder p\xE5 jorden,hver en fjenden
+    g\xE5r ind i skader 50,g\xF8re fjenden 30% langsommer i 2sec"
+  ablityRText: "skyder en k\xE6mpe bumber der skader 500"
+  ablityPassiveText: "din n\xE6ste basicattack skader 40 liv ekstra"
+  personlighed: jeg er heletiden med i land serveren i roblox
+  Liv: 702
+  BasicattackDamage: 55

@@ -12,18 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: gangplank
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gangplank
+  charactherBillede: {fileID: 21300000, guid: 61b8ae24e36a66947bb9c9697509c0ed, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en pistol der skader 100,hvis du dr\xE6ber en minion med
+    den f\xE5r du 20guld ekstra"
+  ablityWText: "spiser en citron og bliver healet 50liv,fjerner ogs\xE5 det der kontrolere
+    dig eller root"
+  ablityEText: "stiller t\xF8nder,der kan h\xF8jst v\xE6re 3,hvis du skyder p\xE5
+    t\xF8nden vil den springe og skade 100 p\xE5 dem der bliver ramt,og 100 liv mere
+    fra jo flere t\xF8nder der rammer dem"
+  ablityRText: "giver et signal til et piratskib hvor du selv bestemmer i mappet
+    hvor de skal skyde,dem der bliver ramt bliver skadet 200 og mere hvis de st\xE5r
+    der hvor der bliver skudt,varer i 6sec"
+  ablityPassiveText: "hver 5 seckundt vil din basicattack dmg f\xE5 en fjende til
+    at br\xE6nde der skader fjenden 50 liv i secundtet i 3sec"
+  personlighed: kan du se wonder her,du er en pirat la la fin og jack,det er en kyssemisil,du
+    tror at du kan spise kebab,you are the pirat
+  Liv: 662
+  BasicattackDamage: 50

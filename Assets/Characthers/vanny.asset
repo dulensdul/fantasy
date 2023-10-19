@@ -21,10 +21,11 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "stikker en ned med din kniv og skader 120,skader 80 p\xE5 dem der
     har meget rusning"
-  ablityWText: teleportere dig ind i en fjende og giver dig 40% mommentspeed
+  ablityWText: teleportere dig ind i en fjende og giver dig 40% mommentspeed i 3sec
   ablityEText: "sl\xE5r med backstap der skader 150,100 p\xE5 dem med meget rusning,den
     kan kun bruge e bag ved dem"
-  ablityRText: du bliver usynlig i 3 sec
+  ablityRText: "du bliver usynlig medt i kampen,og du fjerner din root stun og debuffs
+    der er p\xE5 dig"
   ablityPassiveText: "s\xE5 snart du ikke er i kamp er du usynlig,hvis du lige har
     v\xE6ret i en kamp g\xE5r der 3sec for at du bliver usynlig igen,du g\xE5r 10%
     langsommer n\xE5r du er usynlig"

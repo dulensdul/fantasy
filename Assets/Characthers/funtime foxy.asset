@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: funtime foxy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: funtime foxy
+  charactherBillede: {fileID: 21300000, guid: 507e89a50cf502b46a13c3345aae2fee, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r med en pisk der sl\xE5r lidt langt og skader 100"
+  ablityWText: dodger alle de abilitys der skal til at komme imod dig
+  ablityEText: chager ind i en fjende og skader 95
+  ablityRText: "drejer sig rundt om sig selv i 2sec,hvor du skader dem der er t\xE6t
+    p\xE5 dig 350"
+  ablityPassiveText: "hvergang du f\xE5r et minion kill,healer healersne dig20% mere
+    den ene gang"
+  personlighed: luuuuu ron tabte bukserne luulululululu
+  Liv: 626
+  BasicattackDamage: 45

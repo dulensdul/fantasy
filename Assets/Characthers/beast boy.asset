@@ -24,11 +24,10 @@ MonoBehaviour:
     har 800liv istedenfor 600"
   ablityEText: "forvandler dig til en elefant hvor du g\xE5r mega langsomt,men f\xE5r
     100%mere dmg"
-  ablityRText: "forvandler dig til en gorilla hvor du f\xE5r 200max liv,og f\xE5r
-    200 bacsis attack dmg"
+  ablityRText: "forvandler dig til en gorilla hvor du f\xE5r 200max mere liv,og f\xE5r
+    200 bacsis attack dmg mere i 4sec"
   ablityPassiveText: "hvis du ikke har v\xE6ret et dyr i meget langtid f\xE5r du
     enegy bonus"
-  personlighed: "beast boy er meget doven,han er liges\xE5 irriterende som chica,han
-    er ikke s\xE6rlig klog,"
+  personlighed: "hey hvad s\xE5 jo"
   Liv: 600
   BasicattackDamage: 40

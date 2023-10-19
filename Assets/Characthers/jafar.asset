@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jafar
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jafar
+  charactherBillede: {fileID: 21300000, guid: 5084a383092099a42b591e3638affd28, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: hupnotosere en fjende hvor du kontrolere fjenden i 2sec
+  ablityWText: "skyder med en r\xF8dstr\xE5le spell der skader 110"
+  ablityEText: "skaber slange minnions der hj\xE6lper dig i 3sec,en slange skader
+    40"
+  ablityRText: "forvandler dig til en slange og f\xE5r 400 mere maxliv og f\xE5r
+    100% mere ability dmg i 4sec"
+  ablityPassiveText: "hvergang en slange d\xF8r bliver du healet 40 liv"
+  personlighed: det er mig jafar
+  Liv: 600
+  BasicattackDamage: 45

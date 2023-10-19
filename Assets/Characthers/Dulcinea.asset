@@ -20,9 +20,11 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "g\xF8re sig nuttet og kontrolere en fjende champ i 2sec"
-  ablityWText: "giver dig selv magiske bukser p\xE5 der giver dig 20% mere dmg,mister
-    det igen n\xE5r du er blivet skadet s\xE5 bukserne g\xE5r i stykker"
-  ablityEText: healer en vennelig champ eller dig selv 50 liv
+  ablityWText: "Dulcinea samler energi og laver et h\xF8jt, spring, undg\xE5r alle
+    indkommende angreb i processen. N\xE5r hun lander, udsender hun en str\xE5le
+    af m\xE5neskin, der healer en lille del af hendes liv ogs\xE5 for de n\xE6rmeste
+    allierede i r\xE6kkevidde.healer 50liv"
+  ablityEText: healer en vennelig champ eller dig selv 80 liv
   ablityRText: giver sig selv rusning der giver dig 40% mere basic attack dmg og
     300 mere armor i 6aec
   ablityPassiveText: "skader 20% mere p\xE5 dem der ikke har nogen bukser p\xE5"

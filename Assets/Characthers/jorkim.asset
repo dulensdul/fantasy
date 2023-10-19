@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jorkim
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jorkim
+  charactherBillede: {fileID: 21300000, guid: 6861c10ca8925de4cb64376a93ae9c18, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt med din stav og skader 100"
+  ablityWText: "parere den n\xE6ste fysiske dmg der skal til at ramme dig"
+  ablityEText: "tager en gps frem hvor du kan se l\xE6nger v\xE6k i 4sec"
+  ablityRText: "tager en shutgun frem der skader 300  med hans basicattack,dit v\xE5ben
+    forsvinder igen ved 5sec"
+  ablityPassiveText: "f\xE5r 50% guld ekstra i alt det du f\xE5r et kill af"
+  personlighed: "jeg er den rigeste der findes,sl\xE5 den flintesten"
+  Liv: 684
+  BasicattackDamage: 40

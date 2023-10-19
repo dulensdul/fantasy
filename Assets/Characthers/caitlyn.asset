@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: caitlyn
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: caitlyn
+  charactherBillede: {fileID: 21300000, guid: b270bbf51a27a834786b6a227925a133, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med et langt skud lige ud der skader 90 aoi dmg
+  ablityWText: "ligger f\xE6lder,hvis din fjende rammer f\xE6lden skader ud 40 ekstra
+    liv med din basicattack plus du skyder langt n\xE5r det er,fjenden er rootet
+    i 1.5sec"
+  ablityEText: "skyder med et net der skader 50,g\xF8te fjenden 30% langsommer i
+    3sec"
+  ablityRText: skyder med en sniper der rammer uanset hvad der skader 400,hvis en
+    der er en fjende champ der stor foran den du har skudt efter,bliver den fjende
+    ramt istedenfor
+  ablityPassiveText: "du skader 30% mere p\xE5 dem der er ved at d\xF8"
+  personlighed: "hvis du bringer ferb s\xE5 vil jeg bringe majs"
+  Liv: 595
+  BasicattackDamage: 50

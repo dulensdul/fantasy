@@ -20,14 +20,13 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "laver en springluck p\xE5 din fjende og skader 120"
-  ablityWText: "laver nogen tentakler p\xE5 sig selv og giver ham 20&attackspeed
+  ablityWText: "laver nogen tentakler p\xE5 sig selv og giver ham 20%attackspeed
     og 20%basicattack dmg"
   ablityEText: "execute,hvis din fjende er ved at d\xF8 kan du dr\xE6be ham p\xE5
     et slag med din \xF8kse,den her ability kan kun bruges n\xE5r de er ved at d\xF8 "
   ablityRText: "g\xF8re dig 100%st\xE6rker i 4sec men bliver ogs\xE5 10%langsommer
     i den sammetid som din styrke"
   ablityPassiveText: "bliver healet 100 liv for hvergang du f\xE5r et champ kil"
-  personlighed: en af de mest magtfuldeste i fnaf historien,meget ond,han er rigtigt
-    purple guy
+  personlighed: "man m\xE5 ikke v\xE6re kedelig og lille"
   Liv: 660
   BasicattackDamage: 45

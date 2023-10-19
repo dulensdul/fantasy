@@ -19,15 +19,13 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "skyder en lilla st\xE5le der skader fjenden 100"
-  ablityWText: laver et skjold der beskytter dig mod ap dmg,skjoldet har 100 ap armor
+  ablityQText: "skyder en lilla st\xE5le der skader fjenden 120"
+  ablityWText: laver et skjold der beskytter dig mod ap dmg,skjoldet har 200 ap armor
   ablityEText: "skyder flere sm\xE5 str\xE5ler der dr\xE6ber minionsne p\xE5 et skud"
-  ablityRText: "fjener alt debuff du har f\xE5et og polymorph en fjende champ i 5sec"
+  ablityRText: "skyder med en k\xE6mpe lillastr\xE5le der skader 400"
   ablityPassiveText: "n\xE5r en fjende champ har st\xE5et t\xE6t ved dig l\xE6nge
     kommer der magiere der er formet som stjener fra alle din sider,bliver fjender
     ramt bliver de skadet 70"
-  personlighed: "zatanna er meget proboler,de fleste kan lide hinde og hun er okay
-    flink,hun kan dog blive ond hvis man ikke ligger m\xE6rke til hindes magikunst
-    eller hvis man bliver ved med at provokere hinde"
+  personlighed: du kan kalde mig,den mytiske,den fable agtig,zatanna
   Liv: 580
   BasicattackDamage: 40

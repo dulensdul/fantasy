@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: tandori
+  m_EditorClassIdentifier: 
+  navn: tandori
+  charactherBillede: {fileID: 21300000, guid: 791af2a91d58a3c4cb6179af184fde83, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "charger hen mod en fjende 3 gange i tr\xE6k,skader 95 for hvergang
+    du rammer med den"
+  ablityWText: du tager 25% mindre skade i 2sec
+  ablityEText: laver 2 pikke hvor hvis du rammer fjendechampionen skader det fjenden
+    50,efter det bliver fjenden stundet i 2sec,og efter det charger du ind i fjenden
+    og skader 90
+  ablityRText: "skyder med pikke rundt om din fjendechamp,pillene er der i 4sec,hvis
+    fjenden g\xE5r ind i en af pikkene bliver fjenden skadet 340,og bliver 25%langsommer
+    i 2sec"
+  ablityPassiveText: "hvergang du dr\xE6ber en fjende charger du automatisk ind i
+    den n\xE6rmeste fjende"
+  personlighed: nu skal vi lave mad chowder
+  Liv: 596
+  BasicattackDamage: 32

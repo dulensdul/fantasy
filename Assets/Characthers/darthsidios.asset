@@ -22,7 +22,7 @@ MonoBehaviour:
   ablityQText: "sl\xE5r lige ud med dit lysv\xE6rd og skader 120"
   ablityWText: hopper og kan ikke blive ramt i 2 secundter
   ablityEText: hopper mod en og skader 80
-  ablityRText: "skader 230,og g\xF8re dem langsomme p\xE5 10%"
+  ablityRText: "skader 230,og g\xF8re dem langsommer p\xE5 10% i 3sec"
   ablityPassiveText: "bliver bedre til at ramme hvis de bliver p\xE5 dig i langtid,men
     bliver normalt hast senere igen"
   personlighed: "hinde den nye jedi fra starwars er alt for OP s\xE5 d\xE5rligt lavet,det

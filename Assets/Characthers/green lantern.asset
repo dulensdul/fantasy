@@ -19,12 +19,12 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "laver din h\xE5nd om til en hammer og skader fjenden 70"
+  ablityQText: "laver din h\xE5nd om til en hammer og skader fjenden 108"
   ablityWText: "laver dine begge h\xE6nder til et k\xE6mpe skjold der blockere dmg
     i 2sec"
-  ablityEText: "skyder med en gr\xF8n laser ud af din ring og skader fjenden 90"
+  ablityEText: "skyder med en gr\xF8n laser ud af din ring og skader fjenden 110"
   ablityRText: "tag din fjende champ og fly op og sl\xE5 ham h\xE5rdt ned i jorden
-    der skader 200 og stunder fjenden i 2sec"
+    der skader 280 og stunder fjenden i 2sec"
   ablityPassiveText: "kan teleportere hurtiger tilbage in alle de andre champs,der
     hvor man k\xF8ber items"
   personlighed: "kender ham ikke s\xE5 godt,\xF8v yougurt"

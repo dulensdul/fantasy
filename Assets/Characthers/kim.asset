@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kim
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kim possible
+  charactherBillede: {fileID: 21300000, guid: 8b16b262e149e7149a09f6cbbfda7398, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "hopper p\xE5 en fjende og skader 95"
+  ablityWText: skyder dig selv meget frem af
+  ablityEText: parere alt i 3sec
+  ablityRText: skyder med en laser glas og skader 280
+  ablityPassiveText: "skader 20% mere p\xE5 dem der har bukser p\xE5"
+  personlighed: "n\xE5r hvad sker der"
+  Liv: 660
+  BasicattackDamage: 45

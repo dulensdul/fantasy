@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: blod ulven
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: blodulven
+  charactherBillede: {fileID: 21300000, guid: 53e539645a29b5d4bb1f07813376076a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en blodspell der skader 100,healer dig 50liv
+  ablityWText: "br\xF8ler hvor der kommer en blod ring der spreder sig lidt ud hvor
+    de fjender de bliver ramt bliver skadet 50,og healer dig 50"
+  ablityEText: kaster en minnion i en fjendechamp og skader 70
+  ablityRText: fear alle omkring dig i 7sec
+  ablityPassiveText: "bliver healt 50 liv fra hvert minionkill,bliver healet 200
+    n\xE5r du f\xE5r en champkill"
+  personlighed: nu skal i alle frygte mig
+  Liv: 750
+  BasicattackDamage: 60

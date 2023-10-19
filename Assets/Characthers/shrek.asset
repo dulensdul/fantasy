@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: shrek
+  m_EditorClassIdentifier: 
+  navn: shrek
+  charactherBillede: {fileID: 21300000, guid: 53aa88a378ffc1443a07966159c2a42f, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "kaster lidt langt med en t\xF8nde hvor t\xF8nde ekplodere hvor du
+    skader 110 aoi dmg"
+  ablityWText: "drikker \xF8l hvor du l\xF8ber 20% hurtigere i 1sec,hvis du n\xE5r
+    at sl\xE5 mens dit w er oppe skader du 50 ekstra liv med din basictaack med dit
+    f\xF8rste slag"
+  ablityEText: "hopper p\xE5 en fjende og skader 95,skubber fjenden lidt v\xE6k,og
+    stunder fjenden i 2sec"
+  ablityRText: "kaster langt lige ud med din t\xF8nde,hvis du rammer en fjendechamp
+    skubber du fjenden hen til dig,fjenden bliver ogs\xE5 skadet 350"
+  ablityPassiveText: hvergang du bruger en ability healer du dig 50liv
+  personlighed: hvad laver i,i min sump!
+  Liv: 655
+  BasicattackDamage: 50

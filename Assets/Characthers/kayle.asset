@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kayle
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kayle
+  charactherBillede: {fileID: 21300000, guid: ce2882151e36e344b8721cc8682f65ca, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder lidt langt og skader 100,g\xF8re fjenden 30% langsommer i
+    2sec"
+  ablityWText: healer dig selv 40liv,giver dig 30% mere mommentspeed i 3sec
+  ablityEText: skyder lidt langt og skader 90 maagic dmg
+  ablityRText: "g\xF8re dig ud\xF8delig i 4sec,n\xE5r de 4sec er g\xE5et vil dit
+    skjold ekplodere og skade dem der bliver ramt 200"
+  ablityPassiveText: "skader 10% mere p\xE5 rogues"
+  personlighed: jeg laver majs
+  Liv: 612
+  BasicattackDamage: 45

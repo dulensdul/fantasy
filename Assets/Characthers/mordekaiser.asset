@@ -23,7 +23,8 @@ MonoBehaviour:
     den 120
   ablityWText: "giver dig 25% skjold beskyttelse,hvis du kllikker p\xE5 skjoldet
     igen f\xE5r du 25% liv"
-  ablityEText: "tr\xE6kker en fjende hen til dig,og skader fjeden 85"
+  ablityEText: "tr\xE6kker en fjende hen til dig,og skader fjeden 85,giver dig 5%
+    mere spell dmg i 3sec"
   ablityRText: "du fanger en fjende i en ring,hvor du tager 20% af fjedens stats,hvis
     du dr\xE6ber fjenden har du hans stats indtil han lever op igen"
   ablityPassiveText: "hvis du sl\xE5r 3 gange eller rammer med din q og sl\xE5r bagefter

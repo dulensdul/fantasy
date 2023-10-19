@@ -19,7 +19,7 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "sl\xE5 ned i jorden med din \xF8kse som skader fjenden 40 liv,hvis
+  ablityQText: "sl\xE5 ned i jorden med din \xF8kse som skader fjenden 70 liv,hvis
     du rammer lige der hvor fjenden er n\xE6sten ude stunder den ogs\xE5 i 1sec"
   ablityWText: "sl\xE5r h\xE5rdt p\xE5 fjenden med din \xF8kse hvor du skader 50
     og healer dig selv 50"
@@ -31,7 +31,6 @@ MonoBehaviour:
     den 2 gange mere og har liges\xE5 lidt cooldown som en af de noramle abilitys"
   ablityPassiveText: "giver dig mere armor for jo mindre liv du har som s\xF8ger
     for at fjenderne skader mindre p\xE5 dig med alt det de bruger"
-  personlighed: "garrosh er kendt som en der var gr\xE5dig og duminerene,men en meget
-    nice charikter"
+  personlighed: "der m\xE5 ikke findes pandaere"
   Liv: 850
   BasicattackDamage: 40

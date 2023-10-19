@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: yasuo
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: yasuo
+  charactherBillede: {fileID: 21300000, guid: 0b2d2a4ddbc201142a8eeb823bb5406a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "stikker din fjende ned med dit sv\xE6rd der skader 140,efter det
+    kan du skyde med en tonato der rammer lige ud,hvis den rammer fjendechampionen
+    skader den 95,stunder fjenden i 1sec"
+  ablityWText: "laver en lang v\xE6g der blockere foran dig,hvor der ikke noget det
+    kan ramme dig i den retning,den er der i 4sec"
+  ablityEText: "charger langt og skader 70,du kan charge 3 gange i tr\xE6k"
+  ablityRText: "n\xE5r du rammer med den der tornato p\xE5 en fjendechamp kan du
+    bruge dit ult,alle dem der bliv ramt af din tornato bliver ogs\xE5 ramt af dit
+    ult,dit ult skader 300,stunder fjendechampionsne i 3sec"
+  ablityPassiveText: "n\xE5r du har l\xF8bet i nok tid f\xE5r du et skjold der blockere
+    for det n\xE6ste fjende champ attack"
+  personlighed: "h\xF8r nu p\xE5 det kald"
+  Liv: 595
+  BasicattackDamage: 50

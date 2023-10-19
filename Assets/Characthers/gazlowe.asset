@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: gazlowe
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gazlowe
+  charactherBillede: {fileID: 21300000, guid: 5ec823e486421d7438bc5e36ae0096e0, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "laver totems der har 200 liv og en totem skader 45,du kan h\xF8jest
+    stille 3"
+  ablityWText: kaster med en bumbe der skader 95 aoi dmg,stunder fjenderne i 2sec
+  ablityEText: "skyder med en meget lang bl\xE5 str\xE5le der skader 95 aoi dmg,g\xF8re
+    fjenderne 20% langsommer i 2sec"
+  ablityRText: giver dig selv 300% mere basicattack dmg permanent
+  ablityPassiveText: "du kan klikke p\xE5 din passiv hvor du dr\xE6ber dine egne
+    t\xE5rne og f\xE5r 45 mana tilbage af det"
+  personlighed: "jeg skal sl\xE5 en k\xE6mpe fis,man kan ogs\xE5 se det p\xE5 mig
+    fordi jeg er en goblin"
+  Liv: 612
+  BasicattackDamage: 35

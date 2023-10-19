@@ -23,7 +23,7 @@ MonoBehaviour:
     fjenderne bliver de skadet 70,og healer dig 40liv,healer dig 10 liv mere jo flere
     du rammer
   ablityWText: parere alt fysisk dmg i 2sec
-  ablityEText: "chager ind i en fjende og skader 25,g\xF8re fjenden 40%langommer
+  ablityEText: "chager ind i en fjende og skader 70,g\xF8re fjenden 40%langommer
     i 2sec"
   ablityRText: "det nu du holder 2 two hands v\xE5ben,det vil sige at du f\xE5r 10%mommentspeed,50%
     attackspeed,og 10% lifesteal permenent"

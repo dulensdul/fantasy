@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: "mark piperb\xE6r"
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: "markpiperb\xE6r"
+  charactherBillede: {fileID: 21300000, guid: 003ae53fbc95a1f4d984a235bf54e0f9, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol og skader 95
+  ablityWText: "hacker ind i fjende t\xE5rnet og styre den til at angrebe sit eget
+    hold"
+  ablityEText: "stj\xE6ler en minnion "
+  ablityRText: kopiere fjendens ult hvor du kan bruge deres ult mod dine fjender
+  ablityPassiveText: "f\xE5r en tilf\xE6ldig minnion der er i n\xE6rheden af dig
+    til at g\xE5 tilbage i 3sec,sker hver 10sec"
+  personlighed: jeg er megapip
+  Liv: 595
+  BasicattackDamage: 35

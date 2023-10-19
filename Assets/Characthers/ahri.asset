@@ -21,7 +21,7 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "skyder med en bl\xE5 magikulge der skader 120,g\xF8re fjenden 20%
     langsommer i 1sec"
-  ablityWText: "skyder med en hjerteformet spell der skader 50,f\xE5r fjenden til
+  ablityWText: "skyder med en hjerteformet spell der skader 108,f\xE5r fjenden til
     at g\xE5 hen mod dig og har 30% mindre mommentspeed i 2sec"
   ablityEText: "skyder med nogen sm\xE5 bl\xE5 magikugler hvor en skader 70,hvis
     2 rammer skader det fjenden 140,hvis det er 3 der rammer skader de 210"

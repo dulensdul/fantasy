@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: supergirl
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: supergirl
+  charactherBillede: {fileID: 21300000, guid: 7ddd86e670da79144b86d9d861e4f899, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med lasersyn der skader 110
+  ablityWText: skyder med fryse onde der skader 95,stunder fjenden i 2sec
+  ablityEText: "flyver ind i en fjende og skader 100 og sl\xE5r fjendet langtv\xE6k,stunder
+    fjenden i 1sec"
+  ablityRText: bliver mega sur og giver dig selv 100% attackspeed og mommentspeed
+    i 4sec
+  ablityPassiveText: "skader 10% mere p\xE5 dem der er flabed"
+  personlighed: supermand er altid flabed imod mig,eller som man siger,nogen gange
+    heletiden eller omvendt,heletiden nogen gange,waow det giver menning
+  Liv: 650
+  BasicattackDamage: 60

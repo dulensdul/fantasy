@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: hecarim
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: hecarim
+  charactherBillede: {fileID: 21300000, guid: ba1e70678ed1cb04fbde14e8cf047180, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: svinger dig rundt og skader 70 aoi dmg
+  ablityWText: "giver dig selv 30% magic reset og armor og skader 40 i seckundtet
+    med din ring der ogs\xE5 healer dig 40 i seckundtet i 3sec"
+  ablityEText: "giver dig selv 40% mere mommentspeed i 6sec,hvis du n\xE5r at chage
+    ind i en fjende med den skader du 70 og skubber fjenden lidt v\xE6k med dig,stunder
+    fjenden i 1sec"
+  ablityRText: charger okay langt lige ud og skader 300 aoi dmg,fear fjenderne i
+    3sec
+  ablityPassiveText: "du f\xE5r mere attack dmg n\xE5r du har givet dig selv mere
+    mommentspeed"
+  personlighed: se her,det shadow born
+  Liv: 628
+  BasicattackDamage: 45

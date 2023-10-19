@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: grommash
+  m_EditorClassIdentifier: 
+  navn: grommash
+  charactherBillede: {fileID: 21300000, guid: e85a55a7f939b8145aea060ac31ee29b, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "kaster med din \xF8kse og skader 120"
+  ablityWText: "chager ind i en fjende der er lidt t\xE6t p\xE5 og skader 100,stunder
+    fjenden i 1sec"
+  ablityEText: laver et skjold foran dig hvor du ikke kan tage skade foran dig,du
+    har skjoldet i 2sec
+  ablityRText: hopper op i luften hvor du kan lande hvor du vil i mappet,dem der
+    bliver af dig bliver skadet 400
+  ablityPassiveText: "hver 5 basicattack slag giver det n\xE6ste q du bruger 20 ekstra
+    dmg"
+  personlighed: "vi vil aldrig v\xE6re slaver,men vi vil overtage"
+  Liv: 682
+  BasicattackDamage: 50

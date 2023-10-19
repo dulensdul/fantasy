@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: bussemanden
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: bussemanden
+  charactherBillede: {fileID: 21300000, guid: 8567783ccda0e2a41ab1fefd7f4ec636, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "tr\xE6kker 2 fjendechamps hen til dig og skader 95"
+  ablityWText: "alle de fjender der er t\xE6t p\xE5 dig bliver skadet 95"
+  ablityEText: hopprer lang frem af,hvis du rammer en fjendechamp bliver fjenden
+    skadet 95
+  ablityRText: "laver dig om til en bold der hopper og et hop ovenp\xE5 i fjendechamp
+    skader fjenden 200"
+  ablityPassiveText: "n\xE5r du d\xF8r,d\xE5r du ikke helt,du bliver til 4 slimklatter
+    hvor hvis de er for langsomme om at d\xE6rbe dig bliver du normal igen og f\xE5r
+    fuld liv og mana igen"
+  personlighed: "\xE5h nej der er ikke mere m\xE6\xE6\xE6\xE6\xE6lk"
+  Liv: 600
+  BasicattackDamage: 35

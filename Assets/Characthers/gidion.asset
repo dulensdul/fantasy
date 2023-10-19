@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: gidion
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gidion
+  charactherBillede: {fileID: 21300000, guid: 4e6b021f7e2fc7342a1daf50fa2c8946, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en magiring p\xE5 en fjende og skader 120"
+  ablityWText: "charger ind i en fjende langt v\xE6k fra og skader 95,stunder fjenden
+    i 2sec"
+  ablityEText: charger ind i din vennechamp og giver din vennechamp 100 beskyttelse
+  ablityRText: "l\xF8ber ind i en fjende og skader fjendechampionen 300,taunter fjenden
+    i 3sec"
+  ablityPassiveText: "n\xE5r du st\xE5r stille i noget tid uden at tage skade,f\xE5r
+    du 100beskyttelse"
+  personlighed: "jeg vil have alt hvad jeg pejer p\xE5"
+  Liv: 656
+  BasicattackDamage: 35

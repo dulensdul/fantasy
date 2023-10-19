@@ -33,8 +33,6 @@ MonoBehaviour:
     til fuld liv og f\xE5 fuld armor n\xE5r du bliver der l\xE6nge nok,du bestemmer
     selv hvorn\xE5r du vil lande og kan lande ved dit t\xE5rn,ved dine minnions,ved
     en wand som dig eller dine venner har lagt,og der hvor dine venne champs er"
-  personlighed: "deathwing var den st\xE6rkeste drage der har v\xE6ret og en af de
-    st\xE6rkeste i historien,kun nzoth var st\xE6rker,han er en af de ondeste v\xE6sner
-    der fandtes og \xF8delag alt p\xE5 hans vej"
-  Liv: 1000
-  BasicattackDamage: 70
+  personlighed: i am deathwing,the destroyer,the end of all things,i am the cataclysm
+  Liv: 850
+  BasicattackDamage: 50

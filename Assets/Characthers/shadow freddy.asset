@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: shadow freddy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: shadowfreddy
+  charactherBillede: {fileID: 21300000, guid: 66ca440ab9f6f534996f029be203ccd2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en shadowkugle der skader 120
+  ablityWText: giver en vennechamp 30% mere dmg i 3sec
+  ablityEText: "laver sm\xE5 shadowbolte der er rundt om dig som giver dit q 20%
+    mere dmg,du mister mere og mere mana jo l\xE6nger tid du leder dit e v\xF8re
+    aktiveret"
+  ablityRText: "laver dig om til nightmare boss, hvor du f\xE5r 500maxliv mere og
+    500 mere dmg i 6sec"
+  ablityPassiveText: hvergang du har dit e aktiveret bliver du healet 10 liv hver
+    2 sec
+  personlighed: velkommen til dit marerit
+  Liv: 720
+  BasicattackDamage: 55

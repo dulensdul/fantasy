@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: monty
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: monty
+  charactherBillede: {fileID: 21300000, guid: 528946332da2a9c44bc6bdc11188bca3, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt ned p\xE5 jorden der rammer lidt langt der skader
+    90,stunder fjenden i 1sec"
+  ablityWText: chager ind i en og skader 70,skubber fjenden lidt tilbage,stunder
+    fjenden i 2sec
+  ablityEText: "charger ind i en vennechamp hvor dig og vennechampionen f\xE5r 100
+    beskyttelse"
+  ablityRText: "sl\xE5r dig selv og dine fjendechamp  langt frem af hvor du peger
+    og skader din fjende 200,stunder fjenden i 3sec"
+  ablityPassiveText: "dit n\xE6ste basicattack skader 40 ekstra"
+  personlighed: hey nuga
+  Liv: 690
+  BasicattackDamage: 55

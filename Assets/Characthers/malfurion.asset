@@ -19,7 +19,7 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: healer 30 liv i 3 secundtet
+  ablityQText: healer 30 i seckundtet i 3sec
   ablityWText: "laver en rund ring der skader fjenden 30 plus fjenden bliver stundet
     i 2sec og der kommer ogs\xE5 en tr\xE6mand minion med 100 liv der skader 30"
   ablityEText: "skyder med en druidspell som skader 30,efter det bliver fjenden ogs\xE5

@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: olivorgum foxy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: olivorgum foxy
+  charactherBillede: {fileID: 21300000, guid: 0685d4d71eee0584783f866b3c24f3bf, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r en ned og skader 110,stunder fjenden i 2sec"
+  ablityWText: "kaster en fjende v\xE6k og skader 110"
+  ablityEText: sparker en fjende og skader 110,stunder fjenden i 2sec
+  ablityRText: "bider h\xE5rdt p\xE5 en fjende og skader 400"
+  ablityPassiveText: "l\xF8ber 5% hurtigere for jo mere dmg du tagerr"
+  personlighed: olivor gum du kan ligne is hr grutten
+  Liv: 626
+  BasicattackDamage: 55

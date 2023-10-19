@@ -31,7 +31,6 @@ MonoBehaviour:
     til 500liv hvis man slet ikke n\xE5r at komme v\xE6k fra det"
   ablityPassiveText: "for hvergang du mister mana kan du klikke p\xE5 passiv angrebet
     for at f\xE5 fuld mana igen,men koster ogs\xE5 20% af dit liv"
-  personlighed: "guldan er syg i hoved,han er mega op,han er s\xE5 op at elias synes
-    at han er lidt d\xE5rligt lavet,hvorfor monXD"
+  personlighed: "jeg er s\xE5 d\xE5rlig lavet"
   Liv: 600
-  BasicattackDamage: 20
+  BasicattackDamage: 35

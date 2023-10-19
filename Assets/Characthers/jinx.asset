@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jinx
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jinx
+  charactherBillede: {fileID: 21300000, guid: 4c638bc1151085f46b11a044446e2dc3, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 30% mere attackspeed i 3sec
+  ablityWText: "skyder med et langt skud der skader 80,g\xF8re fjenden 20% langsommer
+    i 2sec"
+  ablityEText: "laver f\xE6lder,hvis fjenden l\xF8ber ind i din f\xE6lde explodere
+    den og skader 80,de bliver rootet i 2sec"
+  ablityRText: "du skyder med en k\xE6mpe kanon der flyver lige ud hurtigt der hvor
+    du kigger,hvis den st\xF8der ind i en fjende champ bliver fjenden skadet 400"
+  ablityPassiveText: "du f\xE5r 20% mere momment og attackspeed i 3sec,for hvergang
+    du har hjulpet en med at f\xE5 et kill eller hvis du selv dr\xE6ber en champion,jungle
+    monstere,eller en minnion"
+  personlighed: "jeg jinxer fordi jeg g\xE5r i jeans,haha hvor er jeg bare sjov"
+  Liv: 595
+  BasicattackDamage: 50

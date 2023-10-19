@@ -21,18 +21,13 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "skyder en ildkugle som flyver hurtigt ind i fjenden og forf\xF8lger
     indtil den rammer og skader 120"
-  ablityWText: 'giver dig mere og mere %skjold jo mere dmg du tager '
-  ablityEText: "skyder med gult str\xF8m der skader 100,og g\xF8re fjenden 30% langsommer,de
-    bliver ramt uanset hvad"
+  ablityWText: giver dig selv 200 beskyttelses skjold
+  ablityEText: "skyder med gult str\xF8m der skader 120,g\xF8re fjenden 30% langsommer
+    i 2sec"
   ablityRText: "kopiere 3 af dig selv som bruger de samme angreb p\xE5 fjenden som
     du bruger p\xE5 fjenden og de skader det samme som dig,men de d\xF8r p\xE5 et
     slag eller skud hvis di fjende rammer dem"
-  ablityPassiveText: "du f\xE5r 10% mere stats permenent fra hver eneste kill du
-    f\xE5r"
-  personlighed: "darthjacob er nummer 2 st\xE6rkest magt i hele fantasis historie,han
-    er meget overf\xF8lsom,lidt sindsyg,han kan v\xE6re meget ond ved dem der har
-    brutale opf\xF8rsler og tager det meget alvorligt n\xE5r de er mega sure,hans
-    bedste ven er elias som er en af de eneste der kan se det gode i ham,darthjacob
-    er parnoid"
+  ablityPassiveText: "du f\xE5r 1% mere stats permenent fra hver eneste kill du f\xE5r"
+  personlighed: "jeg vil have min h\xE6vn"
   Liv: 700
-  BasicattackDamage: 20
+  BasicattackDamage: 40

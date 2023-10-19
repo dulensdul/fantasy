@@ -21,7 +21,7 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "hopper p\xE5 en fjende og skader 100"
   ablityWText: giver sig selv 25% skjold
-  ablityEText: drejer rundt om sig selv og skader 50,stunder fjende championen i
+  ablityEText: drejer rundt om sig selv og skader 90,stunder fjende championen i
     2sec
   ablityRText: "springer vildt h\xF8jt og dodger alt,efter 2sec hopper du ned igen
     og laver en k\xE6mpe ring der skader fjenderne 240"

@@ -22,7 +22,7 @@ MonoBehaviour:
   ablityQText: springer hen til en fjende,skader 80
   ablityWText: "sl\xE5r h\xE5rdt med din stav og skader 60,skader 30 ap dmg"
   ablityEText: "laver en rund ring rundt om dig,hvis du rammer stunder det fjenden
-    i 2sec,skader 60 ap dmg,hvis din fjende sl\xE5r dig imens dit e er oppe bliver
+    i 2sec,skader 110 ap dmg,hvis din fjende sl\xE5r dig imens dit e er oppe bliver
     du healet og kan ikke blive skadet,men du kan tage skade af spells,selv om du
     har dit e oppe"
   ablityRText: giver dig selv 30% mere dmg,20%mere magic reset,og 20% mere armor

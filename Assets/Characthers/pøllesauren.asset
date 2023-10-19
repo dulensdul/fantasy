@@ -19,13 +19,14 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "kaster med en p\xF8lle og skader 130"
-  ablityWText: "p\xF8ller hvor dem der er t\xE6t p\xE5 dig bliver skadet 140"
+  ablityQText: "kaster med en p\xF8lle og skader 110"
+  ablityWText: "p\xF8ller hvor dem der er t\xE6t p\xE5 dig bliver skadet 85,du lugter
+    normalt igen ved 2sec"
   ablityEText: "l\xF8ber 5% hurtigere i 2sec"
   ablityRText: "hvis der en der er ved at d\xF8 kan du dr\xE6be fjende championen
     med det samme og du f\xE5r fuld liv af det"
   ablityPassiveText: "n\xE5r du er t\xE6t p\xE5 fjenderne har de 2% mindre armor,men
     de f\xE5r det igen n\xE5r du er v\xE6k fra dem igen"
   personlighed: "nu skal du rigtig P\xD8LLE!"
-  Liv: 700
-  BasicattackDamage: 60
+  Liv: 660
+  BasicattackDamage: 50

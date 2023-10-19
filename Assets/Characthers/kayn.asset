@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: kayn
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: kayn
+  charactherBillede: {fileID: 21300000, guid: 16cafbf6896339049ae16a79ff743686, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: chager ilidt og skadeer 80
+  ablityWText: "sl\xE5r ned i jorden og laver en lang line derskader 80,stunder fjendechampionen
+    i 1sec"
+  ablityEText: "kan g\xE5 igennem ting i 6sec"
+  ablityRText: "ryger ind i fjendechampionens krop,kommer ud igen om 3sec,n\xE5r
+    du er kommet ud st\xE6ler du halvdelen af fjendens liv hvor du f\xE5r halvdelen
+    af hans liv"
+  ablityPassiveText: "n\xE5r du er kommet i level 6 og tager tilbage til der hvor
+    du k\xF8ber items,kan du v\xE6lge at v\xE6re r\xF8d hvor du f\xE5r 50% mere dmg,eller
+    bl\xE5 hvor du har 50% mere mommentspeed,det er permanent"
+  personlighed: "jeg hader at p\xF8lle,det tager 100\xE5r"
+  Liv: 600
+  BasicattackDamage: 45

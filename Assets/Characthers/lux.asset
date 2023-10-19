@@ -19,10 +19,10 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: skyder med en gulkugle som skader 90,og rooter fjenden i 2sec
-  ablityWText: "skyder med en ting der giver dig 10 beskyttelse,hvis du rammer dine
+  ablityQText: skyder med en gulkugle som skader 103,og rooter fjenden i 2sec
+  ablityWText: "skyder med en ting der giver dig 50 beskyttelse,hvis du rammer dine
     venner champs f\xE5r vennerne 20skjold"
-  ablityEText: "skyder med en rundring der skader 50 aoi dmg,og g\xF8re fjenderne
+  ablityEText: "skyder med en rundring der skader 70 aoi dmg,og g\xF8re fjenderne
     40% langsommer n\xE5r abilityen explodere"
   ablityRText: "skyder med en mega lang gul str\xE5le der skader 400"
   ablityPassiveText: hvergang du skader en med en ability power,skader din bacsisattack

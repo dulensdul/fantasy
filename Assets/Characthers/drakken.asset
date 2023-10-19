@@ -24,7 +24,8 @@ MonoBehaviour:
     skadet 30,bliver stundet i 3sec"
   ablityEText: "skaber 3 sm\xE5 robotter,de har 100 og skader 45"
   ablityRText: "skyder med en d\xF8dsstr\xE5le der dr\xE6ber en fjende champ p\xE5
-    et skud,kan kun skyde en og har 200cooldown n\xE5r du har brugt den"
+    et skud,kan kun skyde en og har 200cooldown n\xE5r du har brugt den,dem der har
+    skjold p\xE5 sig kan du ikke dr\xE6be p\xE5 et skud"
   ablityPassiveText: "f\xE5r 10 guld for hvergang du overlver med 20 liv"
   personlighed: "du tror du er s\xE5 klog,men det er du slet ikke"
   Liv: 580

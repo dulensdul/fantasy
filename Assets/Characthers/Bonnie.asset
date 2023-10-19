@@ -24,10 +24,9 @@ MonoBehaviour:
   ablityEText: "happyjam,healer dig selv 80 liv,hvis dine venner er vedsiden af dig
     healer du ogs\xE5 dem og der selv men vil kun v\xE6re 50 liv"
   ablityRText: "basjam,skyder langt men kun lige ud i din foran retning og skader
-    120 p\xE5 dem der st\xE5r foran dig"
+    300 p\xE5 dem der st\xE5r foran dig"
   ablityPassiveText: "hvis du f\xE5r lov til at sl\xE5 din fjende 3 gange i tr\xE6k
     fjener det din coldown p\xE5 dit q angreb"
-  personlighed: "bonnie er ikke s\xE6rlig klog,han er meget \xE5ben for andre,han
-    bliver kun glader af at der kommer flere"
+  personlighed: uhhh jeg er bonnie bumbegars
   Liv: 700
   BasicattackDamage: 60

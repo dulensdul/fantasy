@@ -23,7 +23,7 @@ MonoBehaviour:
     du kigget,hvis den rammer en fjende skader det fjeden 70 og fjenden bliver stundet
     1sec"
   ablityWText: "tramper p\xE5 jorden h\xE5rdt og skader 50 rundt om dig og g\xF8re
-    dine fjender 50% langsommer"
+    dine fjender 50% langsommer i 3sec"
   ablityEText: "hopper frem af og du hopper okay langt cirka ligs\xE5 langt som jax,hvis
     du hopper in i en fjende skader det 50 og g\xF8re fjenden 20% langsommer"
   ablityRText: "g\xF8re dig meget tanki hvor dit max liv er 500 h\xF8jre in f\xF8r

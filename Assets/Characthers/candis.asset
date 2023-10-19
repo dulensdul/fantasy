@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: candis
+  m_EditorClassIdentifier: 
+  navn: candis
+  charactherBillede: {fileID: 21300000, guid: 88785e56c75c8444080ae9a1d68e11a2, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "sl\xE5r med 2 metal v\xE5ben lidt langt og skader 95,og healer dig
+    50"
+  ablityWText: "sl\xE5r h\xE5rdt med din metal v\xE5ben og skader 95,og healer dig
+    selv 50"
+  ablityEText: charger lidt frem af,hvis du rammer en fjendechamp skader du 110,og
+    stunder fjenden i 1sec
+  ablityRText: kopirere ens anden ult og ar den indtil at du har brugt den
+  ablityPassiveText: har permanent 50% mere basicattackspeed
+  personlighed: "i m\xE5 ikke bygge det der,det er for farligt,jeg sladre til mor"
+  Liv: 600
+  BasicattackDamage: 45

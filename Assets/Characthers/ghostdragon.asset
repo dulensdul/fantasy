@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ghostdragon
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ghostdragon
+  charactherBillede: {fileID: 21300000, guid: ff272bb17f333394bb2ced90fbd3c1f4, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: spyder med frost  magi der skader 110 i aoi dmg
+  ablityWText: "laver en frost ring,n\xE5r fjenden st\xE5r p\xE5 de bliver de skadet
+    80,ringen er v\xE6k ved 3sec"
+  ablityEText: skyder med istapper fra himlen der skader 120 aoi dmg
+  ablityRText: "flyver lige ud i 3sec og laver jorden til frost jord hvor fjenderne
+    der st\xE5r p\xE5 det bliver skadet 200,jorden bliver normal igen ved 6sec"
+  ablityPassiveText: "hvergang du d\xF8r bliver du til et \xE6g,hvis de ikke n\xE5r
+    at dr\xE6be dig enden 8sec lever du op igen med fuld liv og mana,det t\xE6ller
+    kun som et kill hvis de n\xE5r at dr\xE6be dig som \xE6g"
+  personlighed: "ingen har h\xF8rt om mig,men jeg er s\xE5 sj\xE6lden at ingen har
+    set mig inu"
+  Liv: 700
+  BasicattackDamage: 55

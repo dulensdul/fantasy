@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: harley queen
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: harleyqueen
+  charactherBillede: {fileID: 21300000, guid: 6f5f2dc8acaad4243a1a9bb27153ad45, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt med din hammer og skader 95,stunder fjeden i 2sec"
+  ablityWText: kaster med bumber og skader 110
+  ablityEText: "sl\xE5r langt med din hammer og skader 100"
+  ablityRText: "kaster en k\xE6mpe bumbe og skader 400"
+  ablityPassiveText: "du f\xE5r 20% mere dmg permenent n\xE5r du har shago eller
+    jokeren p\xE5 dit hold"
+  personlighed: "jeg h\xE5ber ikke at du taber bukserne"
+  Liv: 730
+  BasicattackDamage: 50

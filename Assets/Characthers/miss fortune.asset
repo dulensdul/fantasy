@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: miss fortune
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: miss fortune
+  charactherBillede: {fileID: 21300000, guid: f48d7467c1539db44af1bbf93748cd13, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder  2 p\xE5 en gang og skader de 2 103"
+  ablityWText: giver din passive attackspeed i 3sec
+  ablityEText: "skyder hvor der kommer en ring hvor dem der st\xE5r i ringen bliver
+    i alt skadet 100,g\xF8re fjenden 20% langsommer i 2sec"
+  ablityRText: "skyder som en sindsyg langt der hvor du pejer hvor dem der st\xE5r
+    i det bliver skadet 200 i seckundet,du stopper igen n\xE5r der er g\xE5et 4sec
+    eller n\xE5r en tr\xE6kker dig eller stunder dig"
+  ablityPassiveText: "du skader 50 liv mere med det f\xF8rst skud n\xE5r du skyder
+    p\xE5 en ny"
+  personlighed: jeg kan godt lide tun kun fordi jeg har et navn der lyder som en
+    tun
+  Liv: 595
+  BasicattackDamage: 50

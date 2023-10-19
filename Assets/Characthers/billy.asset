@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: billy
+  m_EditorClassIdentifier: 
+  navn: billy
+  charactherBillede: {fileID: 21300000, guid: 656a48d87e64a4047893e2a51f281f9b, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "kaster med en lysebl\xE5 bolt der skyder langt lige ud hvor du kigger
+    og skader 95 og flyver ind i den fjende dit q har ramt"
+  ablityWText: "giver dig selv og dine vennechamps der er i n\xE6rheden 100 beskyttelse"
+  ablityEText: "sl\xE5r ned i jorden hvor fjenderne t\xE6t ved dig bliver skadet
+    120"
+  ablityRText: "sparker en fjendechamp meget langt v\xE6k og skader fjenden 400"
+  ablityPassiveText: "efter du har brugt en ability f\xE5r du 35% attackspeed i 2sec"
+  personlighed: hehehehe,det ser vist ud til at jeg er rigtig sjov
+  Liv: 600
+  BasicattackDamage: 50

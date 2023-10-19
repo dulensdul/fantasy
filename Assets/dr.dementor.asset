@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: dr.dementor
+  m_EditorClassIdentifier: 
+  navn: dr.dementor
+  charactherBillede: {fileID: 21300000, guid: f4fee5d40bb651649b2e3c66bb9feacc, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skaber 2 vagter der k\xE6mper med dig i 3sec,de skader 40"
+  ablityWText: "kaster kakio p\xE5 en og stunder fjenden i 2sec"
+  ablityEText: kopiere en fjendechamps e angreb og har den ind til at du har brugt
+    den
+  ablityRText: kopiere en fjendechamps attackspeed i 4sec
+  ablityPassiveText: "du kan klikke p\xE5 din passiv angreb hvor du s\xF8ger for
+    at du ligner en fjende i 3sec"
+  personlighed: jeg er ret weak
+  Liv: 600
+  BasicattackDamage: 40

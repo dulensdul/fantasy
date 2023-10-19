@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: general ar
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: general ar
+  charactherBillede: {fileID: 21300000, guid: 5af8ae3cab5df3143b7c6bb42ba961c3, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en canon der rammer langt og skader 100
+  ablityWText: "skyder med en ring p\xE5 fjenden der rooter fjenden i 2sec,og den
+    skader 85"
+  ablityEText: "g\xF8re dig ud\xF8delig og f\xE5r 50% mere mommentspeed i 2sec"
+  ablityRText: "skyder over alt p\xE5 mappet og skader alle fjenderne 300"
+  ablityPassiveText: "hvergang du f\xE5r et kill eller er med til at dr\xE6be en
+    fjende champ bliver du healet 200liv"
+  personlighed: godag mit navn er hr,ar
+  Liv: 600
+  BasicattackDamage: 50

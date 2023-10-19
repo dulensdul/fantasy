@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ryze
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ryze
+  charactherBillede: {fileID: 21300000, guid: 96532c1648244f748bfe6c920b8dfe34, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en magicbolt der skyder lidt langt som skader 95 aoi dmg
+  ablityWText: "skyder med en rune prison der skader 80,g\xF8re fjenden 30% langsommer
+    i 3sec"
+  ablityEText: skyder med spell flux der skader 95,og debuffer fjendens armor i 2sec
+  ablityRText: teleportere dig og dine vennechamps lidt frem af
+  ablityPassiveText: jo mere mana du har jo mere ability dmg har du
+  personlighed: "what hvor jeg op mand,s\xE5 godt lavet"
+  Liv: 585
+  BasicattackDamage: 45

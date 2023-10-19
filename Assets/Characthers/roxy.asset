@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: roxy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: roxy
+  charactherBillede: {fileID: 21300000, guid: 1d55df3e187a68a4d9407ce32c42ead2, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "bider p\xE5 en fjende og skader 70,stunder fjenden og \xF8del\xE6gger
+    noget af fjendens armor i 2sec"
+  ablityWText: "bider p\xE5 en fjende og skader 70,du f\xE5r 30% attackspeed og mommentspeed
+    i 2sec"
+  ablityEText: fjener alle dine debuffs,og tgaer mindre gidt dmg i 2sec
+  ablityRText: giver dig selv 40% attackspeed mommentspeed og lifesteal i 4sec
+  ablityPassiveText: "har 10% lifesteal p\xE5 din basicattack"
+  personlighed: i dulled that
+  Liv: 646
+  BasicattackDamage: 50

@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: dipper
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: dipper
+  charactherBillede: {fileID: 21300000, guid: 9eecf554f91ae8f41829fbcd5e4fa16e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "kaster med en \xF8kse og skader 110,healer dig selv 20 liv hvis den
+    rammer"
+  ablityWText: skader alt rundt om dig 10 i seckundtet i 3sec
+  ablityEText: "sl\xE5r h\xE5rdt med din bog og skader 80"
+  ablityRText: healer dig selv 110liv i seckuntdet i 10sec
+  ablityPassiveText: "det f\xF8rst spell dmg der rammer dig er du immun for,du f\xE5r
+    dit immun skjold igen n\xE5r der er g\xE5et 15sec"
+  personlighed: "hey jeg dipper,h\xE5ber ikke at du bliver bitter,haha er jeg virkelig
+    den eneste der synes det er en god joke"
+  Liv: 682
+  BasicattackDamage: 45

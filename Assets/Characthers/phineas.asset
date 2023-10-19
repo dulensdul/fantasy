@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: phineas
+  m_EditorClassIdentifier: 
+  navn: phineas
+  charactherBillede: {fileID: 21300000, guid: c1c5d217992741b4c81465707388f47f, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "hopper t\xE6t p\xE5 en fjende og skader 110,og ogs\xE5 p\xE5 de fjender
+    der st\xE5r vedsiden af den fjende du angreb"
+  ablityWText: "s\xF8ger for at dit ud\xF8delig dyr flyver hen mod den fjende du
+    aggroere og sl\xE5r fjenden i 5sec,dit dyr skader 70"
+  ablityEText: "skyder med et skud p\xE5 din fjende der skader 70 og g\xF8re fjenden
+    25% langsommer i 2sec,efter det explodere den pil du ramte fjenden med som skader
+    fjenden 50"
+  ablityRText: "g\xF8re dig ud\xF8delig i 4sec"
+  ablityPassiveText: "for hvegang du f\xE5r et champ kill f\xE5r du 5% mere range
+    permanent"
+  personlighed: jeg hedder phineas,og det her er min bror ferb
+  Liv: 600
+  BasicattackDamage: 40

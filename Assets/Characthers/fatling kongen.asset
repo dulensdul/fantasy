@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: fatling kongen
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: fatlingkongen
+  charactherBillede: {fileID: 21300000, guid: 5df880f07cc3b8e41b875db0c5dd2035, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: chager ind i en fjende og skader 70
+  ablityWText: "sl\xE5r h\xE5rdt og skader 90"
+  ablityEText: 'parere fysik dmg '
+  ablityRText: skaber en haj der skader fjendechampionen 400,fjenden bliver stundet
+    i 1sec
+  ablityPassiveText: tager 10% mindre spell dmg
+  personlighed: "kan du forst\xE5 hvor tyk jeg er"
+  Liv: 800
+  BasicattackDamage: 60

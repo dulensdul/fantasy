@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: isma
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: isma
+  charactherBillede: {fileID: 21300000, guid: bb3af731a45e62a42a2fba6cdc6a536a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "svinger med et sv\xE6rd og skader 95 aoi dmg"
+  ablityWText: blockere et skud fra fjenden,perere kun abilitys
+  ablityEText: charger ind i en fjende og skader 95
+  ablityRText: drejer rundt om dig selv og skader 200 i seckundtet i 4sec
+  ablityPassiveText: "nogen gange skyder med din basicattack istedenfor at sl\xE5"
+  personlighed: jeg er isma amsi og fimsene isma
+  Liv: 600
+  BasicattackDamage: 30

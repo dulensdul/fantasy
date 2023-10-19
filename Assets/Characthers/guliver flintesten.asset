@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: guliver flintesten
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: gulivorflintesten
+  charactherBillede: {fileID: 21300000, guid: b12aae53ab96ed54aa8fa9a6c9231a93, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r h\xE5rdt med en koben og kader 95,stunder fjenden i 2sec"
+  ablityWText: kyder lyn fra himlen rundt om ham og skader dem der bliver ramt 110
+  ablityEText: giver sig selv 25% mommentspeed i 3sec
+  ablityRText: "g\xF8re dig ud\xF8delig for alt i 7sev"
+  ablityPassiveText: er immun overfor debuffs
+  personlighed: "jeg gjor det,jeg har endelig besejret jorkim forand,og han sagde
+    vi var p\xE5 det samme hold,pffff som om,jeg hader ham"
+  Liv: 800
+  BasicattackDamage: 10

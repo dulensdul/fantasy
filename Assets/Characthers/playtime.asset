@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: playtime
+  m_EditorClassIdentifier: 
+  navn: playtime
+  charactherBillede: {fileID: 21300000, guid: f31da2f767f833847ad8b7caf6605b16, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder med en orange skud og skader 95,g\xF8re fjenden 20% langsommer
+    i 2sec"
+  ablityWText: "larver nogen ringe som kun dine vennechamps kan g\xE5 ind i,n\xE5r
+    vennechampionen g\xE5r ind i den bliver din ven healet 60"
+  ablityEText: "larver en portal hvor dig og dine venner kan g\xE5 ind i den og komme
+    v\xE6k eller t\xE6tter p\xE5 fjenderne,i kan ogs\xE5 teleportere jer forbi v\xE6ggene
+    s\xE5 den ikke kan fylde,portalen forsvinder ved 2sec"
+  ablityRText: "g\xF8re dig og den fjendechamp der er t\xE6t p\xE5 dig ud\xF8delige
+    og kan ikke r\xF8re sig i 2sec"
+  ablityPassiveText: "hver 3 basicattack skader 50 ekstra med dit n\xE6ste basicattack"
+  personlighed: jeg vil leje med nogen,lad os leje,wow lad os leje,leje igen,lidt
+    senere
+  Liv: 595
+  BasicattackDamage: 40

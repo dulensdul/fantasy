@@ -19,7 +19,7 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "skyder med en unholyspell og skader fjeden 70 og healer dig 90 p\xE5
+  ablityQText: "skyder med en unholyspell og skader fjeden 70 og healer dig 70 p\xE5
     sammentid"
   ablityWText: "sl\xE5r med din frostmoune og skader 120"
   ablityEText: "laver en aoi ring rundt om dig,hvis fjenden bliver ramt skader det
@@ -31,9 +31,6 @@ MonoBehaviour:
     ogs\xE5 det f\xF8rste t\xE5rn den rammer i 3sec hvor i bare kan sl\xE5 l\xF8s
     p\xE5 den uden den kan g\xF8re noget i den tid"
   ablityPassiveText: hver 3 bacsis attack slag healer dig 10% liv
-  personlighed: "startet som en god prins, men kom i en vanskelig sitirasion hvor
-    helebyen bliv infeseret af malganis hvor uther hvor dum og ikke gad at hj\xE6lpe
-    s\xE5 begrund af ham tog han frostmoune for at besjere malganis men bliv selv
-    mega ond,og en stor trusel mod verdnen"
+  personlighed: homsen fimser for meget
   Liv: 800
   BasicattackDamage: 60

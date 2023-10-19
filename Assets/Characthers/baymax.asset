@@ -21,12 +21,12 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: giver dig 40% mere bacsis attack dmg i 2sec
   ablityWText: "skuber med din mave p\xE5 fjenden s\xE5 han ryger langt tilbage og
-    bliver skadet 20"
+    bliver skadet 70"
   ablityEText: "perere det der bliver kastet efter dig, og kaster den tilbage til
     fjenden igen s\xE5 fjenden f\xE5r sin dmg p\xE5 sig selv"
   ablityRText: "f\xE5r sit rusning p\xE5 og f\xE5r 400 maxliv mere,og skader 50%
     mere med sin basicattack i 6sec"
-  ablityPassiveText: "du kan klikke p\xE5 din passiv hvor du kan skane efter kamps"
+  ablityPassiveText: "du kan klikke p\xE5 din passiv hvor du kan skane efter fjendechamps"
   personlighed: jeg er en robot, ba de la det ba der la
   Liv: 760
   BasicattackDamage: 50

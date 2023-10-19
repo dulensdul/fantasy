@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: yasmin
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: yasmin
+  charactherBillede: {fileID: 21300000, guid: 3f89002460be17c408a98f9ff8ae1ae5, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "svinger dig rundt og skader 95 aoi dmg,hvis du rammer med den f\xE5r
+    du 20% mere mommentspeed i 2sec"
+  ablityWText: "sl\xE5r h\xE5rdt p\xE5 en fjende og skader 110"
+  ablityEText: "skyder ,ed en lillaspellbolt der skyder langt som skader 100,g\xF8re
+    fjendechampionen 20% langsommer i 2sec"
+  ablityRText: "skyder med en ring hvor du skal v\xE6re t\xE6t p\xE5 for at ramme,den
+    skader 340 aoi dmg,stunder fjenderne i 3sec"
+  ablityPassiveText: hitting a champion or monster with a skill wil deal additional
+    max health damage over time
+  personlighed: mine bukser er for store,de falder ned heletiden
+  Liv: 585
+  BasicattackDamage: 40

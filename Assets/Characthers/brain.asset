@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: brain
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: brain
+  charactherBillede: {fileID: 21300000, guid: 6e4437ded5f0fb541bf076771afe5029, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med lasersyn og skader 120
+  ablityWText: stunder en fjendechamp i 3sec
+  ablityEText: rooter en fjendechamp i 3sec
+  ablityRText: "g\xF8re dig til en k\xE6mperobot hvor du har alle abilitysne fra
+    robin cyborg beast boy raven og starfire i 7sec"
+  ablityPassiveText: "s\xF8ger for at du rammer med dit q uanset hvad hver 20sec
+    der g\xE5r,men det kun det eneskud der rammer perfekt med"
+  personlighed: "det s\xE5 irriterende at beast boy kalder mig for brian heletiden"
+  Liv: 590
+  BasicattackDamage: 20

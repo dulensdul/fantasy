@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: shnitzel
+  m_EditorClassIdentifier: 
+  navn: shnitzel
+  charactherBillede: {fileID: 21300000, guid: 46e9ad76dafb92f4ab04750f63381fd8, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder lidt langt med en sten der forf\xF8lger den fjende du har
+    valgt at bruge den p\xE5,skader fjenden 90,g\xF8re fjenden 30% langsommer og
+    giver dig 30% mere mommentspeed i 3sec"
+  ablityWText: "brutal strikes,s\xF8ger f\xE5r at din basicattack bliver aoi dmg
+    i 3sec"
+  ablityEText: "sl\xE5r ned i jorden hvor fjenderne der var t\xE6t p\xE5 dig bliver
+    skadet 90,g\xF8re fjenderne du rammer 30%langsommer i 3sec"
+  ablityRText: "flyver bare mega langtv\xE6k,hvis du flyver ind i en fjende bliver
+    fjendenerne der rammes skadet 340"
+  ablityPassiveText: "giver dig 25% beskyttelse,cooldownen kommer f\xF8rst n\xE5r
+    beskyttelsen er dr\xE6bt"
+  personlighed: mada alma makral
+  Liv: 682
+  BasicattackDamage: 55

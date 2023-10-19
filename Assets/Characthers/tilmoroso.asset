@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: tilmoroso
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: tilmoroso
+  charactherBillede: {fileID: 21300000, guid: 8a5886ade9d1cf94f91f9f94a2b2ba85, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "tr\xE6kker en fjende hen til dig og skader 100"
+  ablityWText: giver dig selv 10% attack og mommentspeed i 2sec
+  ablityEText: "sl\xE5r en fjende h\xE5rdt og skader 70,stunder fjenden i 2sec"
+  ablityRText: "laver dig om til en t\xF8nde og ruller ind i en fjendechamp og skader
+    fjende championen 340,stunder fjenden i 2sec"
+  ablityPassiveText: "du tager 20% mindre dmg n\xE5r du har mistet over halvdelen
+    af dit liv"
+  personlighed: jeg er bange for alting borset fra bier
+  Liv: 611
+  BasicattackDamage: 35

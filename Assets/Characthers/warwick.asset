@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: warwick
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: warwick
+  charactherBillede: {fileID: 21300000, guid: 8dfae00af4c93be4d816b46ecd31716a, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: hopper ind i en og skader 70 og healer dig selv 70
+  ablityWText: fear en fjende i 3sec
+  ablityEText: "s\xF8gerfor at du kan se gennem v\xE6gge"
+  ablityRText: hopper ind i en og skader 400 og du healer dig selv fuld liv
+  ablityPassiveText: "n\xE5r du kun har halvdelen af dit liv tilbage,healer dit q
+    og r dig 50% mere liv"
+  personlighed: "jeg skal ud med min til\xE6rken,fordi jeg er en worgen"
+  Liv: 600
+  BasicattackDamage: 55

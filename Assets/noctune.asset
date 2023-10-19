@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: noctune
+  m_EditorClassIdentifier: 
+  navn: noctune
+  charactherBillede: {fileID: 21300000, guid: 8c39ef78bec243045ab86cd566067e42, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder med en lang shadoow vej der skader 103 p\xE5 dem der bliver
+    ramt af den,du f\xE5r 30% momment speed i 2sec"
+  ablityWText: "g\xF8re dig immun for alle slags debuffs,og stun og root i 1sec"
+  ablityEText: "skyder med en shadowstr\xE5le der skader 50 i seckundtet i 3sec,hvis
+    du har ramt fjenden helt fra bunden af,bliver fjenden feart  i 2sec"
+  ablityRText: "flyver direkte ind i en fjende og skader 300,s\xF8ger for at fjenderne
+    ikke kan se noget i mappet i 3sec"
+  ablityPassiveText: "hver 4 basic slag s\xF8ger for at den n\xE6ste basicattack
+    dmg skader aoi p\xE5 dem der er t\xE6t p\xE5 hindaen"
+  personlighed: det er shadow bacon
+  Liv: 595
+  BasicattackDamage: 50

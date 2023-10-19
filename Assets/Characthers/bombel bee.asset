@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: bombel bee
+  m_EditorClassIdentifier: 
+  navn: bombel bee
+  charactherBillede: {fileID: 21300000, guid: 57d4f43cd51712147bb8f35e173bc5e8, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder langt med en lang fugleskud der skader 50,hvis den rammer
+    f\xE5r du 50% mere basicattack dmg i 3sec p\xE5 den fjende du rammer"
+  ablityWText: giver dig selv 35% mere attack og mommentspeed i 3sec
+  ablityEText: "hopper lidt v\xE6k fra fjenden og f\xE5r 30% mere skud l\xE6ngte
+    p\xE5 dit basicattack i 3sec,du skader fjenden 50 fordi du starter med at flyve
+    ind i fjenden"
+  ablityRText: "giver dig 200% mere mommentspeed,du kan blive ved med at have ultet
+    oppe indtil du har skudt en og laver aoi dmg omkring dig der skader 140,du har
+    ingen cooldown p\xE5 dit ult"
+  ablityPassiveText: "skader 30% mere p\xE5 den du aggroere"
+  personlighed: "jeg husker det som om at der en anden der ogs\xE5 har det samme
+    navn som mig"
+  Liv: 597
+  BasicattackDamage: 50

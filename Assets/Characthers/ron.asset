@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ron
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ron
+  charactherBillede: {fileID: 21300000, guid: c63ab7d633ec08546a2b35b5e022d728, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "holder bukserne oppe og l\xF8ber 20% hurtigere i 3sec"
+  ablityWText: "f\xE5r 20% mere attackspeed i 3sec"
+  ablityEText: "taber bukserne og f\xE5r fjenderne til at grine som stunder dem der
+    ser det i 2sec"
+  ablityRText: "f\xE5r 100% mere attack og mommentspeed og mere basicattack dmg i
+    6sec"
+  ablityPassiveText: "hvergang du st\xE5r stille tr\xE6kker du bukserne op,f\xE5r
+    du 20 mere basicattack dmg i 3sec"
+  personlighed: jeg taber bukserne heletiden,det mega irriterende faktisk
+  Liv: 630
+  BasicattackDamage: 45

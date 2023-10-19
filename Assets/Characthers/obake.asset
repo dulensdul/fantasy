@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: obake
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: obake
+  charactherBillede: {fileID: 21300000, guid: 554bdde7d0a18984ba2305dcb91ea341, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dig selv 70% mere attackspeed i 3sec
+  ablityWText: "sl\xE5r med dine sindsyge lange ben der giver dig 70% mere dmg i
+    basicattack i 3sec"
+  ablityEText: "sparker h\xE5rdt p\xE5 en fjendechamp der skader 120"
+  ablityRText: "skyder med en k\xE6mpe str\xE5le p\xE5 en fjendechamp der skader
+    500"
+  ablityPassiveText: "f\xE5r 5% mere attackspeed for jo l\xE6nge tid du sl\xE5r en
+    fjende,du sl\xE5r i normal hast igen n\xE5r du ikke er i kamp mere"
+  personlighed: jeg lyder som viego
+  Liv: 662
+  BasicattackDamage: 35

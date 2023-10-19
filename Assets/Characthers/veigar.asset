@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: veigar
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: veigar
+  charactherBillede: {fileID: 21300000, guid: 0d480a0d85a97964abf2d7e0b69a0c8c, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder meget langt lige ud med din snebolt der skader 95
+  ablityWText: skyder med en lillaspell ring der skader 85 aoidmg
+  ablityEText: "laver en stor ring hvor du stunder fjenden i 3sec hvis fjenden l\xF8ber
+    ind i muren"
+  ablityRText: "skyder med en stor shadowbolt der skader 200,skader 400 n\xE5r de
+    har mistet mange liv i forevejen,og den f\xF8lger efter en ligesom darthjacobs
+    q"
+  ablityPassiveText: "f\xE5r 1 abilitypower mere af at ramme fjendechamps,f\xE5r
+    1 abilitypoer af minionkill,og de abilitypower du har samlet p\xE5 din passiv
+    har du permanent"
+  personlighed: jeg er lille stop med at grine
+  Liv: 585
+  BasicattackDamage: 30

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: blackhand
+  m_EditorClassIdentifier: 
+  navn: blackhand
+  charactherBillede: {fileID: 21300000, guid: a8e8e1cc6aa6b424a9288464a7dff381, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "kaster med din \xF8kse mod en fjende og skader 95"
+  ablityWText: "charger ind i en fjende der er lidt langt v\xE6k og skader 95"
+  ablityEText: "charger ind i en fjende der er t\xE6t p\xE5 dig og skader 95"
+  ablityRText: giver dig selv 500 mere maxliv i 6sec
+  ablityPassiveText: "skaber 2 orcer vagter der k\xE6mper med dig,en vagt har 200liv
+    og 35dmg,f\xF8rst hver 30 seckundt spawner der 2 vagter"
+  personlighed: du vil aldrig blive en slange,men du vil have hotdog
+  Liv: 682
+  BasicattackDamage: 45

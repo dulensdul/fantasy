@@ -23,7 +23,8 @@ MonoBehaviour:
   ablityWText: hopper ind i en fjende og skader fjenden 80,stunder fjenden i 1sec
   ablityEText: "skyder med en af dine gr\xF8nne sten og skader 110"
   ablityRText: "tilkalder 4 komfumestre som k\xE6mper sammen med dig,en af dem skader
-    80 og de skader allesammen det samme,det er 4 du tilkalder"
+    80 og de skader allesammen det samme,det er 4 du tilkalder,de forsvinder igen
+    ved 4sec"
   ablityPassiveText: "f\xE5r 10 mere basicattack dmg for hver champ kill du f\xE5r,og
     det er permenent dmg du f\xE5r"
   personlighed: jeg er lidt af en kopi af guldan,men istedenfor en orc er jeg en

@@ -24,10 +24,9 @@ MonoBehaviour:
   ablityEText: "hans h\xF8jre h\xE5nd bliver st\xE6rker og skader 90"
   ablityRText: "bonbon bliver sindsyg og forlader din h\xE5nd og begynder at smadre
     l\xF8s p\xE5 alt der skader 40 i hurtigt tempo,men bliver bange n\xE5r den er
-    ved at d\xF8 og l\xF8ber tilbage til dig igen,den har 200 liv"
+    ved at d\xF8 og l\xF8ber tilbage til dig igen,den har 500 liv"
   ablityPassiveText: "hvis de dr\xE6ber bonbon helt f\xE5r du 20% dmg og mommentspeed
     indtil du selv d\xF8r"
-  personlighed: "funtime freddy er meget m\xE6rkelig,han elsker at smadre bonbon,de
-    fleste ser ham som enten lidt sindsyg eller som en s\xE6rling"
+  personlighed: this is a fe fnaf show
   Liv: 680
   BasicattackDamage: 50

@@ -19,11 +19,11 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 'skyder med en arcaneblast '
-  ablityWText: "skyder med en str\xE5le p\xE5 fjenden der skader 50,og g\xF8re fjenden
+  ablityQText: skyder med en arcaneblast der skader 120
+  ablityWText: "skyder med en str\xE5le p\xE5 fjenden der skader 90,og g\xF8re fjenden
     40%langsommer"
   ablityEText: "skram dine fjender v\xE6k fra dig i 2sec"
-  ablityRText: skyder med en shadowsell der skader 200,og silcenser fjenden i 2sec
+  ablityRText: skyder med en shadowsell der skader 270,og silcenser fjenden i 2sec
   ablityPassiveText: "forbobler hans spell power p\xE5 10% i tilf\xE6ldigheder,og
     har det i 2sec"
   personlighed: "s\xE5 utrolig sv\xE6r at lave"

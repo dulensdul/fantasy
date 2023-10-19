@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: killer moth
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: killer moth
+  charactherBillede: {fileID: 21300000, guid: dd6ba18e8601b5c458346af32696515c, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skaber 3 minions der har den samme styrke som de normale sl\xE5 m\xE6nd"
+  ablityWText: flyver hvor du har 50% mommentspeed i 3sec
+  ablityEText: laver larver minions der skader 50 og har 100 liv
+  ablityRText: "skaber en k\xE6mpe m\xF8l der har 500 liv og skader 300"
+  ablityPassiveText: "skaber en m\xF8l minnion n\xE5r du f\xE5r et kill fra minnionen"
+  personlighed: jeg kan godt lide at flyve mod lyset
+  Liv: 610
+  BasicattackDamage: 48

@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: cinderblock
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: cinderblock
+  charactherBillede: {fileID: 21300000, guid: 745f5ff98259897429c330fc99edc372, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: kaster med en sten og skader 100
+  ablityWText: "sl\xE5r ned i jorden hvor der kommer en revne ned i jorden,hvis fjenderne
+    bliver ramt bliver de skadet 80,rootet i 2sec"
+  ablityEText: "sl\xE5r en fjende langt v\xE6k og skader 100"
+  ablityRText: "sl\xE5r en ned i jorden og skader 400,stunder fjenden i 2sec"
+  ablityPassiveText: "for hvergang du sl\xE5r 3 slag med basicattack p\xE5 en fjendechamp
+    eller en junglemonster i tr\xE6k,kommer der en ring omkirng dig der skader 4
+    i seckundtet,ringen forsvinder f\xF8rst n\xE5r du ikke har sl\xE5et fjenden i
+    noget tid"
+  personlighed: "jeg er en sten med den ekstra ben,pumbaa er bare s\xE5 grim"
+  Liv: 740
+  BasicattackDamage: 60

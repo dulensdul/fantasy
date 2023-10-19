@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: olaf
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: olaf
+  charactherBillede: {fileID: 21300000, guid: a03236235f00028448804cf10debd3ba, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en \xF8kse p\xE5 fjenden der skader 70,du \xF8del\xE6gger
+    ogs\xE5 30% af fjendens armor i 3sec,hvis du misser kan du samle din \xF8kse
+    op igen hvor dit cooldown forsviner igen fra dit q"
+  ablityWText: "giver dig selv 35% mere attackspeed og tager 20% mindre dmg og f\xE5r
+    50 beskyttelse i 3sec"
+  ablityEText: "sl\xE5r h\xE5rdt ned p\xE5 fjenden der skader 95"
+  ablityRText: giver dig selv 50% mere mommentspeed armor og magicreset og du er
+    immun overfor controls slow stun og root i 6sec
+  ablityPassiveText: "giver dig 10% mere attackspeed og lifesteal n\xE5r du har f\xE5et
+    lov til at sl\xE5 p\xE5 fjenden i langtid"
+  personlighed: "jeg br\xF8ler waaaaaa"
+  Liv: 662
+  BasicattackDamage: 50

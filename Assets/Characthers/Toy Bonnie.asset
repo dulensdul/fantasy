@@ -20,17 +20,15 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: skaber en levene robotmund minion der skader fjenden 30 for hvergang
-    den bider ham/hinde,minnionen har 50 liv
-  ablityWText: "bygger skyde totems der skader 50 og har 120liv og er der indtil
+    den bider ham/hinde,minnionen har 200 liv
+  ablityWText: "bygger skyde totems der skader 100 og har 200liv og er der indtil
     de d\xF8r eller l\xF8ber ud om 8sec,den du skader g\xE5r de efter hvis de er
     t\xE6t p\xE5 nok"
-  ablityEText: skyder med en laser gun der skader 70 og stunder i 1sec
+  ablityEText: skyder med en laser gun der skader 105 og stunder i 1sec
   ablityRText: "bygger en k\xE6mpe skydetotem der skader 200 og har 700liv,den d\xF8r
     af at miste alle livne eller hvis den har st\xE5et der i 4sec"
   ablityPassiveText: "f\xE5r 10 guld for hvergang dine t\xE5rne bliver dr\xE6bt af
     en champ"
-  personlighed: "toybonnie elsker sit job om at hj\xE6lpe robotter der er i n\xF8d
-    men hans metoder p\xE5 det er lidt sindsyge,han er mega klog,arbejder for darthjacob
-    og f\xE5r mange penge af det hver m\xE5ned"
+  personlighed: det ser vist ud til at nogen skal repereres
   Liv: 660
   BasicattackDamage: 45

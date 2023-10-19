@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: glithtrap
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: glitchtrap
+  charactherBillede: {fileID: 21300000, guid: a7adb339f3504514eab6978fedb25372, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en bl\xE5 str\xF8m magi der skader 100,g\xF8re fjenden
+    30% langsommer i 2sec"
+  ablityWText: skyder med en bumbegun der skader 120
+  ablityEText: laver dig et skjold hvor du er immun overfor allle slags dmg i 2sec
+  ablityRText: skyder med ekplosions pile der skader 400
+  ablityPassiveText: "hver 20 sec f\xE5r du 10% dmg i 3sec"
+  personlighed: se jeg tabte begrund af dig vanny
+  Liv: 656
+  BasicattackDamage: 50

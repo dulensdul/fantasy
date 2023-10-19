@@ -19,7 +19,7 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: skyder med en lille flamme der skader 50 i seckundtet
+  ablityQText: skyder med en lille flamme der skader 50 i seckundtet i 2sec
   ablityWText: "hopper og lander p\xE5 en og skader 90"
   ablityEText: "river en med din kl\xF8r og skader 80"
   ablityRText: "skyder med en flamme\xE5nde der skader 230,og du hopper up og kan

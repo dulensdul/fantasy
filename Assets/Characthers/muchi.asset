@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: muchi
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: muchi
+  charactherBillede: {fileID: 21300000, guid: a2ed46c666cc3c8468a5e7ddd624bb40, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: bider en fjende og skader 90
+  ablityWText: "hopper p\xE5 en og stunder fjenden i 2sec"
+  ablityEText: "g\xF8re t\xE6t p\xE5 en og skader 100,stunder fjenden i 1sec"
+  ablityRText: "g\xF8r s\xE5 h\xF8jt at fjenderne der er lidt t\xE6t p\xE5 bliver
+    stundet i 3sec"
+  ablityPassiveText: "f\xE5r 40% mere healing for hvergang din vennechamps healer
+    dig"
+  personlighed: jeg grofter ret meget,grrrrrrrrroooooft
+  Liv: 720
+  BasicattackDamage: 50

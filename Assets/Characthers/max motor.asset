@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: max motor
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: maxmotor
+  charactherBillede: {fileID: 21300000, guid: c2dbbc06026869e4aa483007ac51e308, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: kaster med en bumbe og skader 120
+  ablityWText: flyver ind i en og skader 90,stunder fjenden i 1sec
+  ablityEText: "bliver klog i 3sec,s\xF8ger for at dit q kan ramme uanset hvad i
+    den tid der bliv n\xE6vnt tidligere"
+  ablityRText: "skbaer et fly der styrter direkte ind i den nermeste fjende og skader
+    300 p\xE5 dem der bliver ramt af explosionen"
+  ablityPassiveText: "hvergang en fjende har sl\xE5et dig 5 gange i tr\xE6k bliver
+    fjenden skadet 50"
+  personlighed: oh maner oh maner oh maner rab
+  Liv: 620
+  BasicattackDamage: 45

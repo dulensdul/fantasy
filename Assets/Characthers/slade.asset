@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: slade
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: slade
+  charactherBillede: {fileID: 21300000, guid: 4e7988a2047e5cb438ba8d4173a27f67, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: giver dg 40% mere attackspeed i 3sec
+  ablityWText: skyder med en sniper og skader 120
+  ablityEText: "skupper en minion,hvis du rammer en fjende champ,bliver fjenden skadet
+    30,bliver 30% langsommer og fjenden f\xE5r ogs\xE5 20% mindre armor i 2sec"
+  ablityRText: "dr\xE6ber en fjende champ p\xE5 et slag n\xE5r de har 20% liv tilbage"
+  ablityPassiveText: "du f\xE5r 10 mere dmg i dit basicattack permanent for hvert
+    champ kill du f\xE5r"
+  personlighed: "tag ikke alting personligt,det bare skr\xE6ld at g\xF8re"
+  Liv: 660
+  BasicattackDamage: 60

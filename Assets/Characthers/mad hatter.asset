@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: mad hatter
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: madhatter
+  charactherBillede: {fileID: 21300000, guid: 5c124e34484897446a7b51d5163bc54e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en pistol og skader 95
+  ablityWText: kontrollere en fjende champ i 2sec
+  ablityEText: "hopper h\xF8jt og dodger alt"
+  ablityRText: "bliver gal og sl\xE5r h\xE5rdt med en k\xE6mpe \xF8kse der skader
+    340"
+  ablityPassiveText: hver 3 skud skyder du med kort der skader 60
+  personlighed: jeg kan grine som fedtmule
+  Liv: 600
+  BasicattackDamage: 45

@@ -19,7 +19,7 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: chafer ind i en fjende og skader 50,stunder fjenden i 2sec
+  ablityQText: chafer ind i en fjende og skader 90,stunder fjenden i 2sec
   ablityWText: "br\xF8ler og g\xF8re dem rundt om dig 50% langsommer"
   ablityEText: "skader 90 p\xE5 fjenden og healer dig 10% liv"
   ablityRText: laver whilolind der skader 170 i secundtet i 6sec,imens du bruger

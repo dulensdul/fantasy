@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: khazix
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: khazix
+  charactherBillede: {fileID: 21300000, guid: 3acf4bda881db164fa873793e37dfe6e, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "hopper p\xE5 en og skader 100"
+  ablityWText: "sl\xE5r med kl\xF8rne og skader 110"
+  ablityEText: skyder med pikke og skader 95,og healer dig 50 liv
+  ablityRText: "g\xF8re sig stealh i 7 sec"
+  ablityPassiveText: "skader 10% mere p\xE5 dem der er isloreret for de andre"
+  personlighed: det er hapse hapse
+  Liv: 624
+  BasicattackDamage: 50

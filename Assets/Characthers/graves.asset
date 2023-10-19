@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: graves
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: graves
+  charactherBillede: {fileID: 21300000, guid: 7491410051525414ea85c941c8b86694, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med et skud der skader 80,hvis de bliver ramt af explosionen,bliver
+    de ogs\xE5 skadet 50"
+  ablityWText: skyder med en smoke granat der skader fjenden 80,fjenden kan ikke
+    se noget i 2sec
+  ablityEText: "skader 25% mere p\xE5 dem der har armor i 2sec"
+  ablityRText: skyder med en explosiv skud der skader 400
+  ablityPassiveText: det 4 basicattack dmg vil fjerne noget af fjendechampionens
+    armor i 2sec
+  personlighed: det er en ost,og det lugter af prut
+  Liv: 612
+  BasicattackDamage: 50

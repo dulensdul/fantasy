@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: sino
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: sino
+  charactherBillede: {fileID: 21300000, guid: f89097efe5d205947be57e0fc27d80b8, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en bl\xE5 str\xE5lespell der skader 120"
+  ablityWText: giver dig selv eller din vennechamp 100 beskyttelse
+  ablityEText: skaber en tulpa minion der har 200liv og 90 dmg
+  ablityRText: "laver ud\xF8deligheds skjold til alle dine venner som er ilive i
+    4sec"
+  ablityPassiveText: "skader 10% mere p\xE5 dem der ikke har sk\xE6g"
+  personlighed: "det altid den passive angreb der er sv\xE6rest at finde p\xE5"
+  Liv: 622
+  BasicattackDamage: 50

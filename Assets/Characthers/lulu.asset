@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: lulu
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: lulu
+  charactherBillede: {fileID: 21300000, guid: 06709555f8e67984da79de24c7c012de, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en lillakugle der skader 70,g\xF8re fjenden 20% langsommer
+    i 2sec"
+  ablityWText: "giver din vennechamp 30% mere attackspeed i 3sec,hvis du bruger den
+    p\xE5 en fjenden skader det fjenden 50,polymorpher fjenden i 2sec"
+  ablityEText: "giver din vennechamp 70 besktyttelse,hvis du bruger den p\xE5 en
+    fjende skader det 60,blinder fjenden i 2sec"
+  ablityRText: giver din vennechamp 500 mere maxliv i 5sec
+  ablityPassiveText: nogen gange kommer der 2 skud ud af dit basicattack
+  personlighed: "brug et b\xE6lte s\xE5 du ikke taber dine bukser luuuuu"
+  Liv: 585
+  BasicattackDamage: 25

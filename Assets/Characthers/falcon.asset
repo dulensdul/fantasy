@@ -12,18 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: falcon
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: falcon
+  charactherBillede: {fileID: 21300000, guid: 389bde9ecc236ce4da6444127a7d0a1b, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r en ned og skader 100,stunder fjenden i 1sec"
+  ablityWText: "parere et slag tilbage som skal til at komme imod dig,s\xE5 de skader
+    dem selv"
+  ablityEText: "kaster en langt v\xE6k og skader 100"
+  ablityRText: "dr\xE6ber en fjendechamp p\xE5 et slag der kun har halvdelen af livet
+    tilbage"
+  ablityPassiveText: "skader mere og mere jo l\xE6nger tid der en der lader sig sl\xE5
+    dem,det din basicattack der bliver st\xE6rker af det"
+  personlighed: "jeg vil ikke blive holdt fra nar,s\xE5 derfor skal du kastes ned
+    fra et h\xF8jhus"
+  Liv: 730
+  BasicattackDamage: 60

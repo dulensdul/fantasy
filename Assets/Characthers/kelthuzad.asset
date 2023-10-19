@@ -19,12 +19,12 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: "skyder med en frostbolt der skader 90,g\xF8re fjenden 30% langsommer
+  ablityQText: "skyder med en frostbolt der skader 108,g\xF8re fjenden 30% langsommer
     i 2sec"
   ablityWText: "skyder med istapper fra himlen,skader 80 i seckundtet i 2sec,g\xF8re
     fjenden 20% langsommer i 2sec"
   ablityEText: "skyder med en k\xE6de hvor du tr\xE6kker fjenden en smule t\xE6tter
-    p\xE5,skader 30"
+    p\xE5,skader 70"
   ablityRText: "skyder med en stor frost ring der skader 200,hvergang du rammer en
     champion skyder den efter en fjende champ igen og fors\xE6tter indtil den ikke
     rammer en mere"

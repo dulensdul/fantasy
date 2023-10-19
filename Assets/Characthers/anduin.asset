@@ -22,7 +22,7 @@ MonoBehaviour:
   ablityQText: "skyder med en stor healingstr\xE5le der flyver langt lige ud,hvis
     den rammer dine venner bliver de healet 85 liv"
   ablityWText: kan give endten dig eller en af dine venner et skjold der tager skaden
-    istedenfor deres liv,giver 50 beskyttelse
+    istedenfor deres liv,giver 100 beskyttelse
   ablityEText: skyder en rund ring lige ud der hvor du kigger,hvis den rammer skader
     det fjenden 30liv og stunder fjenden 1sec
   ablityRText: "laver en k\xE6mpe ud\xF8delighedsskjold hvor alle dem der er inde
@@ -30,8 +30,6 @@ MonoBehaviour:
     dig imens du har ultet oppe,fjenderne kan ikke g\xE5 ind i skjoldet"
   ablityPassiveText: "giver 30 dmg p\xE5 en fjende champ hvis du har skudt 3 bacsis
     attack p\xE5 fjenden 3 gange lige efter hindaen"
-  personlighed: "anduin kan godt lide n\xE5r der er lys,nogen synes at han ligner
-    meget prins charming,han er en af de bedste konger man vil kunne f\xE5 i fantasy
-    planeten"
+  personlighed: stay as one,for the aliance
   Liv: 580
   BasicattackDamage: 25

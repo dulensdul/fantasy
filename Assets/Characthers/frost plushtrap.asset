@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: frost plushtrap
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: frost plushtrap
+  charactherBillede: {fileID: 21300000, guid: 0d13cd0f8a481f4459a66f90abe48c61, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en frostkugle der skyder meget langt der skader 100,g\xF8re
+    fjenden 30% langsommer i 2sec"
+  ablityWText: "skyder med en str\xF8mkugle der skader 95 aoi dmg,g\xF8re fjenderne
+    30% langsommer i 2sec"
+  ablityEText: skyder med en shocking orb der skader 95,stunder fjendechampionen
+    i 2sec
+  ablityRText: "skyder med k\xE6mpe frost meteor fra himlen,et skud skader 200 og
+    dus kyder 7 gange i tr\xE6k,du kan skyder over alt i mappet"
+  ablityPassiveText: "n\xE5r du rammer en fjendechamp med din basicattack f\xE5r
+    du 25% mere mana"
+  personlighed: jeg skal overtage hele fnaf kingdom
+  Liv: 585
+  BasicattackDamage: 45

@@ -21,11 +21,11 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "sl\xE5r h\xE5rdt med din hammer og skader 120"
   ablityWText: "sl\xE5r h\xE5rdt ned jorden der rammer lige ud lidt langtv\xE6k og
-    skader 120"
+    skader 100"
   ablityEText: skyder med is tapper der skader 100
   ablityRText: "skyder med k\xE6mpesten og skader 300,stunder fjenden i 3sec"
   ablityPassiveText: "laver en d\xF8d fjende minion om til en venne zombie minion
     istedenfor,din passiv har 10sec cooldown"
   personlighed: what sylvanas er bare broken
-  Liv: 800
-  BasicattackDamage: 60
+  Liv: 600
+  BasicattackDamage: 50

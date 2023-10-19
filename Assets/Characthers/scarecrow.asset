@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: scarecrow
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: scarrecrow
+  charactherBillede: {fileID: 21300000, guid: 9df8362ef69dfd4458383b2210d2ce63, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: svinger med en le og skader 95 aoi dmg,fear fjenderne i 1sec
+  ablityWText: fear en fjende i 2sec
+  ablityEText: "skyder med en sort spellsttr\xE5le der skader 110"
+  ablityRText: "skaber flagermuse omkring dig der skader fjender 100 i seckundtet
+    der er i n\xE6rheden af dig og healer dig selv 100 i seckundtet i 4sec"
+  ablityPassiveText: fear en fjende hver 4 slag i 2sec
+  personlighed: "jeg vil skramme dig s\xE5 meget at du tisser i bukserne"
+  Liv: 600
+  BasicattackDamage: 45

@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jinxy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jinxy
+  charactherBillede: {fileID: 21300000, guid: d84e230748254c741a3ed5f0a8fe8176, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en shadowbolt der skader 120
+  ablityWText: "s\xF8ger for at fjenden bliver uheldig,2sec"
+  ablityEText: "skaber en kat der k\xE6mper med dig,katten har 100 liv og 50 dmg"
+  ablityRText: "stj\xE6ler fjendechampioens ult,hvor din fjende bare f\xE5r cooldown
+    p\xE5 den"
+  ablityPassiveText: "din passiv kopiere bare den andes passiv,den du er i n\xE6rheden
+    af"
+  personlighed: i snyder helt vildt
+  Liv: 622
+  BasicattackDamage: 50

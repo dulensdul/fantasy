@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: nightmare bb
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: nightmare bb
+  charactherBillede: {fileID: 21300000, guid: 1da00d5e04f837d458a52742d2cae53d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r 100% hurtigere med din basicattack i 3sec"
+  ablityWText: "laver en ring hvor du ikke kan tage skade,hvis fjenden g\xE5r i din
+    ring er det kun dig der kan skade,ringen er der i 2sec"
+  ablityEText: charger lidt og giver dig 50% mere attackspeed i 3sec
+  ablityRText: "skyder med mange knive p\xE5 en gang hvor en skader 100,fjenden f\xE5r
+    100 dmg mere for jo flere rammer"
+  ablityPassiveText: "dit n\xE6ste basictaack skader mere i magic basicattack dmg"
+  personlighed: du faldte helevejen ned AHOHOHOHOH
+  Liv: 600
+  BasicattackDamage: 48

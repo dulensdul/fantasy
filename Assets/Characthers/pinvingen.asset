@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: pinvingen
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: pinvingen
+  charactherBillede: {fileID: 21300000, guid: 3f222738253648a4b861cf9a22f66d58, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r med din paraply og skader 70"
+  ablityWText: skyder med din paraply og skader 95
+  ablityEText: "skaber bumbe \xE6nder,hvis de rammer bliver fjenden skadet 120"
+  ablityRText: "skyder l\xF8s med din paraply og skader 120 i seckundtet i 4sec"
+  ablityPassiveText: "hvergang de mennesklige champ ser dig bliver de skadet 30,der
+    skal g\xE5r 20sec for hvergang det kan ske igen"
+  personlighed: jeg ligner ingengang en pinving,jeg er bare ond og grim
+  Liv: 610
+  BasicattackDamage: 40

@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: zod
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: zod
+  charactherBillede: {fileID: 21300000, guid: 2e34049916886f947a3b4c5d09acb125, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r vildt h\xE5rdt der skader 120,stunder fjenden i 2sec"
+  ablityWText: flyver i luften og parrere alt i 2sec
+  ablityEText: fjerner bare skyd der skal til at komme imod dig
+  ablityRText: "laver en stor portal der skaber en h\xE6r af minions i alle lands
+    i 4sec"
+  ablityPassiveText: "skader 10% mere p\xE5 superhelte"
+  personlighed: selv superman ved at jeg er en natur kraft,kun en anden naturkraft
+    kan besejere mig
+  Liv: 780
+  BasicattackDamage: 70

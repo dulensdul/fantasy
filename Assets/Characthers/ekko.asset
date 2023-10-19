@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: ekko
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: ekko
+  charactherBillede: {fileID: 21300000, guid: 349c65297904d9c4692044211067d95d, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder en enegy kugle der skader 100
+  ablityWText: skyder med en stor ring der skader 95 magic dmg,stunder fjenden i
+    2sec
+  ablityEText: "dodger fjendens n\xE6ste basicattack eller ability,bagefter teleportere
+    du til den fjende du klikker p\xE5"
+  ablityRText: "laver 2 af dig selv,den er der i 8sec,hvis du n\xE5r at f\xE5 den
+    r\xF8de version af dig ind i en fjende skader det 400"
+  ablityPassiveText: hver 3 basicattack slag skader 40 magicdmg ekstra
+  personlighed: "kan du h\xF8re det,det er ekko"
+  Liv: 600
+  BasicattackDamage: 50

@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: purple guy
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: purpleguy
+  charactherBillede: {fileID: 21300000, guid: 465d001428c7ecb4694c6116dd3ba942, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: stikker en ned med en kniv og skader 90
+  ablityWText: "skaber et sp\xF8gelses hoved hvor du kan f\xE5 den i buske og se
+    de steder"
+  ablityEText: "sl\xE5r med en \xF8kse og skader 100"
+  ablityRText: "skader 50% mere p\xE5 dem der har halvdelen af livet tilbage og 5sec"
+  ablityPassiveText: "skader 40% mere p\xE5 robotter"
+  personlighed: "jeg vil bare dr\xE6be alle freddysne"
+  Liv: 625
+  BasicattackDamage: 50

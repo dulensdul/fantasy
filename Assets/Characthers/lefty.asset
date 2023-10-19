@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: lefty
+  m_EditorClassIdentifier: 
+  navn: lefty
+  charactherBillede: {fileID: 21300000, guid: 6a07e30f7ddb457409a3dc95e886ff91, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: skyder med en shadowbolt der skader 95,stunder fjenden i 2sec
+  ablityWText: giver dig selv 30% attackspeed og basicattack dmg i 3sec
+  ablityEText: "skyder med en skygge ring der spr\xE6der sig i lidt l\xE6ngte der
+    skader 100,g\xF8re fjenderne 30% langsommer i 2sec"
+  ablityRText: "teleportere dig ind i en fjende der er lidt t\xE6t p\xE5 dig og skader
+    100,du kan blive ved med at bruge den,ingen cooldown p\xE5 dit ult"
+  ablityPassiveText: du tager 10% mindre spell dmg permanent
+  personlighed: "shhhhhh,i m\xE5 ikke sige noget"
+  Liv: 656
+  BasicattackDamage: 50

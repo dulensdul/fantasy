@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: tails
+  m_EditorClassIdentifier: 
+  navn: tails
+  charactherBillede: {fileID: 21300000, guid: d18e61a890fb4f54281197e94618581e, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "snore dig rundt hvor alle de fjender der er t\xE6t p\xE5 dig bliver
+    skadet 95"
+  ablityWText: "slyder med en gift der rammer langt lige ud og skader 95,hvis du
+    rammer en fjende kan du klikke p\xE5 dit w igen,og teleportere dig hen til den
+    fjende du ramte og skader 80"
+  ablityEText: teleportere dig hvor du endten kan teleportere dig meget langt eller
+    kun lidt langt,hvis du teleportere ind i fjenderne bliver fjenderne der er ramt
+    skadet 95
+  ablityRText: "n\xE5r du bruger en af dine abilitys,bliver dit ult til den ability
+    du brugte,n\xE5r du har brugt ultet har den kun 18sec cooldown,og n\xE5r der
+    ikke er mere cooldown,kan du fors\xE6tte med at v\xE6lge hvad dit ult skal v\xE6re
+    ligesom igen"
+  ablityPassiveText: "du kan klikke p\xE5 dit passiv hvor du kan teleportere dig
+    ret langt i en fjende og skader 95"
+  personlighed: "jeg ved godt at jeg er s\xE5 klog ha "
+  Liv: 600
+  BasicattackDamage: 50

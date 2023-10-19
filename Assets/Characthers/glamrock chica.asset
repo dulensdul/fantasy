@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: glamrock chica
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: glamrock chica
+  charactherBillede: {fileID: 21300000, guid: 2fe79ee5398bd0940aaa248bc96be8a8, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "tr\xE6kker en fjende lidt v\xE6k fra dig og skader 70"
+  ablityWText: giver din vennechamp 25% mere dmg i 2sec
+  ablityEText: "giver din vennechamp 80 beskyttelse og skader en fjende champ 50,g\xF8re
+    en fjende 10% langsommer i 2sec"
+  ablityRText: "f\xE5r fjende championsne til at angribe hideanen i 4sec"
+  ablityPassiveText: giver din vennechamp 10% mere dmg hver 3 basic attack skud
+  personlighed: jeg kan lugte pizza
+  Liv: 680
+  BasicattackDamage: 50

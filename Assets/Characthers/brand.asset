@@ -12,18 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: brand
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: brand
+  charactherBillede: {fileID: 21300000, guid: fba6a16dcbe265349a5fd03eb3bcee95, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med en firebolt der skader 95,hvis fjenden br\xE6nder bliver
+    fjenden stundet i 1.5sec"
+  ablityWText: "skyder med en flamme ring der skader 70,fjenderne f\xE5r ogs\xE5
+    en deffus i 3sec,hvor dig og dine venner skader 25% mere p\xE5 dem i de 3sec"
+  ablityEText: "skyder med en ildkugle der skader 75,hvis den fjende du har skudt
+    p\xE5 er t\xE6t p\xE5 sine venner bliver de ogs\xE5 ramt"
+  ablityRText: "skyder med en k\xE6mpe firebolt der skader 200,hvis fjenden st\xE5r
+    t\xE6t p\xE5 sine venner bliver de ogs\xE5 skadet 200"
+  ablityPassiveText: "hver 3 basicattackskud skader ogs\xE5 dem din fjende er t\xE6t
+    p\xE5"
+  personlighed: jeg efterligner lidt kaelthas
+  Liv: 595
+  BasicattackDamage: 35

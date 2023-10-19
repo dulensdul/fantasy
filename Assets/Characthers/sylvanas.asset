@@ -20,7 +20,7 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: skyder med en poision pil der skader 30 i 3sec
-  ablityWText: skyder med en pil der stunder fjenden og skader 70
+  ablityWText: skyder med en pil der stunder fjenden i 2sec, og skader 70
   ablityEText: "skyder med et sp\xF8gelses hoved hvor den teleportere dig frem af,hvis
     hovedt n\xE5r at ramme en fjende skader det fjenden 60"
   ablityRText: skyder med en pil der flyver hurtigt mod en fjende,hvis den rammer

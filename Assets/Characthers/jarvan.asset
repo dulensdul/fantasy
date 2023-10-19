@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jarvan
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jarvan
+  charactherBillede: {fileID: 21300000, guid: b139cdda7dc4cdc45ad45d9ccd6814d4, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: kaster med en spyd der skyder lige ud i hurtig hast og skader 110
+  ablityWText: giver dig selv 30% attackspeed i 3sec
+  ablityEText: chager lidt og skader den du rammer 95
+  ablityRText: springer langt og laver en rund ring og skader 190,hvis du har fanget
+    en fjende med den,kan de ikke komme ud i 5sec
+  ablityPassiveText: "f\xE5r 10% mere guld fra minnions og jungle monstre n\xE5r
+    du dr\xE6ber dem med en af dine abilitys"
+  personlighed: "der lugter lidt af b\xE6"
+  Liv: 682
+  BasicattackDamage: 50

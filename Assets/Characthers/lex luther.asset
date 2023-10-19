@@ -20,10 +20,10 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: skyder med en laster gun der skader 120
-  ablityWText: dodger alt
-  ablityEText: "skyder med en frysestr\xE5le der skader 50,og stunder fjenden 1sec"
+  ablityWText: dodger alt i 3sec
+  ablityEText: "skyder med en frysestr\xE5le der skader 108,og stunder fjenden 1sec"
   ablityRText: "laver dig om til en k\xE6mperobot og skyder med en kryptonit v\xE5ben
-    der skader 200,skader 400 p\xE5 superman og supergirl"
+    der skader 350,skader 450 p\xE5 superman og supergirl"
   ablityPassiveText: "f\xE5r mindre cooldown p\xE5 dit ult for hvert en minion kill
     du f\xE5r"
   personlighed: "han danser vildt m\xE6rkligt"

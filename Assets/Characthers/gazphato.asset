@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: gazphato
+  m_EditorClassIdentifier: 
+  navn: gazphato
+  charactherBillede: {fileID: 21300000, guid: f142a21c7e9d0ea4189792b8ec11b5d6, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: charger ind i en fjende og skader 95,stunder fjenden i 2sec
+  ablityWText: skyder med ild der skyder langt og spreder sig i flere steder der
+    skader 80aoi dmg,og healer dig 50liv
+  ablityEText: tager fat i en fjendechamp og tag ham bagved dig og skader 95
+  ablityRText: "skyder med en ild\xE5nde som skader 110 i seckundtet i 4sec,skyder
+    ret langt lige ud,og du kan ikke stundes imens du har ultet oppe"
+  ablityPassiveText: "du f\xE5r en krystal der giver dig 1% mere liv n\xE5r du dr\xE6ber
+    en minion,en fjendechamp kill vil give dig 25 krystaler,hvis du n\xE5r at f\xE5
+    op til 200 krystaler kommer du til at have 200% mere maxliv permanent,du mister
+    dem alle igen hvis du d\xF8r der hvor du har under 200 krystaler"
+  personlighed: "jeg er der faktisk ogs\xE5 i gmod,what jeg var s\xE5 tyk i det spil,kom
+    til at skubbe nogen rigtig ofte"
+  Liv: 682
+  BasicattackDamage: 50

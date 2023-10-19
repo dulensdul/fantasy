@@ -19,18 +19,19 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: charger ind i en og stunder en i et sec og skader 60
+  ablityQText: charger ind i en og stunder en i et sec og skader 95
   ablityWText: giver mommentspeed i 2sec som er 30%speed
   ablityEText: "skyder med hotchese som er formet som en rundring og skader dem 60
     somder st\xE5r p\xE5 det og bliver skadet s\xE5 l\xE6nge de st\xE5r p\xE5 det
-    og g\xF8re dem 30% langsommer indtil de er v\xE6k fra osten"
+    og g\xF8re dem 30% langsommer indtil de er v\xE6k fra osten,osten forsvinder
+    ved 3sec"
   ablityRText: "tilkalder sine pirater,de kommer med et skib,skibet har 700 liv og
     du hopper p\xE5 skibetog kan skyde med kanoner der skader 150 men udl\xF8ber
     n\xE5r der er g\xE5t 5sec eller indtil den d\xF8r og du d\xF8r og med i den hvis
     den bliver dr\xE6bt"
   ablityPassiveText: "giver dig mere ability dmg jo flere kills du f\xE5r,asist vil
-    ikke give dig noget ekstra udover guld som man f\xE5r normalt af det"
-  personlighed: "foxy kan v\xE6re stedig,kan nemt blive irriteret og utormodig,elsker
-    sodavand"
-  Liv: 690
+    ikke give dig noget ekstra udover guld som man f\xE5r normalt af det,1 kill giver
+    dig 10 mere ap dmg permenent"
+  personlighed: yaaaarh du har aldrig en chance
+  Liv: 640
   BasicattackDamage: 60

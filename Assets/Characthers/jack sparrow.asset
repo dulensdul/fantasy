@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: jack sparrow
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: jack sparrow
+  charactherBillede: {fileID: 21300000, guid: ad88079953653004c9f03ea1bfa8ee20, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder med et h\xE5rdt skud med din pistol der skader 103,du f\xE5r
+    20 guld ekstra hvis du f\xE5r et minnion kill af den"
+  ablityWText: "kaster med en ekplosiv t\xF8nne der skader 105 aoi dmg"
+  ablityEText: skyder med et kanon skud der skader 120
+  ablityRText: til kalder et skib der skyder fra luften som skader 220 i seckundtet
+    i 6sec
+  ablityPassiveText: hver 4 basicattack skud giver 50 ekstra dmg
+  personlighed: "jeg tog kun 1 time at finde p\xE5"
+  Liv: 585
+  BasicattackDamage: 50

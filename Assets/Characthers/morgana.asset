@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: morgana
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: morgana
+  charactherBillede: {fileID: 21300000, guid: 17f1a5ed1718f344cb1c2c003d93a617, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en shadowkugle og skader 103,rooter fjenden i 2sec
+  ablityWText: laver en ring der skader 20 i seckuntdet, i 3sec
+  ablityEText: "giver en skjold til dig selv eller din vennechamp der giver 100 ap
+    armor,og fjenden bliver ogs\xE5 immun overfor stun root,og for debuffs i 3sec"
+  ablityRText: "skyder med en shadowstr\xE5le der skader 50 i seckundtet i 3sec,hvis
+    du n\xE5r at ramme helt fra bunden af,bliver fjenderne stundet i 2sec"
+  ablityPassiveText: "f\xE5r 10 guld for hvergang du skyder en fjendechamp med en
+    basicattack"
+  personlighed: "det er ret sjovt at v\xE6re irriterende"
+  Liv: 585
+  BasicattackDamage: 30

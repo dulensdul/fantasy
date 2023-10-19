@@ -20,7 +20,7 @@ MonoBehaviour:
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "bruger din pisk til at tr\xE6kke din fjende hen til dig og skader
-    60"
+    90"
   ablityWText: "sl\xE5r 50% hurtiger i 3sec"
   ablityEText: hopper hen til fjenden og skader 80
   ablityRText: "hopper p\xE5 en fjende og skader 400,og stunder fjenden i 3sec"

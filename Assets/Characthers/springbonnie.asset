@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: springbonnie
+  m_EditorClassIdentifier: 
+  navn: springbonnie
+  charactherBillede: {fileID: 21300000, guid: 73afdd0286e63c6479d914823e85a297, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder med din pistol og skader 120,hvis du f\xE5r et kill med den
+    kommer der en skud p\xE5 den n\xE6ste fjende der st\xE5r t\xE6t ved den anden
+    fjende og fors\xE6tter indtil du ikke f\xE5r et kill mere"
+  ablityWText: sskyder med en meget langt skud der skader 108,stunder fjenden i 2sec
+  ablityEText: "laver en f\xE6lder,hvis fjenden l\xF8ber ind i den bliver fjenden
+    30% langsommer i 2sec,fjenden bliver skadet 90 hvis de st\xE5r i den mens den
+    ekplodere"
+  ablityRText: "skyder med en sniper hvor du kan skyde dit skud hvor du vil der hvor
+    du din champ kigger,skader 200 per et skud,du kan indtil der er g\xE5et 4sec,eller
+    hvis du bliver stundet eller trukket "
+  ablityPassiveText: "hver 3 basicattack skyd s\xF8ger for at du rammer uanset hvad
+    med dit n\xE6ste skyd med dit basicattack "
+  personlighed: "jeg er s\xE5 sjov fordi jeg er stor og lille,og jeg har popcorn
+    latter"
+  Liv: 655
+  BasicattackDamage: 55

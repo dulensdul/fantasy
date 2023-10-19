@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: zuljin
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: zuljin
+  charactherBillede: {fileID: 21300000, guid: bc54c98ee0429074cbd4381f7faf4961, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "kaster en \xF8kse p\xE5 der skader 70,du skader ogs\xE5 igennem armor
+    i 2sec"
+  ablityWText: skyder en ring der drejer rundt en gang som skader 95
+  ablityEText: "healer dig selv 100 liv i seckundtet i 3sec,den kan blive afbrudt
+    af stun og hvis en tr\xE6kker dig"
+  ablityRText: "kan ikke d\xF8 i 6sec,du kan stadig miste liv indtil at du er ved
+    at d\xF8"
+  ablityPassiveText: "f\xE5r 30% attackspeed for jo l\xE6nger tid du skyder fjenden"
+  personlighed: "\xE5rrrrrrh jeg cheater"
+  Liv: 600
+  BasicattackDamage: 50

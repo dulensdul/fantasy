@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: hechaos
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: hechaos
+  charactherBillede: {fileID: 21300000, guid: 4a3831cadd2d88848b8c7d768f1e4936, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en ildkugle der skader 120
+  ablityWText: skyder med en firebolt det skader 70,hvis fjenden er i brand vil den
+    stunde fjenden i 2sec
+  ablityEText: "healer dig 50% af dit liv n\xE5r du er ved at d\xF8,healer kun 25%
+    liv normalt"
+  ablityRText: "skaber en k\xE6mpe minion der har 700liv og skader 150,den angriber
+    den du angriber,den er der indtil at den bliver dr\xE6bt"
+  ablityPassiveText: "hvergang der er g\xE5et 20sec,hopper du tilbage"
+  personlighed: hvem vil gerne have laks?det fisk
+  Liv: 610
+  BasicattackDamage: 40

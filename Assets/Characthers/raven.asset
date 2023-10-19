@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: raven
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: raven
+  charactherBillede: {fileID: 21300000, guid: 2196b82ec30720542aaf4250841af185, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en shadowbolt og skader 100
+  ablityWText: teleportere sig langt frem af
+  ablityEText: "laver tintakle arme p\xE5 sig selv og skader fjenden 70 i seckuntet
+    i 3sec"
+  ablityRText: laver et sort hul i jorden hvor fjender der er i nerheden af den bliver
+    skbbet hen til den,hvis de rammer huller bliver de skadet 400,hullet er der er
+    5sec
+  ablityPassiveText: "skader 20% mere p\xE5 demoner "
+  personlighed: jeg er raven datteren af trigon,som er tude grim
+  Liv: 600
+  BasicattackDamage: 45

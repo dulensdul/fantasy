@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: tryndamyre
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: tryndamyre
+  charactherBillede: {fileID: 21300000, guid: 7e78e69aaa48e3a4eaac418286c8bf71, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "hvergang du har 100 rage kan du heale dig selv 50% mere liv,men du
+    mister alt dit rage af at g\xF8re det"
+  ablityWText: "g\xF8re din fjende 50% langsommer i 3sec"
+  ablityEText: charger lidt frem af og skader 95 aoi dmg
+  ablityRText: "g\xF8re dig ud\xF8delig n\xE5r du er ved at d\xF8 i  6sec"
+  ablityPassiveText: "jo mere rage du har jo mere attackspeed f\xE5r du"
+  personlighed: "jeg er dit v\xE6rste marreit"
+  Liv: 662
+  BasicattackDamage: 50

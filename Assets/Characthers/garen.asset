@@ -21,7 +21,7 @@ MonoBehaviour:
   AbilityPassiveBillede: {fileID: 0}
   ablityQText: "f\xE5r 30% mommentspeed,hvis du rammer fjenden skader den 50,og silencer
     ham i 2sec"
-  ablityWText: "f\xE5r et skjold der giver dig 30 beskyttelse mod livdmg"
+  ablityWText: "f\xE5r et skjold der giver dig 70 beskyttelse mod livdmg"
   ablityEText: drejer dig rundt om dig selv i 2sec,og skader 60 liv i secundtet
   ablityRText: skader 200,hvis fjenden har lavt liv skader den 600
   ablityPassiveText: hvis du ikke er blivet skadet i langtid bliver du healet 10

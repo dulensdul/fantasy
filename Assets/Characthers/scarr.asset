@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: scarr
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: scar
+  charactherBillede: {fileID: 21300000, guid: 8481e1bdb21e53942b57d4f0e7cd3835, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "sl\xE5r med dine kl\xF8r og skader 90,stunder fjenden i 1sec"
+  ablityWText: "tr\xE6kker en fjende hen til dig og skader 70"
+  ablityEText: chager llidt frem af,skader 70 hvis du rammer
+  ablityRText: fear en fjende og giver dig selv 500 maxliv mere i 4sec
+  ablityPassiveText: hver 2 slag healer dig 30 liv
+  personlighed: "jeg vil gerne v\xE6re kongen nu simba"
+  Liv: 661
+  BasicattackDamage: 55

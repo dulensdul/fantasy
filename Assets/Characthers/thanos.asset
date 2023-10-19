@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
+  m_Name: thanos
+  m_EditorClassIdentifier: 
+  navn: thanos
+  charactherBillede: {fileID: 21300000, guid: d5bc8a183aaf01e4a93df7383a41ca40, type: 3}
+  AbilityQBillede: {fileID: 0}
+  AbilityWBillede: {fileID: 0}
+  AbilityEBillede: {fileID: 0}
+  AbilityRBillede: {fileID: 0}
+  AbilityPassiveBillede: {fileID: 0}
+  ablityQText: "skyder med en lang laserstr\xE5le der skyder lige ud,skader 120"
+  ablityWText: "kaster med en k\xE6mpe sten lidt langt der skader 120"
+  ablityEText: "l\xF8fter en fjendechamp og sl\xE5r fjenden ned p\xE5 jorden og skader
+    117,stunder fjenden i 1sec"
+  ablityRText: "teleportere dig i det sted du vil i mappet,dine venner bliver teleporteret
+    med hvis de st\xE5r vedsiden af dig"
+  ablityPassiveText: "hvergang du dr\xE6ber en minion bliver du healet 50 liv"
+  personlighed: det er mig thanos
+  Liv: 645
+  BasicattackDamage: 55

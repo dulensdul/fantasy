@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: nergel
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: nergel
+  charactherBillede: {fileID: 21300000, guid: ef6f12647d75fa9418f7fbde3d7c6931, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: "skyder st\xF8d p\xE5 en fjende og skader 110"
+  ablityWText: "g\xF8re en fjende uheldig hvor fjenden f\xE5r mindre guld i 2sec"
+  ablityEText: "sl\xE5r langt med en lang arm du har lavet der skader 111"
+  ablityRText: "laver flere arme p\xE5 dig og tager alle fjendechamps der er i n\xE6rheden
+    af dig og giver dem st\xF8d som skader dem 300,efter det kaster du dem v\xE6k
+    fra dig"
+  ablityPassiveText: "hver 3 slag med din basicattack giver fjenden st\xF8d som stunder
+    fjenden i 1sec"
+  personlighed: "nej det m\xE5 du bare ikke"
+  Liv: 612
+  BasicattackDamage: 50

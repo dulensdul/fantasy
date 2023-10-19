@@ -19,12 +19,12 @@ MonoBehaviour:
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 'pizzawhell,skyder lige ud og skader 60 '
-  ablityWText: bite skader din fjende 80
-  ablityEText: toxicbite skader 30 og skader din fjende 30 i 1sec
+  ablityQText: pizzawhell,skyder lige ud og skader 90 aoidmg
+  ablityWText: bite skader din fjende 90
+  ablityEText: toxicbite skader 60 og skader din fjende 30 i 1sec
   ablityRText: spiser din fjende og kommer ud af dig igen om 3 sec og skader fjenden
-    200
-  ablityPassiveText: healer dig 30 for hver gang du bider en med din q og w
-  personlighed: chica er ret flabed ,elsker pizza,
+    250
+  ablityPassiveText: healer dig 30 for hver gang du bider en med din w og e
+  personlighed: "man f\xE5r helt lyst til pizza"
   Liv: 700
   BasicattackDamage: 50

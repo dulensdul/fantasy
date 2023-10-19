@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd2fe38a700fa04db905a28c445ce07, type: 3}
   m_Name: mandark
   m_EditorClassIdentifier: 
-  navn: 
-  charactherBillede: {fileID: 0}
+  navn: mandark
+  charactherBillede: {fileID: 21300000, guid: 496787308618fab43a584c27eaca969c, type: 3}
   AbilityQBillede: {fileID: 0}
   AbilityWBillede: {fileID: 0}
   AbilityEBillede: {fileID: 0}
   AbilityRBillede: {fileID: 0}
   AbilityPassiveBillede: {fileID: 0}
-  ablityQText: 
-  ablityWText: 
-  ablityEText: 
-  ablityRText: 
-  ablityPassiveText: 
-  personlighed: 
-  Liv: 0
-  BasicattackDamage: 0
+  ablityQText: skyder med en laserpistol og skader 100
+  ablityWText: skyder med en lasergun der skader 115
+  ablityEText: "bygger 3 robot minions der er med til at k\xE6mpe sammen med dig,din
+    cooldown kommer f\xF8rst frem n\xE5r de alle er d\xF8de,og du kan ikke bruge
+    dit e imens de er ilive"
+  ablityRText: "g\xF8re dig selv til en k\xE6mperobot,hvor du har 300 mere maxliv
+    og 100% mere dmg i 6sec"
+  ablityPassiveText: "f\xE5r 10 guld for hvergang du er t\xE6t ved robotter der d\xF8r"
+  personlighed: jeg er bare mega grim wahaha
+  Liv: 590
+  BasicattackDamage: 30
